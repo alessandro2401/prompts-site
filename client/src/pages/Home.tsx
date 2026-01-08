@@ -40,7 +40,9 @@ export default function Home() {
     // Selecionar alguns prompts para destaque (aleatório ou fixo)
     const allPrompts: Prompt[] = [];
     Object.values(data).forEach(cat => {
-      allPrompts.push(...cat.prompts);
+      if (cat && Array.isArray(cat.prompts)) {
+        allPrompts.push(...cat.prompts);
+      }
     });
     
     // Embaralhar e pegar 4
@@ -53,6 +55,7 @@ export default function Home() {
     { id: "otimizacao-estrategia", icon: TrendingUp, color: "text-purple-500", bg: "bg-purple-50 dark:bg-purple-950/30" },
     { id: "vendas-conversao", icon: DollarSign, color: "text-green-500", bg: "bg-green-50 dark:bg-green-950/30" },
     { id: "gestao-produtividade", icon: Clock, color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-950/30" },
+    { id: "mega-prompts", icon: Sparkles, color: "text-indigo-500", bg: "bg-indigo-50 dark:bg-indigo-950/30" },
   ];
 
   return (
