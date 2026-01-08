@@ -19,6 +19,7 @@ interface PromptCardProps {
 
 export default function PromptCard({ prompt, compact = false }: PromptCardProps) {
   const [isFavorite, setIsFavorite] = useState(false);
+  const [isCopied, setIsCopied] = useState(false);
   const { toast } = useToast();
 
   useEffect(() => {
@@ -43,6 +44,20 @@ export default function PromptCard({ prompt, compact = false }: PromptCardProps)
     
     localStorage.setItem("favorites", JSON.stringify(newFavorites));
     setIsFavorite(!isFavorite);
+  };
+
+  const handleCopy = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    if (prompt.conteudo) {
+      navigator.clipboard.writeText(prompt.conteudo);
+      setIsCopied(true);
+      toast({ description: "Prompt copiado para a área de transferência" });
+      setTimeout(() => setIsCopied(false), 2000);
+    } else {
+      toast({ description: "Conteúdo não disponível para cópia rápida" });
+    }
   };
 
   const getCategoryColor = (cat: string) => {
@@ -75,14 +90,26 @@ export default function PromptCard({ prompt, compact = false }: PromptCardProps)
             <Badge variant="secondary" className={`mb-2 ${getCategoryColor(prompt.categoria)}`}>
               {getCategoryName(prompt.categoria)}
             </Badge>
-            <Button
-              variant="ghost"
-              size="icon"
-              className={`h-8 w-8 ${isFavorite ? "text-yellow-500 fill-yellow-500" : "text-muted-foreground hover:text-yellow-500"}`}
-              onClick={toggleFavorite}
-            >
-              <Star className="h-4 w-4" />
-            </Button>
+            <div className="flex gap-1">
+              <Button
+                variant="ghost"
+                size="icon"
+                className="h-8 w-8 text-muted-foreground hover:text-primary"
+                onClick={handleCopy}
+                title="Copiar prompt"
+              >
+                {isCopied ? <Check className="h-4 w-4" /> : <Copy className="h-4 w-4" />}
+              </Button>
+              <Button
+                variant="ghost"
+                size="icon"
+                className={`h-8 w-8 ${isFavorite ? "text-yellow-500 fill-yellow-500" : "text-muted-foreground hover:text-yellow-500"}`}
+                onClick={toggleFavorite}
+                title={isFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos"}
+              >
+                <Star className="h-4 w-4" />
+              </Button>
+            </div>
           </div>
           <CardTitle className="text-lg leading-tight group-hover:text-primary transition-colors line-clamp-2">
             {prompt.titulo}
