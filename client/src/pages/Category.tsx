@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useRoute, Link } from "wouter";
-import { ArrowLeft, Search, Filter } from "lucide-react";
+import { ArrowLeft, Search, Filter, PenTool, TrendingUp, DollarSign, Clock, Sparkles, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import Layout from "@/components/Layout";
@@ -31,6 +31,17 @@ export default function Category() {
   const categoryId = params?.id || "";
   const data = promptsData as unknown as PromptsData;
   const category = data[categoryId];
+
+  const categoryIcons: Record<string, any> = {
+    "criacao-conteudo": PenTool,
+    "otimizacao-estrategia": TrendingUp,
+    "vendas-conversao": DollarSign,
+    "gestao-produtividade": Clock,
+    "mega-prompts": Sparkles,
+    "favoritos": Star
+  };
+
+  const IconComponent = categoryIcons[categoryId] || Sparkles;
   
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredPrompts, setFilteredPrompts] = useState<Prompt[]>([]);
@@ -75,7 +86,9 @@ export default function Category() {
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
           <div>
             <h1 className="text-3xl font-bold flex items-center gap-3">
-              <span className="text-4xl">{category.emoji}</span>
+              <div className="p-2 bg-primary/10 rounded-lg text-primary">
+                <IconComponent className="h-8 w-8" />
+              </div>
               {category.nome}
             </h1>
             <p className="text-muted-foreground mt-2">
