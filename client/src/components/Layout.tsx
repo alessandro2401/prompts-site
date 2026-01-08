@@ -37,8 +37,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               <div className="bg-primary text-primary-foreground p-1.5 rounded-lg">
                 <Sparkles className="h-5 w-5" />
               </div>
-              <span className="hidden sm:inline-block">Prompts para Creators</span>
-              <span className="sm:hidden">Prompts</span>
+              <span className="hidden sm:inline-block">Sugestões de Prompts</span>
+              <span className="sm:hidden">Sugestões</span>
             </Link>
 
             {/* Desktop Nav */}
