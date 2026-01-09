@@ -189,6 +189,30 @@ const tools = [
     descricao: "Brandwatch monitora conversações em redes sociais, analisa sentiment, identifica tendências e fornece insights sobre consumidores e mercado.",
     url: "https://brandwatch.com/",
     tags: ["Listening", "Monitoring", "Intelligence"]
+  },
+  {
+    nome: "Canva",
+    categoria: "Design Gráfico",
+    funcao: "Plataforma de design gráfico gratuita com templates profissionais",
+    descricao: "Canva oferece versão gratuita robusta com milhares de templates, elementos gráficos, e ferramentas de design para criar posts, apresentações, infográficos e mais.",
+    url: "https://canva.com/",
+    tags: ["Design", "Gratuito", "Templates"]
+  },
+  {
+    nome: "Google Analytics",
+    categoria: "Analytics",
+    funcao: "Ferramenta gratuita de análise de tráfego e comportamento web",
+    descricao: "Google Analytics fornece insights detalhados sobre visitantes, comportamento, conversões e performance do site, totalmente gratuito para a maioria dos negócios.",
+    url: "https://analytics.google.com/",
+    tags: ["Analytics", "Gratuito", "Tracking"]
+  },
+  {
+    nome: "Mailchimp",
+    categoria: "Email Marketing",
+    funcao: "Plataforma de email marketing com plano gratuito generoso",
+    descricao: "Mailchimp oferece plano gratuito para até 500 contatos e 1.000 emails/mês, incluindo automações básicas, templates e analytics.",
+    url: "https://mailchimp.com/",
+    tags: ["Email", "Gratuito", "Automação"]
   }
 ];
 
