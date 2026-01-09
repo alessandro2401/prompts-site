@@ -52,6 +52,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               <Link href="/sugerir" className={location === "/sugerir" ? "text-primary" : "text-muted-foreground hover:text-primary"}>
                 Sugerir Prompt
               </Link>
+              <Link href="/ferramentas" className={location === "/ferramentas" ? "text-primary" : "text-muted-foreground hover:text-primary"}>
+                Ferramentas
+              </Link>
               <a href="https://sistemas.administradoramutual.com.br" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                 Voltar para Sistemas
               </a>
@@ -102,6 +105,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </Link>
               <Link href="/sugerir" onClick={() => setIsMobileMenuOpen(false)} className="px-4 py-2 hover:bg-muted rounded-md">
                 Sugerir Prompt
+              </Link>
+              <Link href="/ferramentas" onClick={() => setIsMobileMenuOpen(false)} className="px-4 py-2 hover:bg-muted rounded-md">
+                Ferramentas
               </Link>
               <a href="https://sistemas.administradoramutual.com.br" className="px-4 py-2 hover:bg-muted rounded-md text-muted-foreground">
                 Voltar para Sistemas

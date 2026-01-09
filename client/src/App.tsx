@@ -10,6 +10,7 @@ import PromptDetail from "./pages/PromptDetail";
 import Search from "./pages/Search";
 import Favorites from "./pages/Favorites";
 import SuggestPrompt from "./pages/SuggestPrompt";
+import Tools from "./pages/Tools";
 
 function Router() {
   return (
@@ -20,6 +21,7 @@ function Router() {
       <Route path="/busca" component={Search} />
       <Route path="/favoritos" component={Favorites} />
       <Route path="/sugerir" component={SuggestPrompt} />
+      <Route path="/ferramentas" component={Tools} />
       <Route path="/404" component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />
