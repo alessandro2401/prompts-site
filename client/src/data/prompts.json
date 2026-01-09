@@ -765,6 +765,62 @@
         "titulo": "FAQ: Vídeo",
         "arquivo": "faq-vídeo.md",
         "conteudo": "# Perguntas Frequentes: Vídeo\n\n**Categoria:** Criação de Conteúdo\n\n## Perguntas\n\n1. Como posso criar conteúdo em vídeo que aumente o reconhecimento da marca?\n\n2. Quais são as melhores ferramentas para produzir vídeos de alta qualidade com orçamento limitado?\n\n3. Como escrever um roteiro de vídeo envolvente que mantenha o público interessado?\n\n4. Quais tipos de conteúdo em vídeo têm melhor desempenho em plataformas como YouTube e TikTok?\n\n5. Como reaproveitar vídeos longos em clipes curtos para redes sociais?\n\n6. Como posso usar depoimentos em vídeo para gerar confiança no meu público?\n\n7. Quais são algumas ideias criativas para conteúdo em vídeo ao vivo?\n\n8. Como medir o ROI dos esforços de marketing em vídeo?\n\n9. Qual é a duração ideal de vídeo para diferentes plataformas e objetivos?\n\n10. Como aplicar técnicas de storytelling no meu conteúdo em vídeo?\n\n"
+      },
+      {
+        "id": "faq-tiktok",
+        "titulo": "FAQ: Tiktok",
+        "descricao": "Perguntas frequentes sobre estratégias de conteúdo.",
+        "conteudo": "**1. Que desafios populares do TikTok eu poderia incorporar à mensagem da minha marca?**\\n\\n**2. Como posso usar o recurso \"Duet\" do TikTok para interagir com outros criadores de conteúdo em meu nicho?**\\n\\n**3. Que tipo de conteúdo (tutoriais, bastidores, resenhas) obtém mais engajamento no meu setor no TikTok?**\\n\\n**4. Como posso otimizar meu perfil do TikTok para atrair meu público ideal?**\\n\\n**5. Como posso incentivar os espectadores a agir (curtir, seguir, compartilhar) em meus vídeos?**\\n\\n**6. Como posso usar efetivamente as hashtags do TikTok para aumentar meu alcance?**\\n\\n**7. Que tipo de conteúdo meus concorrentes publicam que gera mais engajamento?**\\n\\n**8. Como posso medir o sucesso dos vídeos do TikTok além de curtidas e visualizações (por exemplo, comentários, compartilhamentos)?**\\n\\n**9. Que call-to-action devo usar para aumentar as conversões em meu conteúdo do TikTok?**\\n\\n**10. Como posso analisar as tendências do TikTok e usá-las para criar conteúdo relevante para meu público?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Mídia Social",
+        "tags": [
+          "Geral",
+          "Tiktok",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-instagram",
+        "titulo": "FAQ: Instagram",
+        "descricao": "Perguntas frequentes sobre estratégias de conteúdo.",
+        "conteudo": "**1. Como posso usar o Instagram Stories de forma eficaz para aumentar o reconhecimento da marca e o engajamento?**\\n\\n**2. Qual é o melhor horário para postar no Instagram para atingir meu público-alvo?**\\n\\n**3. Como posso usar o Instagram Insights para melhorar minha estratégia de conteúdo?**\\n\\n**4. Como usar o recurso \"Reels\" do Instagram para crescer rapidamente minha base de seguidores?**\\n\\n**5. Como criar posts visualmente atraentes no Instagram que estejam alinhados com a mensagem da minha marca?**\\n\\n**6. Quais hashtags devo usar para alcançar um público mais amplo e aumentar a descoberta do meu perfil?**\\n\\n**7. Como posso colaborar com influenciadores no Instagram para expandir o alcance da minha marca?**\\n\\n**8. Como aumentar o conteúdo gerado por usuários no Instagram para fortalecer a lealdade à marca?**\\n\\n**9. Como criar uma estratégia de marketing no Instagram que realmente ressoe com meu público?**\\n\\n**10. Como posso usar o recurso de compras do Instagram para aumentar vendas e a visibilidade dos meus produtos?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Mídia Social",
+        "tags": [
+          "Geral",
+          "Instagram",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-youtube",
+        "titulo": "FAQ: Youtube",
+        "descricao": "Perguntas frequentes sobre estratégias de conteúdo.",
+        "conteudo": "**1. Que tipo de conteúdo devo focar para construir uma audiência fiel no YouTube?**\\n\\n**2. Como posso otimizar meu canal no YouTube para obter mais crescimento e visibilidade?**\\n\\n**3. Quais estratégias posso usar para gerar mais tráfego do YouTube para meu site?**\\n\\n**4. Como escolher as palavras-chave e tags ideais para otimização de vídeos no YouTube?**\\n\\n**5. Como posso usar o YouTube Shorts para aumentar meu alcance e reconhecimento de marca?**\\n\\n**6. Como criar conteúdo no YouTube que mantenha os espectadores engajados por mais tempo?**\\n\\n**7. Quais ferramentas de edição de vídeo posso usar para melhorar a qualidade dos meus vídeos no YouTube?**\\n\\n**8. Como posso colaborar com outros YouTubers do meu nicho para aumentar a visibilidade e expandir meu público?**\\n\\n**9. Como criar uma programação consistente de postagens no YouTube para manter meu público engajado?**\\n\\n**10. Como medir o sucesso dos meus vídeos no YouTube e otimizar os próximos conteúdos com base no desempenho?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Mídia Social",
+        "tags": [
+          "Geral",
+          "Youtube",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-linkedin",
+        "titulo": "FAQ: Linkedin",
+        "descricao": "Perguntas frequentes sobre estratégias de conteúdo.",
+        "conteudo": "**1. Como posso usar o LinkedIn para construir uma rede profissional que ajude no crescimento do meu negócio?**\\n\\n**2. Que tipo de conteúdo devo postar no LinkedIn para atrair mais seguidores e gerar leads?**\\n\\n**3. Como aproveitar o recurso de busca do LinkedIn para encontrar e se conectar com potenciais clientes?**\\n\\n**4. Como criar um perfil no LinkedIn que mostre de forma eficaz meu negócio e minha expertise?**\\n\\n**5. Como utilizar o recurso de \"Recomendações\" (Endorsements) do LinkedIn para aumentar minha credibilidade na rede?**\\n\\n**6. Como escrever posts no LinkedIn que gerem conversas significativas e engajamento?**\\n\\n**7. Quais grupos do LinkedIn devo entrar para me conectar com pessoas do meu setor?**\\n\\n**8. Como usar o LinkedIn para marketing B2B e geração de leads?**\\n\\n**9. Como posso interagir com líderes de pensamento e influenciadores do meu setor no LinkedIn?**\\n\\n**10. Quais estratégias posso usar no LinkedIn para converter conexões em clientes ou compradores?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Mídia Social",
+        "tags": [
+          "Geral",
+          "Linkedin",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
       }
     ]
   },
@@ -772,7 +828,176 @@
     "nome": "Mídia Social",
     "icone": "smartphone",
     "emoji": "📱",
-    "prompts": []
+    "prompts": [
+      {
+        "id": "midia-social-tiktok-1",
+        "titulo": "Estratégia de Conteúdo Viral para TikTok",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Para aumentar o engajamento no TikTok, preciso criar um [tipo de conteúdo, ex.: tutorial, bastidores, desafio]. Desenvolva uma estratégia de conteúdo que maximize o potencial viral aproveitando sons e hashtags em alta no setor de [nicho ou indústria específica].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Tiktok",
+        "tags": [
+          "Geral",
+          "Tiktok",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-tiktok-2",
+        "titulo": "Roteiro de Vídeo para TikTok com Solução",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "A estratégia da minha marca no TikTok não está gerando o tráfego desejado. Escreva um roteiro para um vídeo que explique [um problema comum no seu nicho], oferecendo uma solução que promova [seu produto/serviço] de forma natural e envolvente.",
+        "categoria": "Mídia Social",
+        "subcategoria": "Tiktok",
+        "tags": [
+          "Geral",
+          "Tiktok",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-tiktok-3",
+        "titulo": "Estratégia de Colaboração com Influenciadores no TikTok",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Quero usar o recurso \"Dueto\" do TikTok para colaborar com influenciadores no [nicho específico]. Sugira uma estratégia para identificar influenciadores cujos seguidores estejam alinhados com meu público-alvo [ex.: faixa etária, interesses, localização].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Tiktok",
+        "tags": [
+          "Geral",
+          "Tiktok",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-instagram-1",
+        "titulo": "Campanha de Anúncios de Alta Conversão no Instagram",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Quero criar uma campanha de anúncios no Instagram com alta taxa de conversão para promover [produto ou serviço específico]. Elabore um calendário de conteúdo que equilibre posts orgânicos, stories e anúncios pagos, direcionado para [público específico] com o tipo de chamada para ação [ex.: \"Compre Agora\", \"Saiba Mais\"].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Instagram",
+        "tags": [
+          "Geral",
+          "Instagram",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-instagram-2",
+        "titulo": "Série de Stories Interativos para Engajamento",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Minha marca precisa fortalecer o engajamento da comunidade por meio do Instagram Stories. Crie uma série de 7 stories que incluam enquetes, quizzes e interações diretas para educar o público sobre [benefícios do produto ou tendências do setor].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Instagram",
+        "tags": [
+          "Geral",
+          "Instagram",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-instagram-3",
+        "titulo": "Estratégia de Crescimento de Seguidores no Instagram",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Para aumentar os seguidores no Instagram de [X número] para [Y número] nos próximos 6 meses, elabore uma estratégia de crescimento que inclua [hashtags, tipos de conteúdo, estratégias de colaboração, táticas de engajamento].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Instagram",
+        "tags": [
+          "Geral",
+          "Instagram",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-youtube-1",
+        "titulo": "Série de Vídeos Educativos para YouTube",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estou planejando criar uma série de vídeos no YouTube sobre [tópico específico]. Elabore uma estratégia de conteúdo para os primeiros 5 vídeos que equilibre entretenimento com educação, garantindo que cada vídeo inclua uma chamada para ação envolvente para [inscrever-se, visitar meu site, etc.].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Youtube",
+        "tags": [
+          "Geral",
+          "Youtube",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-youtube-2",
+        "titulo": "Guia de SEO para Vídeos do YouTube",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Quero otimizar meus vídeos no YouTube para melhorar a encontrabilidade. Escreva um guia com as melhores práticas de SEO, incluindo pesquisa de palavras-chave para títulos, descrições e tags, especificamente para vídeos sobre [seu nicho ou produto].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Youtube",
+        "tags": [
+          "Geral",
+          "Youtube",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-youtube-3",
+        "titulo": "Estratégia de Cross-Promotion para YouTube",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Quero aumentar meus inscritos no YouTube em [X número] no próximo trimestre. Crie uma estratégia de cross-promotion que utilize redes sociais, newsletters por e-mail e colaborações com outros YouTubers para direcionar tráfego ao meu canal.",
+        "categoria": "Mídia Social",
+        "subcategoria": "Youtube",
+        "tags": [
+          "Geral",
+          "Youtube",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-linkedin-1",
+        "titulo": "Calendário de Conteúdo para Liderança de Pensamento no LinkedIn",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Preciso elaborar uma estratégia para o LinkedIn a fim de me posicionar como um líder de pensamento na área de [indústria]. Escreva um calendário de conteúdo de 3 meses que inclua uma mistura de [artigos, histórias pessoais, insights do setor] com o objetivo de engajar tomadores de decisão no setor de [setor específico].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Linkedin",
+        "tags": [
+          "Geral",
+          "Linkedin",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-linkedin-2",
+        "titulo": "Checklist de Branding Pessoal para LinkedIn",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Meu perfil no LinkedIn não está convertendo visitantes em leads. Crie um checklist de branding pessoal que melhore meu perfil, título e resumo para torná-lo mais atrativo para [público-alvo].",
+        "categoria": "Mídia Social",
+        "subcategoria": "Linkedin",
+        "tags": [
+          "Geral",
+          "Linkedin",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "midia-social-linkedin-3",
+        "titulo": "Guia para Publicações de Autoridade no LinkedIn",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Quero aproveitar o recurso de publicações do LinkedIn para construir autoridade. Escreva um guia completo para redigir e compartilhar posts longos sobre temas como [tendências do setor, liderança de pensamento], garantindo que cada publicação incentive a interação e compartilhe insights práticos.",
+        "categoria": "Mídia Social",
+        "subcategoria": "Linkedin",
+        "tags": [
+          "Geral",
+          "Linkedin",
+          "Mídia Social"
+        ],
+        "dificuldade": "intermediario"
+      }
+    ]
   },
   "marketing-email": {
     "nome": "Marketing por E-mail",

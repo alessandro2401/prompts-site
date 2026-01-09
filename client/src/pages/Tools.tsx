@@ -61,6 +61,14 @@ const tools = [
     descricao: "Canva Magic Studio oferece ferramentas de design visual potencializadas por IA, facilitando a criação de conteúdo profissional.",
     url: "https://www.canva.com/magic-studio/",
     tags: ["Design", "Visual", "Criação"]
+  },
+  {
+    nome: "Lumen5",
+    categoria: "Criação de Conteúdo",
+    funcao: "Transformação de conteúdo escrito em vídeos",
+    descricao: "Lumen5 transforma seu conteúdo escrito, como posts de blog, em vídeos chamativos — ideal para reaproveitar conteúdo e distribuí-lo de forma atrativa em seus canais sociais.",
+    url: "https://lumen5.com/",
+    tags: ["Vídeo", "Automação", "Reaproveitamento"]
   }
 ];
 
