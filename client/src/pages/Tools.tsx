@@ -213,6 +213,30 @@ const tools = [
     descricao: "Mailchimp oferece plano gratuito para até 500 contatos e 1.000 emails/mês, incluindo automações básicas, templates e analytics.",
     url: "https://mailchimp.com/",
     tags: ["Email", "Gratuito", "Automação"]
+  },
+  {
+    nome: "HubSpot CRM",
+    categoria: "CRM Completo",
+    funcao: "Plataforma completa de CRM com versão gratuita robusta",
+    descricao: "HubSpot CRM oferece gestão de contatos, pipeline de vendas, automação de marketing, e analytics, com plano gratuito generoso e integrações extensas.",
+    url: "https://www.hubspot.com/products/crm",
+    tags: ["CRM", "Gratuito", "Automação"]
+  },
+  {
+    nome: "Pipedrive",
+    categoria: "CRM para Vendas",
+    funcao: "CRM focado em pipeline de vendas e gestão de negócios",
+    descricao: "Pipedrive é especializado em gestão de pipeline de vendas com interface visual intuitiva, automações, e relatórios de performance de vendas.",
+    url: "https://www.pipedrive.com/",
+    tags: ["Vendas", "Pipeline", "Gestão"]
+  },
+  {
+    nome: "Intercom",
+    categoria: "Customer Engagement",
+    funcao: "Plataforma de comunicação e engajamento com clientes",
+    descricao: "Intercom oferece chat ao vivo, bots, mensagens in-app, e-mail marketing, e automações para engajamento e suporte ao cliente.",
+    url: "https://www.intercom.com/",
+    tags: ["Engajamento", "Chat", "Automação"]
   }
 ];
 
@@ -223,7 +247,7 @@ export default function Tools() {
       <section className="py-12 md:py-16 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>23 Ferramentas Recomendadas</span>
+          <span>29 Ferramentas Recomendadas</span>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
           Ferramentas de IA Recomendadas
