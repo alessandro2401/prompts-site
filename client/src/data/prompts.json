@@ -1215,6 +1215,240 @@
         "arquivo": "Sistema de Gest├гo Remota para Equipes de Conte├║do 2e279d14b41481968cf7c1c91ab67a84.md",
         "conteudo": "# Sistema de Gestão Remota para Equipes de Conteúdo\n\nCategoria: GESTÃO & PRODUTIVIDADE\nFavorito: No\n\n<aside>\n💡\n\nCrie uma equipe alinhada e autogerenciável! Este prompt desenvolve fluxos de trabalho claros, ferramentas de colaboração e métricas de desempenho adaptadas para times distribuídos.\n\n</aside>\n\n---\n\n## ⚙️ O que este Mega-Prompt faz:\n\n● Define papéis e responsabilidades para cada membro (editor, designer, engajador)\n\n● Cria sistema de comunicação assíncrona eficiente\n\n● Desenvolve KPIs baseados em resultados, não horas trabalhadas\n\n## 💡Dicas:\n\n● Use a regra 2-2-2: 2 check-ins semanais, 2 ferramentas essenciais, 2 métricas chave\n\n● Implemente \"horários sagrados\" sem reuniões para deep work\n\n● Crie um banco de talentos sob demanda para picos de demanda\n\n## **👥 ChatGPT Mega-Prompt: Gestor Remoto**\n\n```jsx\n#CONTEXT:\nVocê é um líder de equipes remotas para criadores de conteúdo. Desenvolva um sistema de gestão para {tamanho da equipe} pessoas que maximize a produtividade sem burnout.\n\n#FUNÇÃO:\nEspecialista em workflows distribuídos com 92% de satisfação em equipes.\n\n#DIRETRIZES DE RESPOSTA:\nEstrutura OBRIGATÓRIA:\n1. **Definição de Papéis:**  \n   - Editor Chefe: Responsável por [X métricas]  \n   - Designer: Prazos de [Y dias] por tipo de conteúdo  \n   - Community Manager: Resposta a comentários em [Z horas]  \n\n2. **Kit de Ferramentas Essenciais:**  \n   - Comunicação: Slack (canais #urgente e #brainstorm)  \n   - Gestão de Tarefas: Trello com colunas [Ideação → Aprovação → Postado]  \n   - Armazenamento: Google Drive organizado por [tipo de conteúdo/mês]  \n\n3. **Rituais de Equipe:**  \n   - Daily Assíncrono: Atualização via Loom (máx. 2min)  \n   - Weekly Criativa: Reunião de 30min apenas para ideias malucas  \n   - Retrospectiva Mensal: Google Form + análise de dados  \n\nElementos-chave:\n🎯 OKRs adaptados para conteúdo (ex: \"Aumentar saves em 40% até Q3\")  \n📊 Dashboard público com métricas em tempo real  \n🚨 Protocolo de Emergência: Acionar substituto após 12h sem resposta  \n\n#CRITÉRIOS:  \n- Zero microgerenciamento (foco em entregas)  \n- Incluir plano de crescimento individual  \n- Usar 3 métodos de reconhecimento não financeiro  \n\n#INFORMAÇÕES SOBRE MIM:  \n- Tamanho da Equipe: [NÚMERO]  \n- Nicho de Conteúdo: [EXEMPLO]  \n- Fuso Horário dos Membros: [LISTAR]  \n\n#FORMATO DE RESPOSTA:  \n📋 **Fluxo de Trabalho:**  \n| Etapa | Responsável | Entregável | Prazo |  \n|-------|-------------|------------|-------|  \n| Briefing | Criador | Brief + Referências | T-5 dias |  \n\n📈 **KPIs por Função:**  \n- Editor: Taxa de retenção nos Reels (>65%)  \n- Designer: CTR em Stories (>8%)  \n- CM: Taxa de resposta a DMs (<2h)  \n\n💡 **Exemplo de Daily Assíncrono:**  \n\"Olá time! Hoje:  \n✅ Post do carrossel aprovado  \n🔄 Reels em edição - 3 takes prontos  \n❓ Preciso de ajuda com a transição do Story 4\"  \n\n```\n\n## ❓Como usar o prompt:\n\n1. Substitua [TAMANHO], [NICHO] e [FUSOS]\n2. Exemplo para *equipe de 5 pessoas*:\n    - Nicho: Moda Sustentável\n    - Fusos: SP, Lisboa, Tóquio\n\n## 📥 Exemplo de saída gerada:\n\n```jsx\n📋 **Fluxo:**  \n| Revisão Final | Editor | Reel com texto e hashtags | T-1 dia |  \n\n📈 **KPIs:**  \n- Criador: 3 briefs/semana  \n- Videomaker: 5 transições originais/mês  \n\n💡 **Daily:**  \n\"Galeris, hoje:  \n✅ 10 Stories programados  \n🚀 Ideia nova: Challenge '7 dias upcycling'  \n⚠️ Atenção: Feriado no Japão - ajustar postagem\"  \n```\n\n## 💡Dicas adicionais:\n\n1. **Truque do Relógio Humano:**\n    - Mapa visual com horários de disponibilidade\n    - Emojis de bandeiras para indicar fusos\n2. **Armadilha de Autonomia:**\n    - Orçamento criativo de R$ 500/mês por membro\n    - \"Dia do Caos Controlado\": 4h para projetos pessoais\n3. **Sistema de Reconhecimento:**\n    - Badges digitais no perfil da empresa\n    - Feature mensal no Stories \"Estrela da Equipe\"",
         "id": "sistema"
+      },
+      {
+        "id": "gestao-social-planejamento_conteudo-1",
+        "titulo": "Calendário Editorial Estratégico",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um calendário editorial completo para [marca/empresa] nas redes sociais. Inclua: 1) Análise de datas sazonais e eventos relevantes, 2) Mix de tipos de conteúdo (educacional, promocional, entretenimento), 3) Frequência ideal por plataforma, 4) Temas e pilares de conteúdo, 5) Sistema de aprovação e workflow de publicação.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-planejamento_conteudo-2",
+        "titulo": "Estratégia de Conteúdo Multiplataforma",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia de conteúdo adaptada para múltiplas plataformas sociais de [negócio]. Defina: 1) Objetivos específicos por plataforma, 2) Adaptação de formato e linguagem, 3) Reaproveitamento inteligente de conteúdo, 4) Timing e horários ideais de publicação, 5) KPIs e métricas de sucesso por canal.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-planejamento_conteudo-3",
+        "titulo": "Sistema de Categorização de Conteúdo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture sistema de categorização e organização de conteúdo para [marca]. Inclua: 1) Taxonomia de temas e categorias, 2) Tags e hashtags estratégicas, 3) Biblioteca de assets (imagens, vídeos, templates), 4) Banco de ideias e inspirações, 5) Processo de curadoria e seleção de conteúdo.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-analise_metricas-4",
+        "titulo": "Dashboard de Métricas de Redes Sociais",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie dashboard completo de métricas para monitorar performance de redes sociais de [marca]. Defina: 1) Métricas primárias (alcance, engajamento, conversão), 2) Métricas secundárias (share of voice, sentiment), 3) Benchmarks e metas, 4) Frequência de análise e reporting, 5) Insights acionáveis e recomendações.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-analise_metricas-5",
+        "titulo": "Análise de Concorrência em Redes Sociais",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva framework de análise competitiva para redes sociais de [setor/nicho]. Inclua: 1) Identificação de concorrentes diretos e indiretos, 2) Análise de estratégia de conteúdo, 3) Benchmarking de métricas de engajamento, 4) Identificação de gaps e oportunidades, 5) Relatório de insights e recomendações estratégicas.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-analise_metricas-6",
+        "titulo": "Otimização Baseada em Dados",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie processo de otimização contínua baseado em dados para [perfis sociais]. Defina: 1) Testes A/B de formatos e mensagens, 2) Análise de conteúdo de melhor performance, 3) Identificação de padrões de engajamento, 4) Ajustes de estratégia baseados em insights, 5) Ciclo de aprendizado e iteração.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-engajamento_comunidade-7",
+        "titulo": "Estratégia de Community Management",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia completa de community management para [marca]. Inclua: 1) Guidelines de tom de voz e resposta, 2) SLA de tempo de resposta, 3) Gestão de comentários e mensagens diretas, 4) Estratégias de engajamento proativo, 5) Escalação de issues e gestão de crises.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-engajamento_comunidade-8",
+        "titulo": "Programa de Embaixadores e Advocates",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie programa de embaixadores de marca para [negócio]. Defina: 1) Critérios de seleção de embaixadores, 2) Benefícios e incentivos, 3) Conteúdo e campanhas colaborativas, 4) Guidelines e diretrizes, 5) Métricas de sucesso e reconhecimento.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-engajamento_comunidade-9",
+        "titulo": "Táticas de Aumento de Engajamento",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva táticas específicas para aumentar engajamento em [perfis sociais]. Inclua: 1) Formatos interativos (enquetes, quizzes, Q&A), 2) User-generated content (UGC) campaigns, 3) Contests e giveaways estratégicos, 4) Live sessions e eventos online, 5) Storytelling e narrativas envolventes.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-gestao_crises-10",
+        "titulo": "Plano de Gestão de Crises em Redes Sociais",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie plano completo de gestão de crises para [marca] em redes sociais. Inclua: 1) Identificação de potenciais crises, 2) Matriz de severidade e protocolo de escalação, 3) Templates de resposta para diferentes cenários, 4) Equipe de resposta e responsabilidades, 5) Processo de monitoramento e contenção.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-gestao_crises-11",
+        "titulo": "Monitoramento de Reputação Online",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva sistema de monitoramento de reputação online para [empresa]. Defina: 1) Ferramentas de social listening, 2) Keywords e menções a rastrear, 3) Alertas e notificações em tempo real, 4) Análise de sentiment e tendências, 5) Relatórios de reputação e brand health.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-gestao_crises-12",
+        "titulo": "Recuperação de Reputação Pós-Crise",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture plano de recuperação de reputação após crise para [marca]. Inclua: 1) Avaliação de danos e impacto, 2) Comunicação transparente e responsável, 3) Ações corretivas e melhorias, 4) Campanha de reconstrução de confiança, 5) Monitoramento de percepção e ajustes.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-automacao_ferramentas-13",
+        "titulo": "Stack de Ferramentas de Social Media",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Monte stack completo de ferramentas para gestão de redes sociais de [negócio]. Inclua: 1) Agendamento e publicação (Buffer, Hootsuite), 2) Design e criação (Canva, Adobe Express), 3) Analytics e reporting (Sprout Social, Socialbakers), 4) Listening e monitoramento (Brandwatch, Mention), 5) Colaboração e workflow (Asana, Trello).",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-automacao_ferramentas-14",
+        "titulo": "Automação de Processos de Social Media",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva automações para otimizar gestão de redes sociais de [marca]. Defina: 1) Agendamento inteligente de posts, 2) Respostas automatizadas para FAQs, 3) Curadoria automática de conteúdo, 4) Relatórios e dashboards automatizados, 5) Alertas e notificações configuradas.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-automacao_ferramentas-15",
+        "titulo": "Workflow de Aprovação e Publicação",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie workflow eficiente de aprovação e publicação para [equipe de social media]. Inclua: 1) Processo de criação e revisão, 2) Níveis de aprovação e responsáveis, 3) Ferramentas de colaboração, 4) Checklist de qualidade, 5) Backup e contingência para publicações.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-ads_paid_social-16",
+        "titulo": "Estratégia de Paid Social Media",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia completa de mídia paga em redes sociais para [negócio]. Defina: 1) Objetivos e KPIs de campanhas, 2) Budget allocation por plataforma, 3) Segmentação e targeting de audiências, 4) Criativos e mensagens por funil, 5) Testes, otimização e scaling.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-ads_paid_social-17",
+        "titulo": "Otimização de Campanhas de Anúncios",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie framework de otimização para campanhas de ads em [plataformas sociais]. Inclua: 1) Testes A/B de criativos e copy, 2) Análise de métricas de performance (CTR, CPC, ROAS), 3) Ajustes de segmentação e bidding, 4) Refresh de criativos e mensagens, 5) Scaling de campanhas vencedoras.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "gestao-social-ads_paid_social-18",
+        "titulo": "Retargeting e Funis de Conversão",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture estratégia de retargeting em redes sociais para [produto/serviço]. Defina: 1) Segmentos de audiência por comportamento, 2) Mensagens e ofertas por estágio do funil, 3) Sequência de anúncios e frequency capping, 4) Pixels e tracking de conversões, 5) Análise de attribution e ROI.",
+        "categoria": "Geral",
+        "tags": [
+          "Social Media",
+          "Gestão",
+          "Redes Sociais"
+        ],
+        "dificuldade": "intermediario"
       }
     ]
   },
@@ -1727,6 +1961,84 @@
           "FAQ",
           "Growth Hacking",
           "Crescimento"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-gestao-social-planejamento_conteudo",
+        "titulo": "FAQ: Planejamento E Calendário De Conteúdo",
+        "descricao": "Perguntas frequentes sobre gerenciamento de redes sociais.",
+        "conteudo": "Perguntas frequentes:\n\n- Com que frequência devo postar em cada rede social?\n- Como criar um calendário editorial eficiente?\n- Qual a proporção ideal entre conteúdo promocional e educacional?\n- Como reaproveitar conteúdo entre diferentes plataformas?\n- Quais ferramentas usar para planejamento de conteúdo?\n- Como identificar os melhores horários para postar?\n- O que são pilares de conteúdo e como definir?\n- Como balancear conteúdo evergreen vs trending?\n- Qual o papel de datas sazonais na estratégia?\n- Como criar um workflow de aprovação eficiente?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Social Media",
+          "Gestão"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-gestao-social-analise_metricas",
+        "titulo": "FAQ: Análise De Métricas E Performance",
+        "descricao": "Perguntas frequentes sobre gerenciamento de redes sociais.",
+        "conteudo": "Perguntas frequentes:\n\n- Quais métricas de redes sociais são mais importantes?\n- Como calcular ROI de redes sociais?\n- O que é taxa de engajamento e como melhorar?\n- Como fazer análise de concorrência em redes sociais?\n- Quais ferramentas de analytics usar?\n- O que é share of voice e por que importa?\n- Como interpretar sentiment analysis?\n- Qual a diferença entre alcance e impressões?\n- Como identificar conteúdo de melhor performance?\n- Com que frequência analisar métricas?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Social Media",
+          "Gestão"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-gestao-social-engajamento_comunidade",
+        "titulo": "FAQ: Engajamento E Gestão De Comunidade",
+        "descricao": "Perguntas frequentes sobre gerenciamento de redes sociais.",
+        "conteudo": "Perguntas frequentes:\n\n- Como responder comentários negativos de forma profissional?\n- Qual o tempo ideal de resposta em redes sociais?\n- Como criar uma comunidade engajada?\n- O que são embaixadores de marca e como recrutar?\n- Como incentivar user-generated content?\n- Quais tipos de conteúdo geram mais engajamento?\n- Como fazer contests e giveaways eficazes?\n- Quando usar lives e eventos online?\n- Como lidar com trolls e haters?\n- O que é community management?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Social Media",
+          "Gestão"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-gestao-social-gestao_crises",
+        "titulo": "FAQ: Gestão De Crises E Reputação",
+        "descricao": "Perguntas frequentes sobre gerenciamento de redes sociais.",
+        "conteudo": "Perguntas frequentes:\n\n- Como identificar uma crise em redes sociais?\n- Qual o primeiro passo ao detectar uma crise?\n- Como responder a uma crise de forma eficaz?\n- O que é social listening e como usar?\n- Quais ferramentas de monitoramento usar?\n- Como prevenir crises em redes sociais?\n- Quando deletar comentários negativos?\n- Como reconstruir reputação após uma crise?\n- O que fazer quando algo viraliza negativamente?\n- Como treinar equipe para gestão de crises?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Social Media",
+          "Gestão"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-gestao-social-automacao_ferramentas",
+        "titulo": "FAQ: Automação E Ferramentas De Gestão",
+        "descricao": "Perguntas frequentes sobre gerenciamento de redes sociais.",
+        "conteudo": "Perguntas frequentes:\n\n- Quais ferramentas de agendamento são melhores?\n- Como automatizar postagens sem perder autenticidade?\n- Vale a pena usar ferramentas pagas de social media?\n- Como criar um workflow de aprovação eficiente?\n- Quais automações são essenciais para social media?\n- Como usar chatbots em redes sociais?\n- Quais ferramentas de design usar para posts?\n- Como integrar ferramentas de social media?\n- O que é social media management platform?\n- Como escolher entre Buffer, Hootsuite e outras?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Social Media",
+          "Gestão"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-gestao-social-ads_paid_social",
+        "titulo": "FAQ: Anúncios E Mídia Paga Em Redes Sociais",
+        "descricao": "Perguntas frequentes sobre gerenciamento de redes sociais.",
+        "conteudo": "Perguntas frequentes:\n\n- Quanto investir em anúncios em redes sociais?\n- Qual plataforma de ads tem melhor ROI?\n- Como criar audiências personalizadas?\n- O que é lookalike audience e como usar?\n- Como otimizar CTR de anúncios?\n- O que é ROAS e como calcular?\n- Como fazer retargeting eficaz?\n- Quais métricas de ads rastrear?\n- Como escalar campanhas de sucesso?\n- O que é pixel de conversão e como instalar?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Social Media",
+          "Gestão"
         ],
         "dificuldade": "intermediario"
       }
