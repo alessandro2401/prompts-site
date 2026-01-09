@@ -213,6 +213,78 @@
         "arquivo": "Transformador de Ganchos Ruins em Ganchos Poderoso 2e279d14b41481cb9fa2e4fcac354224.md",
         "conteudo": "# Transformador de Ganchos Ruins em Ganchos Poderosos\n\nCategoria: CRIAÇÃO DE CONTEÚDO\nFavorito: No\n\n## ⚙️ O que esse Prompt Faz:\n\n● Analisa um gancho inicial, identificando pontos fracos e transformando-o em uma frase poderosa que atrai atenção instantânea.\n● Ajusta a mensagem para torná-la mais impactante, com foco em gerar curiosidade e aumentar a taxa de engajamento.\n● Adapta o gancho para se alinhar com as necessidades e os interesses do público-alvo, tornando-o irresistível.\n● Incorpora estratégias de copywriting que aumentam a eficácia do gancho, utilizando emoção, urgência e clareza.\n\n## Prompt:\n\n```jsx\nAdote o papel de um especialista em copywriting e marketing digital, com a tarefa de transformar um gancho fraco em uma frase impactante capaz de atrair a atenção do público imediatamente.\n\n1. **Análise do Gancho Original:**\n   - Identifique por que o gancho atual não é eficaz. (Ex: está muito genérico, não gera curiosidade, falta emoção, não fala diretamente com o público)\n   - Quais são os pontos de melhoria? (Ex: falta de urgência, falta de clareza, tom muito neutro)\n\n2. **Reformule o Gancho:**\n   - Use técnicas de copywriting que incluam:  \n     - Gatilhos emocionais (Ex: medo, desejo, curiosidade)\n     - Urgência e escassez (Ex: \"Última chance\", \"Agora ou nunca\")\n     - Clareza e foco no benefício (Ex: \"Descubra como...\", \"Saiba o segredo para...\")\n\n3. **Adapte ao Público-Alvo:**\n   - Certifique-se de que o gancho fala diretamente com o público específico. \n   - Personalize o tom para a voz da marca e o estilo de comunicação preferido pelo público.\n\n#INFORMAÇÕES SOBRE MIM:\nMeu público-alvo: [INSERIR PÚBLICO-ALVO]\nMinha voz de marca: [DESCREVER VOZ DA MARCA]\nMeu nicho: [INSERIR NICHO]\nObjetivo do Gancho: [INSERIR OBJETIVO - Gerar curiosidade, aumentar engajamento, atrair cliques, etc.]\n```\n\n## ❓Como usar esse Prompt:\n\n- **Preencha as informações:**\n    - **Público-alvo:** Defina claramente quem você está tentando alcançar (ex: criadores de conteúdo, empreendedores digitais, profissionais de saúde).\n    - **Voz da marca:** Determine o estilo de comunicação da sua marca (ex: amigável, formal, ousado, inspirador).\n    - **Nicho:** Identifique o seu nicho de mercado (ex: marketing digital, moda, beleza, tecnologia).\n    - **Objetivo do Gancho:** Especifique o que você deseja alcançar com o gancho (ex: gerar curiosidade, aumentar a taxa de cliques, incentivar a interação nos comentários).\n- **Avalie o Gancho Original:**\n    \n    Escolha um gancho que você ache fraco ou que não esteja gerando o impacto desejado (ex: \"Como vender no Instagram\").\n    \n- **Transforme o Gancho:**\n    \n    O ChatGPT irá utilizar técnicas de copywriting para aprimorar esse gancho, criando algo mais envolvente, impactante e voltado para o seu público-alvo.\n    \n\n## 📥 Exemplo de entrada:\n\n#INFORMAÇÕES SOBRE MIM:\n\n- Meu público-alvo: Empreendedores iniciantes que buscam aumentar sua visibilidade no Instagram.\n- Minha voz de marca: Inspiradora e prática, com foco em simplificação.\n- Meu nicho: Marketing Digital.\n- Objetivo do Gancho: Gerar curiosidade e incentivar a interação.\n\n## 📤 Resultado esperado:\n\nUm gancho impactante, adaptado para o seu público e nicho, que desperta curiosidade e incentiva o engajamento imediato. A frase será mais clara, emocional e eficaz na captação de atenção.\n\n## 💡Dicas para usar o Prompt:\n\n- **Não tenha medo de ser ousado:** A chave para um bom gancho é chamar a atenção, então arrisque algo mais ousado ou direto.\n- **Use a urgência com moderação:** Colocar urgência no gancho pode gerar mais ação, mas cuidado para não exagerar.\n- **Teste diferentes versões:** Se você tiver mais de uma ideia de gancho, teste-as para ver qual tem melhor desempenho com o seu público.\n- **Lembre-se de que a simplicidade é fundamental:** Ganchos curtos, mas poderosos, funcionam muito bem em plataformas como Instagram.",
         "id": "transformador"
+      },
+      {
+        "id": "mc_001",
+        "titulo": "Estratégia de Conteúdo para Público Específico",
+        "arquivo": "estratgia-de-contedo-para-pblico-especfico.md",
+        "conteudo": "Meu público-alvo é composto por [grupo demográfico/grupo de interesse específico]. Crie uma estratégia de conteúdo sobre [tópico] para engajá-los e alcançar [objetivo específico]."
+      },
+      {
+        "id": "mc_002",
+        "titulo": "Diferenciação de Conteúdo dos Concorrentes",
+        "arquivo": "diferenciao-de-contedo-dos-concorrentes.md",
+        "conteudo": "Nossos concorrentes publicam conteúdos como [tipo específico, ex.: posts de blog, vídeos]. Você pode conferir a abordagem deles em [link do site do concorrente]. Sugira um ângulo único para o nosso conteúdo se destacar no setor de [indústria]."
+      },
+      {
+        "id": "mc_003",
+        "titulo": "Estratégia de Conteúdo de 6 Meses Completa",
+        "arquivo": "estratgia-de-contedo-de-6-meses-completa.md",
+        "conteudo": "Crie uma estratégia de conteúdo de 6 meses para [tecnologia/imóveis/marketing] voltada para [profissionais de tecnologia/compradores de primeira viagem/donos de pequenos negócios]. Foque em abordar seus principais desafios, como [inserir desafios, ex.: adaptação a novas ferramentas de marketing, encontrar imóveis acessíveis, aumentar a visibilidade da marca]. Sugira tipos de conteúdo como [avaliações/guias/estudos de caso/estratégias] e recomende as melhores plataformas [Instagram/LinkedIn/YouTube] para cada tipo. Inclua um cronograma de postagens, temas de conteúdo e táticas de engajamento para aumentar leads, conversões e reconhecimento da marca."
+      },
+      {
+        "id": "mc_004",
+        "titulo": "Post de Blog Educativo com Esboço",
+        "arquivo": "post-de-blog-educativo-com-esboo.md",
+        "conteudo": "Quero escrever um post de blog sobre [tópico] para educar meu público sobre [questão específica]. Gere um esboço e uma introdução envolvente."
+      },
+      {
+        "id": "mc_005",
+        "titulo": "Post de Blog Baseado em Palavras-Chave",
+        "arquivo": "post-de-blog-baseado-em-palavras-chave.md",
+        "conteudo": "Meus leitores costumam buscar por [palavras-chave específicas]. Escreva um post de blog detalhado que responda à dúvida deles com dicas práticas."
+      },
+      {
+        "id": "mc_006",
+        "titulo": "Post de Blog Completo com Estrutura Profissional",
+        "arquivo": "post-de-blog-completo-com-estrutura-profissional.md",
+        "conteudo": "Tipo de Conteúdo: [educativo/persuasivo/narrativo]\nPúblico-Alvo: [segmento demográfico/profissional específico]\nTópico Central: [tema específico]\nEstrutura:\n- Gancho: Abertura que chame atenção\n- Perspectiva Única: Abordagem/solução inovadora\nEstratégia de Conversão:\n- Gatilho de Consciência para o Leitor\n- Chamada para Ação Clara\nRequisitos do Post de Blog:\n- Escreva um post de blog completo sobre [TEMA ESPECÍFICO]\n- Meta de Palavras: [1500–2500 palavras]\n- Entregáveis Principais:\n  1. Título atraente\n  2. Conteúdo otimizado para SEO\n  3. Insights acionáveis"
+      },
+      {
+        "id": "mc_007",
+        "titulo": "Post para Mídia Social com Valores da Marca",
+        "arquivo": "post-para-mdia-social-com-valores-da-marca.md",
+        "conteudo": "Escreva um post para [plataforma, ex.: Instagram/LinkedIn/TikTok] com foco em [valor, ex.: inovação, sustentabilidade, acessibilidade]. Destaque [desafio ou dor específica do público, ex.: gestão de tempo, custo, ecologia]. Use uma abordagem [narrativa/com base em fatos] para engajar [público específico, ex.: profissionais de tecnologia, compradores de primeira viagem]. Inclua uma [chamada para ação, ex.: visite nosso site, compartilhe sua opinião, marque um amigo]. O tom deve ser [amistoso/profissional/inspirador]."
+      },
+      {
+        "id": "mc_008",
+        "titulo": "Storytelling Alinhado com Valores da Marca",
+        "arquivo": "storytelling-alinhado-com-valores-da-marca.md",
+        "conteudo": "Minha marca tem como foco [valor, ex.: sustentabilidade]. Escreva um post para redes sociais que conte uma história alinhada com esse valor."
+      },
+      {
+        "id": "mc_009",
+        "titulo": "5 Ideias de Conteúdo para Campanha",
+        "arquivo": "5-ideias-de-contedo-para-campanha.md",
+        "conteudo": "Para [campanha específica], preciso de 5 ideias de conteúdo para gerar engajamento e incentivar [ação específica, ex.: comentários, compartilhamentos]."
+      },
+      {
+        "id": "mc_010",
+        "titulo": "Roteiro de Vídeo Educativo e Promocional",
+        "arquivo": "roteiro-de-vdeo-educativo-e-promocional.md",
+        "conteudo": "Quero criar um vídeo sobre [tópico] para [plataforma]. Escreva um roteiro que eduque meu público enquanto promove [produto/serviço específico]."
+      },
+      {
+        "id": "mc_011",
+        "titulo": "Roteiro de Vídeo Profissional Completo",
+        "arquivo": "roteiro-de-vdeo-profissional-completo.md",
+        "conteudo": "Crie um roteiro de vídeo sobre [TÓPICO ESPECÍFICO].\n- Plataforma: [YouTube/TikTok/Instagram/LinkedIn]\n- Público-Alvo: [segmento demográfico específico]\n- Objetivo do Conteúdo: [educar/entreter/converter]\n- Gancho: Chamar atenção nos primeiros 5 segundos\n- Arco Narrativo: Problema → Solução → Transformação\n- Duração Ideal: [30–180 segundos]\n- Estilo de Produção: [profissional/casual/narrativo]"
+      },
+      {
+        "id": "mc_012",
+        "titulo": "Storyboard para Série de Vídeos",
+        "arquivo": "storyboard-para-srie-de-vdeos.md",
+        "conteudo": "Para nossa próxima [campanha/evento], quero criar uma série de vídeos. Forneça um roteiro visual (storyboard) para [tema específico]."
       }
     ]
   },
@@ -664,5 +736,54 @@
         ]
       }
     ]
+  },
+  "perguntas-frequentes": {
+    "nome": "Perguntas Frequentes",
+    "icone": "help-circle",
+    "emoji": "❓",
+    "prompts": [
+      {
+        "id": "faq-01",
+        "titulo": "FAQ: Estratégia",
+        "arquivo": "faq-estratégia.md",
+        "conteudo": "# Perguntas Frequentes: Estratégia\n\n**Categoria:** Criação de Conteúdo\n\n## Perguntas\n\n1. Como identificar os tipos certos de conteúdo para meu público-alvo?\n\n2. Quais ferramentas posso usar para desenvolver uma estratégia de marketing de conteúdo de alto impacto?\n\n3. Como realizar uma análise de lacunas para encontrar oportunidades no meu conteúdo?\n\n4. Quais são as melhores práticas para criar um calendário de conteúdo?\n\n5. Como definir metas mensuráveis para o marketing de conteúdo?\n\n6. Qual é a forma mais eficaz de reaproveitar conteúdo longo em versões curtas?\n\n7. Como alinhar minha estratégia de conteúdo com o funil de vendas?\n\n8. Quais tipos de conteúdo funcionam melhor em diferentes estágios da jornada do comprador?\n\n9. Como priorizar ideias de conteúdo quando tenho recursos limitados?\n\n10. Quais métricas devo acompanhar para medir o sucesso da minha estratégia de conteúdo?\n\n"
+      },
+      {
+        "id": "faq-02",
+        "titulo": "FAQ: Blogs e Artigos",
+        "arquivo": "faq-blogs-e-artigos.md",
+        "conteudo": "# Perguntas Frequentes: Blogs e Artigos\n\n**Categoria:** Criação de Conteúdo\n\n## Perguntas\n\n1. Quais são as técnicas mais eficazes para escrever posts de blog otimizados para SEO?\n\n2. Como encontrar abordagens únicas para temas perenes no meu setor?\n\n3. Quais ferramentas posso usar para gerar ideias de conteúdo para o blog?\n\n4. Como escrever títulos de blog que gerem mais cliques?\n\n5. Quais são algumas estratégias para incentivar os leitores a compartilharem meu conteúdo?\n\n6. Como usar dados e estatísticas para aumentar a credibilidade do blog?\n\n7. Qual é o comprimento ideal de um post para ranquear bem nos mecanismos de busca?\n\n8. Como criar uma chamada para ação (CTA) envolvente para leitores do blog?\n\n9. Qual é a melhor forma de estruturar o conteúdo para facilitar a leitura?\n\n10. Como monetizar efetivamente o conteúdo do meu blog?\n\n"
+      },
+      {
+        "id": "faq-03",
+        "titulo": "FAQ: Mídia Social",
+        "arquivo": "faq-mídia-social.md",
+        "conteudo": "# Perguntas Frequentes: Mídia Social\n\n**Categoria:** Criação de Conteúdo\n\n## Perguntas\n\n1. Como posso criar vídeos curtos envolventes para plataformas como Instagram e TikTok?\n\n2. Quais são as melhores práticas para criar posts visualmente atraentes nas redes sociais?\n\n3. Como encontrar temas em alta que se alinhem com minha marca para conteúdo nas redes?\n\n4. Quais ferramentas posso usar para criar gráficos e vídeos com aparência profissional?\n\n5. Como escrever legendas que gerem engajamento e conversa?\n\n6. Como posso incorporar conteúdo gerado por usuários na minha estratégia de redes sociais?\n\n7. Quais são os melhores tipos de conteúdo para postar nos fins de semana versus dias úteis?\n\n8. Como otimizar o conteúdo para diferentes plataformas sociais?\n\n9. Como analisar o conteúdo dos concorrentes nas redes para se inspirar?\n\n10. Quais métricas devo acompanhar para medir o sucesso dos posts nas redes sociais?\n\n"
+      },
+      {
+        "id": "faq-04",
+        "titulo": "FAQ: Vídeo",
+        "arquivo": "faq-vídeo.md",
+        "conteudo": "# Perguntas Frequentes: Vídeo\n\n**Categoria:** Criação de Conteúdo\n\n## Perguntas\n\n1. Como posso criar conteúdo em vídeo que aumente o reconhecimento da marca?\n\n2. Quais são as melhores ferramentas para produzir vídeos de alta qualidade com orçamento limitado?\n\n3. Como escrever um roteiro de vídeo envolvente que mantenha o público interessado?\n\n4. Quais tipos de conteúdo em vídeo têm melhor desempenho em plataformas como YouTube e TikTok?\n\n5. Como reaproveitar vídeos longos em clipes curtos para redes sociais?\n\n6. Como posso usar depoimentos em vídeo para gerar confiança no meu público?\n\n7. Quais são algumas ideias criativas para conteúdo em vídeo ao vivo?\n\n8. Como medir o ROI dos esforços de marketing em vídeo?\n\n9. Qual é a duração ideal de vídeo para diferentes plataformas e objetivos?\n\n10. Como aplicar técnicas de storytelling no meu conteúdo em vídeo?\n\n"
+      }
+    ]
+  },
+  "midia-social": {
+    "nome": "Mídia Social",
+    "icone": "smartphone",
+    "emoji": "📱",
+    "prompts": []
+  },
+  "marketing-email": {
+    "nome": "Marketing por E-mail",
+    "icone": "mail",
+    "emoji": "📧",
+    "prompts": []
+  },
+  "growth-hacking": {
+    "nome": "Growth Hacking",
+    "icone": "trending-up",
+    "emoji": "🚀",
+    "prompts": []
   }
 }

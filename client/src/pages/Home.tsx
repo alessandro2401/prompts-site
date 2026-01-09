@@ -56,6 +56,10 @@ export default function Home() {
     { id: "vendas-conversao", icon: DollarSign, color: "text-green-500", bg: "bg-green-50 dark:bg-green-950/30" },
     { id: "gestao-produtividade", icon: Clock, color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-950/30" },
     { id: "mega-prompts", icon: Sparkles, color: "text-indigo-500", bg: "bg-indigo-50 dark:bg-indigo-950/30" },
+    { id: "perguntas-frequentes", icon: Search, color: "text-yellow-500", bg: "bg-yellow-50 dark:bg-yellow-950/30" },
+    { id: "midia-social", icon: Star, color: "text-pink-500", bg: "bg-pink-50 dark:bg-pink-950/30" },
+    { id: "marketing-email", icon: Star, color: "text-cyan-500", bg: "bg-cyan-50 dark:bg-cyan-950/30" },
+    { id: "growth-hacking", icon: Star, color: "text-red-500", bg: "bg-red-50 dark:bg-red-950/30" },
   ];
 
   return (
@@ -64,7 +68,7 @@ export default function Home() {
       <section className="py-12 md:py-20 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>96 Prompts Profissionais Disponíveis</span>
+          <span>116 Prompts Profissionais Disponíveis</span>
         </div>
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent pb-2">
           Domine a Criação de Conteúdo com IA
