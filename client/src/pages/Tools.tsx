@@ -141,6 +141,30 @@ const tools = [
     descricao: "Google Optimize permite criar e executar testes A/B, testes multivariados e personalização de conteúdo, com integração nativa ao Google Analytics para análise aprofundada de resultados e comportamento de usuários.",
     url: "https://optimize.google.com/",
     tags: ["A/B Testing", "Google", "Gratuito"]
+  },
+  {
+    nome: "Amplitude",
+    categoria: "Product Analytics",
+    funcao: "Plataforma de analytics focada em comportamento de usuários e product insights",
+    descricao: "Amplitude oferece event-based analytics, cohort analysis, retention tracking, e funnel analysis para entender como usuários interagem com seu produto e identificar oportunidades de growth.",
+    url: "https://amplitude.com/",
+    tags: ["Analytics", "Product", "Comportamento"]
+  },
+  {
+    nome: "Rewardful",
+    categoria: "Programas de Afiliados",
+    funcao: "Plataforma para criar e gerenciar programas de afiliados e referência",
+    descricao: "Rewardful facilita a criação de programas de afiliados e referência com tracking automático, pagamentos, e integrações com Stripe e outras plataformas de pagamento.",
+    url: "https://www.getrewardful.com/",
+    tags: ["Afiliados", "Referência", "Growth"]
+  },
+  {
+    nome: "Ahrefs",
+    categoria: "SEO",
+    funcao: "Suite completa de ferramentas de SEO e análise de backlinks",
+    descricao: "Ahrefs oferece pesquisa de keywords, análise de backlinks, site audit, rank tracking, e content explorer para estratégias completas de SEO e content marketing.",
+    url: "https://ahrefs.com/",
+    tags: ["SEO", "Backlinks", "Keywords"]
   }
 ];
 
@@ -151,7 +175,7 @@ export default function Tools() {
       <section className="py-12 md:py-16 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>17 Ferramentas Recomendadas</span>
+          <span>20 Ferramentas Recomendadas</span>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
           Ferramentas de IA Recomendadas
