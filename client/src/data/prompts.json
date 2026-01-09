@@ -1651,6 +1651,84 @@
           "Conversão"
         ],
         "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-growth-loops_virais",
+        "titulo": "FAQ: Loops Virais E Crescimento Exponencial",
+        "descricao": "Perguntas frequentes sobre growth hacking e crescimento acelerado.",
+        "conteudo": "Perguntas frequentes:\n\n- Como calcular e otimizar o K-factor do meu produto?\n- Quais são os melhores incentivos para programas de referência?\n- Como reduzir o cycle time de um loop viral?\n- Quais métricas indicam que um loop viral está funcionando?\n- Como criar FOMO sem ser manipulativo?\n- Quais elementos de gamificação geram mais compartilhamentos?\n- Como integrar loops virais em produtos B2B?\n- Qual a diferença entre viralidade orgânica e incentivada?\n- Como evitar que programas de referência atraiam usuários de baixa qualidade?\n- Quais ferramentas usar para tracking de referências?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Growth Hacking",
+          "Crescimento"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-growth-aquisicao_usuarios",
+        "titulo": "FAQ: Aquisição Rápida De Usuários",
+        "descricao": "Perguntas frequentes sobre growth hacking e crescimento acelerado.",
+        "conteudo": "Perguntas frequentes:\n\n- Como preparar um lançamento de sucesso no Product Hunt?\n- Quais comunidades online são melhores para meu nicho?\n- Como contribuir em comunidades sem parecer spam?\n- Qual o momento certo para mencionar meu produto em fóruns?\n- Como identificar parceiros estratégicos ideais?\n- Quais modelos de parceria funcionam melhor para SaaS?\n- Como negociar acordos de parceria mutuamente benéficos?\n- Quais métricas rastrear em campanhas de aquisição?\n- Como escalar aquisição mantendo CAC baixo?\n- Quais canais de aquisição testarprimeiro?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Growth Hacking",
+          "Crescimento"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-growth-experimentacao_rapida",
+        "titulo": "FAQ: Experimentação Rápida E Iteração",
+        "descricao": "Perguntas frequentes sobre growth hacking e crescimento acelerado.",
+        "conteudo": "Perguntas frequentes:\n\n- O que é ICE score e como usar para priorizar experimentos?\n- Como definir hipóteses claras para experimentos de growth?\n- Qual o tamanho de amostra necessário para validar um teste?\n- Como balancear velocidade vs rigor estatístico?\n- Quais ferramentas usar para tracking de experimentos?\n- Como documentar aprendizados de experimentos falhos?\n- Qual a diferença entre MVP e protótipo?\n- Como validar ideias sem construir produto completo?\n- Quais métricas indicam product-market fit?\n- Como escalar experimentos bem-sucedidos?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Growth Hacking",
+          "Crescimento"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-growth-otimizacao_funil",
+        "titulo": "FAQ: Otimização De Funil De Crescimento",
+        "descricao": "Perguntas frequentes sobre growth hacking e crescimento acelerado.",
+        "conteudo": "Perguntas frequentes:\n\n- O que são Pirate Metrics (AARRR) e como aplicar?\n- Como identificar o aha moment do meu produto?\n- Qual a diferença entre ativação e retenção?\n- Como calcular e melhorar retention rate?\n- O que é cohort analysis e por que é importante?\n- Como identificar usuários em risco de churn?\n- Quais estratégias funcionam melhor para reduzir churn?\n- Como criar um onboarding que converte?\n- Quais métricas de onboarding rastrear?\n- Como balancear growth vs retenção?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Growth Hacking",
+          "Crescimento"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-growth-seo_content_marketing",
+        "titulo": "FAQ: Seo E Content Marketing Para Growth",
+        "descricao": "Perguntas frequentes sobre growth hacking e crescimento acelerado.",
+        "conteudo": "Perguntas frequentes:\n\n- O que é SEO programático e quando usar?\n- Como identificar keywords de alto potencial?\n- Qual a diferença entre TOFU, MOFU e BOFU content?\n- Como criar conteúdo que rankeia e converte?\n- Quais métricas de content marketing rastrear?\n- Como conseguir backlinks de qualidade?\n- O que são linkable assets e como criar?\n- Como fazer outreach efetivo para link building?\n- Qual o impacto de Domain Authority em SEO?\n- Como escalar produção de conteúdo mantendo qualidade?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Growth Hacking",
+          "Crescimento"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-growth-automacao_growth",
+        "titulo": "FAQ: Automação E Ferramentas De Growth",
+        "descricao": "Perguntas frequentes sobre growth hacking e crescimento acelerado.",
+        "conteudo": "Perguntas frequentes:\n\n- Quais ferramentas de analytics são melhores para growth?\n- Como escolher entre Amplitude, Mixpanel e Google Analytics?\n- O que são event-based analytics?\n- Como configurar tracking de eventos corretamente?\n- Quais automações de marketing priorizar primeiro?\n- Como segmentar usuários para campanhas personalizadas?\n- O que é North Star Metric e como definir?\n- Quais dashboards criar para equipe de growth?\n- Como calcular ROI de iniciativas de growth?\n- Quais integrações são essenciais no stack de growth?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Growth Hacking",
+          "Crescimento"
+        ],
+        "dificuldade": "intermediario"
       }
     ]
   },
@@ -2134,6 +2212,241 @@
     "nome": "Growth Hacking",
     "icone": "trending-up",
     "emoji": "🚀",
-    "prompts": []
+    "prompts": [
+      {
+        "id": "growth-loops_virais-1",
+        "titulo": "Construção de Loop Viral Completo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie uma estratégia completa de loop viral para [produto/serviço]. Inclua: 1) Gatilho inicial que motiva compartilhamento, 2) Mecânica de incentivo (recompensas, gamificação), 3) Pontos de fricção reduzidos no compartilhamento, 4) Métricas de viralidade (K-factor, cycle time), 5) Testes A/B para otimizar cada etapa do loop.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-loops_virais-2",
+        "titulo": "Programa de Referência de Alta Conversão",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva um programa de referência para [negócio] que maximize aquisição de usuários. Defina: 1) Incentivos para referenciador e referido, 2) Mensagens persuasivas de convite, 3) Landing page otimizada para conversão, 4) Tracking e atribuição de referências, 5) Estratégia de reengajamento de referenciadores inativos.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-loops_virais-3",
+        "titulo": "Mecânicas de Gamificação para Viralidade",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Projete mecânicas de gamificação que incentivem compartilhamento orgânico de [produto]. Inclua: 1) Sistema de pontos/badges/leaderboards, 2) Desafios sociais e competições, 3) Recompensas desbloqueáveis por convites, 4) Elementos de FOMO (Fear of Missing Out), 5) Integração com redes sociais para amplificação.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-aquisicao_usuarios-4",
+        "titulo": "Estratégia de Product Hunt Launch",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um plano completo de lançamento no Product Hunt para [produto]. Inclua: 1) Preparação pré-lançamento (hunter, comunidade, assets), 2) Timing ideal e estratégia de dia de lançamento, 3) Copy persuasivo (tagline, descrição, first comment), 4) Mobilização de comunidade e upvotes, 5) Follow-up e conversão de tráfego em usuários.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-aquisicao_usuarios-5",
+        "titulo": "Growth Hacking via Comunidades Online",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia de aquisição através de comunidades online (Reddit, Discord, Slack, Facebook Groups) para [nicho]. Defina: 1) Identificação de comunidades relevantes, 2) Abordagem de value-first (não spam), 3) Criação de conteúdo útil e compartilhável, 4) Construção de autoridade e confiança, 5) Conversão sutil para produto/serviço.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-aquisicao_usuarios-6",
+        "titulo": "Parcerias Estratégicas para Crescimento",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Identifique e estruture parcerias estratégicas para acelerar crescimento de [negócio]. Inclua: 1) Mapeamento de parceiros complementares (não concorrentes), 2) Proposta de valor win-win, 3) Modelos de integração (API, co-marketing, bundle), 4) Estrutura de revenue share ou comissão, 5) KPIs e tracking de resultados da parceria.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-experimentacao_rapida-7",
+        "titulo": "Framework de Growth Experiments",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um sistema de experimentação contínua para [produto/serviço]. Defina: 1) Processo de ideação de experimentos (ICE score, PIE framework), 2) Priorização baseada em impacto vs esforço, 3) Design de experimentos com hipóteses claras, 4) Métricas de sucesso e critérios de validação, 5) Documentação e aprendizados para próximas iterações.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-experimentacao_rapida-8",
+        "titulo": "Testes de Canais de Aquisição",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva plano de testes rápidos para identificar canais de aquisição mais eficientes para [negócio]. Inclua: 1) Lista de 10+ canais a testar (paid, organic, partnerships), 2) Budget mínimo viável por canal, 3) Métricas de avaliação (CAC, LTV, payback period), 4) Duração e critérios de decisão, 5) Estratégia de double-down nos canais vencedores.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-experimentacao_rapida-9",
+        "titulo": "MVP e Validação de Ideias",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture processo de validação rápida para [nova feature/produto]. Defina: 1) Hipóteses core a validar, 2) MVP mínimo para testar (landing page, protótipo, concierge), 3) Métodos de coleta de feedback qualitativo e quantitativo, 4) Critérios de go/no-go, 5) Roadmap de iterações baseadas em aprendizados.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-otimizacao_funil-10",
+        "titulo": "Análise AARRR (Pirate Metrics)",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Realize análise completa do funil AARRR para [produto]. Avalie: 1) Acquisition: canais e custos de aquisição, 2) Activation: primeiros passos e aha moments, 3) Retention: cohorts e churn, 4) Revenue: monetização e LTV, 5) Referral: viralidade e NPS. Identifique gargalos e oportunidades de otimização em cada etapa.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-otimizacao_funil-11",
+        "titulo": "Otimização de Onboarding",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Redesenhe o onboarding de [produto] para maximizar ativação. Inclua: 1) Mapeamento de aha moment e time-to-value, 2) Redução de fricção e passos desnecessários, 3) Personalização baseada em use case, 4) Elementos de progresso e gamificação, 5) Triggers de engajamento e reengajamento.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-otimizacao_funil-12",
+        "titulo": "Estratégias de Retenção e Redução de Churn",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva plano de retenção para [negócio] focado em reduzir churn. Defina: 1) Análise de cohorts e padrões de churn, 2) Identificação de sinais de risco (health scores), 3) Campanhas de reengajamento automatizadas, 4) Programa de customer success proativo, 5) Win-back campaigns para usuários inativos.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-seo_content_marketing-13",
+        "titulo": "Estratégia de SEO Programático",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie estratégia de SEO programático para escalar tráfego orgânico de [site]. Inclua: 1) Identificação de oportunidades de long-tail keywords, 2) Estrutura de templates de páginas escaláveis, 3) Automação de geração de conteúdo (com qualidade), 4) Internal linking strategy, 5) Monitoramento de rankings e ajustes contínuos.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-seo_content_marketing-14",
+        "titulo": "Content Marketing que Converte",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva plano de content marketing focado em conversão para [negócio]. Defina: 1) Mapeamento de buyer journey e pain points, 2) Tipos de conteúdo por estágio do funil (TOFU, MOFU, BOFU), 3) Estratégia de distribuição multicanal, 4) CTAs e lead magnets estratégicos, 5) Métricas de ROI de conteúdo.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-seo_content_marketing-15",
+        "titulo": "Link Building e Autoridade de Domínio",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture campanha de link building para aumentar autoridade de [site]. Inclua: 1) Análise de backlink gap vs concorrentes, 2) Criação de linkable assets (estudos, ferramentas, infográficos), 3) Outreach estratégico para publishers, 4) Guest posting em sites relevantes, 5) Monitoramento de DA/DR e impacto em rankings.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-automacao_growth-16",
+        "titulo": "Stack de Ferramentas de Growth",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Monte stack completo de ferramentas para operação de growth de [negócio]. Inclua: 1) Analytics e tracking (Amplitude, Mixpanel), 2) Automação de marketing (Customer.io, Braze), 3) Testes e experimentação (Optimizely, VWO), 4) SEO e content (Ahrefs, Clearscope), 5) Integrações e workflows (Zapier, Make).",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-automacao_growth-17",
+        "titulo": "Automação de Campanhas de Growth",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva campanhas automatizadas de growth para [produto/serviço]. Defina: 1) Triggers comportamentais (signup, feature use, inatividade), 2) Sequências de emails/notificações personalizadas, 3) Segmentação dinâmica de usuários, 4) Testes A/B automatizados, 5) Otimização contínua baseada em performance.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      },
+      {
+        "id": "growth-automacao_growth-18",
+        "titulo": "Dashboards e Reporting de Growth",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie sistema de dashboards para monitorar métricas de growth de [negócio]. Inclua: 1) North Star Metric e KPIs primários, 2) Métricas por estágio do funil (AARRR), 3) Cohort analysis e retention curves, 4) Attribution e ROI por canal, 5) Alertas automatizados para anomalias.",
+        "categoria": "Geral",
+        "tags": [
+          "Growth Hacking",
+          "Crescimento",
+          "Aquisição"
+        ],
+        "dificuldade": "avancado"
+      }
+    ]
   }
 }
