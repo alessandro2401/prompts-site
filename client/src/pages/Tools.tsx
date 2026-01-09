@@ -165,6 +165,30 @@ const tools = [
     descricao: "Ahrefs oferece pesquisa de keywords, análise de backlinks, site audit, rank tracking, e content explorer para estratégias completas de SEO e content marketing.",
     url: "https://ahrefs.com/",
     tags: ["SEO", "Backlinks", "Keywords"]
+  },
+  {
+    nome: "Hootsuite",
+    categoria: "Gestão de Redes Sociais",
+    funcao: "Plataforma completa para agendamento, monitoramento e análise de redes sociais",
+    descricao: "Hootsuite permite gerenciar múltiplas contas de redes sociais em um só lugar, agendar posts, monitorar menções, analisar métricas e colaborar com equipes.",
+    url: "https://hootsuite.com/",
+    tags: ["Agendamento", "Analytics", "Monitoramento"]
+  },
+  {
+    nome: "Sprout Social",
+    categoria: "Social Media Management",
+    funcao: "Suite profissional de gestão e analytics de redes sociais",
+    descricao: "Sprout Social oferece ferramentas avançadas de publicação, engajamento, analytics, listening e reporting para equipes de social media.",
+    url: "https://sproutsocial.com/",
+    tags: ["Gestão", "Analytics", "Reporting"]
+  },
+  {
+    nome: "Brandwatch",
+    categoria: "Social Listening",
+    funcao: "Plataforma de social listening e consumer intelligence",
+    descricao: "Brandwatch monitora conversações em redes sociais, analisa sentiment, identifica tendências e fornece insights sobre consumidores e mercado.",
+    url: "https://brandwatch.com/",
+    tags: ["Listening", "Monitoring", "Intelligence"]
   }
 ];
 
@@ -175,7 +199,7 @@ export default function Tools() {
       <section className="py-12 md:py-16 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>20 Ferramentas Recomendadas</span>
+          <span>23 Ferramentas Recomendadas</span>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
           Ferramentas de IA Recomendadas
