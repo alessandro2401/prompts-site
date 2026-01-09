@@ -93,6 +93,30 @@ const tools = [
     descricao: "ConvertKit é projetado especificamente para criadores de conteúdo, oferecendo automações visuais simples, landing pages integradas e ferramentas para monetização de audiência através de e-mail.",
     url: "https://convertkit.com/",
     tags: ["Criadores", "Automação", "Landing Pages"]
+  },
+  {
+    nome: "Jasper AI",
+    categoria: "Copywriting com IA",
+    funcao: "Assistente de copywriting potencializado por IA",
+    descricao: "Jasper AI é uma ferramenta de copywriting que usa inteligência artificial para gerar copy persuasivo, headlines, descrições de produtos, e-mails e conteúdo de vendas otimizado para conversão.",
+    url: "https://www.jasper.ai/",
+    tags: ["Copywriting", "IA", "Automação"]
+  },
+  {
+    nome: "Copy.ai",
+    categoria: "Geração de Copy",
+    funcao: "Plataforma de geração de copy com templates",
+    descricao: "Copy.ai oferece dezenas de templates para diferentes tipos de copy (anúncios, e-mails, landing pages, posts sociais) com geração rápida baseada em IA e otimização para conversão.",
+    url: "https://www.copy.ai/",
+    tags: ["Copy", "Templates", "IA"]
+  },
+  {
+    nome: "Hemingway Editor",
+    categoria: "Edição de Texto",
+    funcao: "Editor que torna copy mais claro e direto",
+    descricao: "Hemingway Editor analisa seu copy e sugere melhorias para torná-lo mais claro, conciso e fácil de ler, destacando frases complexas, voz passiva e palavras desnecessárias.",
+    url: "https://hemingwayapp.com/",
+    tags: ["Edição", "Clareza", "Legibilidade"]
   }
 ];
 
@@ -103,7 +127,7 @@ export default function Tools() {
       <section className="py-12 md:py-16 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>7 Ferramentas Recomendadas</span>
+          <span>14 Ferramentas Recomendadas</span>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
           Ferramentas de IA Recomendadas
