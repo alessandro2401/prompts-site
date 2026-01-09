@@ -69,6 +69,30 @@ const tools = [
     descricao: "Lumen5 transforma seu conteúdo escrito, como posts de blog, em vídeos chamativos — ideal para reaproveitar conteúdo e distribuí-lo de forma atrativa em seus canais sociais.",
     url: "https://lumen5.com/",
     tags: ["Vídeo", "Automação", "Reaproveitamento"]
+  },
+  {
+    nome: "Mailchimp",
+    categoria: "Automação de E-mail",
+    funcao: "Plataforma completa de e-mail marketing com automação",
+    descricao: "Mailchimp oferece ferramentas completas para criação, envio e automação de campanhas de e-mail, com recursos de segmentação avançada, templates personalizáveis e análises detalhadas de desempenho.",
+    url: "https://mailchimp.com/",
+    tags: ["E-mail Marketing", "Automação", "Análise"]
+  },
+  {
+    nome: "Klaviyo",
+    categoria: "E-commerce E-mail Marketing",
+    funcao: "Plataforma de e-mail marketing focada em e-commerce",
+    descricao: "Klaviyo é especializada em e-mail marketing para e-commerce, oferecendo automações comportamentais avançadas, segmentação baseada em dados de compra e integrações profundas com plataformas de vendas.",
+    url: "https://www.klaviyo.com/",
+    tags: ["E-commerce", "Automação", "Personalização"]
+  },
+  {
+    nome: "ConvertKit",
+    categoria: "E-mail Marketing para Criadores",
+    funcao: "Ferramenta de e-mail marketing para criadores de conteúdo",
+    descricao: "ConvertKit é projetado especificamente para criadores de conteúdo, oferecendo automações visuais simples, landing pages integradas e ferramentas para monetização de audiência através de e-mail.",
+    url: "https://convertkit.com/",
+    tags: ["Criadores", "Automação", "Landing Pages"]
   }
 ];
 
