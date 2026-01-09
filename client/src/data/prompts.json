@@ -670,6 +670,240 @@
           "Otimização"
         ],
         "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-marketing_baixo_custo-1",
+        "titulo": "Plano de Marketing com Orçamento Zero",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia completa de marketing com orçamento zero para [negócio/produto]. Inclua: 1) Táticas de marketing orgânico (SEO, conteúdo, redes sociais), 2) Parcerias e colaborações estratégicas, 3) Marketing boca a boca e referral programs, 4) Aproveitamento de plataformas gratuitas, 5) Cronograma de implementação e métricas de sucesso.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-marketing_baixo_custo-2",
+        "titulo": "Guerrilha Marketing Criativo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie campanha de guerrilha marketing inovadora para [marca/produto]. Defina: 1) Conceito criativo e impactante, 2) Locais e momentos estratégicos, 3) Elementos virais e compartilháveis, 4) Budget mínimo necessário, 5) Estratégia de amplificação digital e medição de impacto.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-marketing_baixo_custo-3",
+        "titulo": "Marketing de Conteúdo Gratuito e Escalável",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture estratégia de content marketing sem investimento para [nicho/setor]. Inclua: 1) Pilares de conteúdo e temas estratégicos, 2) Formatos de conteúdo (blog, vídeo, podcast), 3) Canais de distribuição gratuitos, 4) Cronograma de produção sustentável, 5) Estratégias de SEO e viralização orgânica.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-otimizacao_orcamento-4",
+        "titulo": "Auditoria e Otimização de Budget de Marketing",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Realize auditoria completa do orçamento de marketing de [empresa]. Analise: 1) Distribuição atual de investimentos por canal, 2) ROI e performance de cada iniciativa, 3) Identificação de desperdícios e ineficiências, 4) Recomendações de realocação de budget, 5) Plano de otimização com metas claras.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-otimizacao_orcamento-5",
+        "titulo": "Estratégia de Marketing Lean",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia de marketing lean para [startup/pequeno negócio]. Defina: 1) Priorização de canais de maior impacto, 2) Testes rápidos e iteração (MVP marketing), 3) Automação e ferramentas econômicas, 4) Métricas essenciais e decisões data-driven, 5) Escalabilidade com crescimento controlado.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-otimizacao_orcamento-6",
+        "titulo": "ROI Máximo com Orçamento Mínimo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie framework para maximizar ROI com orçamento limitado em [setor/nicho]. Inclua: 1) Identificação de quick wins e low-hanging fruits, 2) Priorização baseada em impacto vs esforço, 3) Táticas de growth hacking econômicas, 4) Reaproveitamento e otimização de assets, 5) Sistema de medição e otimização contínua.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-parcerias_colaboracoes-7",
+        "titulo": "Programa de Parcerias Estratégicas",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture programa completo de parcerias para [negócio]. Defina: 1) Identificação de parceiros ideais (complementares, não concorrentes), 2) Proposta de valor para ambas as partes, 3) Modelos de colaboração (co-marketing, cross-promotion), 4) Acordos e termos de parceria, 5) Métricas de sucesso e gestão de relacionamento.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-parcerias_colaboracoes-8",
+        "titulo": "Estratégia de Co-Marketing",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia de co-marketing para [marca/produto]. Inclua: 1) Seleção de parceiros com audiências complementares, 2) Campanhas conjuntas (webinars, ebooks, eventos), 3) Divisão de custos e responsabilidades, 4) Canais de distribuição e amplificação, 5) Medição de resultados e atribuição.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-parcerias_colaboracoes-9",
+        "titulo": "Network e Comunidades para Growth Gratuito",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie estratégia de networking e participação em comunidades para [negócio/marca]. Defina: 1) Identificação de comunidades relevantes (online e offline), 2) Estratégia de contribuição e value-add, 3) Posicionamento como thought leader, 4) Geração de leads e oportunidades, 5) Construção de relacionamentos de longo prazo.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-marketing_organico-10",
+        "titulo": "Estratégia de SEO para Crescimento Orgânico",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia completa de SEO para [site/negócio]. Inclua: 1) Pesquisa e seleção de keywords estratégicas, 2) Otimização on-page e técnica, 3) Estratégia de link building orgânico, 4) Content marketing focado em SEO, 5) Monitoramento e otimização contínua de rankings.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-marketing_organico-11",
+        "titulo": "Viralização Orgânica em Redes Sociais",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie framework para viralização orgânica em [plataformas sociais]. Defina: 1) Identificação de gatilhos emocionais e trending topics, 2) Formatos de conteúdo com maior potencial viral, 3) Timing e frequência de publicação, 4) Estratégias de engajamento e amplificação, 5) Análise de conteúdo viral e replicação de sucesso.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-marketing_organico-12",
+        "titulo": "Programa de Referral e Advocacy",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture programa de referral e advocacy para [produto/serviço]. Inclua: 1) Incentivos e gamificação para referências, 2) Ferramentas e recursos para advocates, 3) Processo simplificado de indicação, 4) Tracking e atribuição de referrals, 5) Reconhecimento e recompensas para top advocates.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-ferramentas_gratuitas-13",
+        "titulo": "Stack de Ferramentas Gratuitas de Marketing",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Monte stack completo de ferramentas gratuitas para [tipo de negócio]. Inclua: 1) Design e criação (Canva, GIMP), 2) Analytics e tracking (Google Analytics, Hotjar free), 3) Email marketing (Mailchimp free tier), 4) Social media (Buffer free, Later), 5) SEO e research (Ubersuggest, Google Search Console).",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-ferramentas_gratuitas-14",
+        "titulo": "Automação de Marketing com Ferramentas Gratuitas",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva sistema de automação usando apenas ferramentas gratuitas para [negócio]. Defina: 1) Automação de email marketing e nurturing, 2) Agendamento de redes sociais, 3) Chatbots e atendimento automatizado, 4) Workflows e integrações (Zapier free tier), 5) Reporting e dashboards automatizados.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-ferramentas_gratuitas-15",
+        "titulo": "Recursos Gratuitos para Criação de Conteúdo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Compile biblioteca de recursos gratuitos para produção de conteúdo. Inclua: 1) Bancos de imagens e vídeos (Unsplash, Pexels), 2) Ferramentas de edição (DaVinci Resolve, Audacity), 3) Templates e assets (Notion templates, Figma community), 4) Fonts e ícones gratuitos, 5) Cursos e tutoriais para aprendizado.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-bootstrapping_marketing-16",
+        "titulo": "Estratégia de Marketing para Bootstrapped Startups",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia completa de marketing para startup bootstrapped. Inclua: 1) Priorização de canais de aquisição orgânica, 2) Personal branding dos founders, 3) Product-led growth e word-of-mouth, 4) Community building e early adopters, 5) Métricas de crescimento sustentável sem funding.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-bootstrapping_marketing-17",
+        "titulo": "Marketing DIY: Do Zero ao Primeiro Cliente",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie roadmap de marketing DIY para [novo negócio/produto]. Defina: 1) Validação de mercado e primeiros clientes, 2) Táticas de outreach e cold approach, 3) Construção de presença digital mínima, 4) Storytelling e posicionamento único, 5) Primeiras vendas e feedback loop.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "marketing-economico-bootstrapping_marketing-18",
+        "titulo": "Crescimento Sustentável sem Investimento Externo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Estruture plano de crescimento sustentável para [negócio bootstrapped]. Inclua: 1) Reinvestimento de receita em marketing, 2) Otimização de LTV e redução de CAC, 3) Foco em retenção e upsell, 4) Escalabilidade com margens saudáveis, 5) Milestones e próximos passos de crescimento.",
+        "categoria": "Geral",
+        "tags": [
+          "Marketing Econômico",
+          "Baixo Custo",
+          "Estratégia"
+        ],
+        "dificuldade": "intermediario"
       }
     ]
   },
@@ -2041,6 +2275,84 @@
           "Gestão"
         ],
         "dificuldade": "intermediario"
+      },
+      {
+        "id": "faq-marketing-economico-marketing_baixo_custo",
+        "titulo": "FAQ: Estratégias De Marketing De Baixo Custo",
+        "descricao": "Perguntas frequentes sobre marketing econômico e estratégias de baixo custo.",
+        "conteudo": "Perguntas frequentes:\n\n- Como fazer marketing sem orçamento?\n- Quais estratégias de marketing são gratuitas?\n- O que é guerrilha marketing?\n- Como criar conteúdo viral sem investimento?\n- Quais plataformas de marketing são gratuitas?\n- Como conseguir clientes sem gastar dinheiro?\n- O que é marketing orgânico?\n- Como fazer parcerias estratégicas?\n- Quais ferramentas gratuitas de marketing usar?\n- Como medir ROI de marketing gratuito?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Marketing Econômico",
+          "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-marketing-economico-otimizacao_orcamento",
+        "titulo": "FAQ: Otimização De Orçamento De Marketing",
+        "descricao": "Perguntas frequentes sobre marketing econômico e estratégias de baixo custo.",
+        "conteudo": "Perguntas frequentes:\n\n- Como otimizar orçamento de marketing?\n- Qual a porcentagem ideal de budget para marketing?\n- Como calcular ROI de campanhas de marketing?\n- O que é marketing lean?\n- Como priorizar investimentos em marketing?\n- Quais canais de marketing têm melhor custo-benefício?\n- Como reduzir custos de marketing sem perder resultados?\n- O que são quick wins em marketing?\n- Como fazer mais com menos em marketing?\n- Quais métricas de marketing são essenciais?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Marketing Econômico",
+          "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-marketing-economico-parcerias_colaboracoes",
+        "titulo": "FAQ: Parcerias E Colaborações Estratégicas",
+        "descricao": "Perguntas frequentes sobre marketing econômico e estratégias de baixo custo.",
+        "conteudo": "Perguntas frequentes:\n\n- Como encontrar parceiros estratégicos?\n- O que é co-marketing?\n- Como fazer parcerias win-win?\n- Quais os benefícios de parcerias estratégicas?\n- Como estruturar acordo de parceria?\n- O que é cross-promotion?\n- Como participar de comunidades de forma estratégica?\n- Como fazer networking eficaz?\n- Quais plataformas para encontrar parceiros?\n- Como medir sucesso de parcerias?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Marketing Econômico",
+          "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-marketing-economico-marketing_organico",
+        "titulo": "FAQ: Crescimento Orgânico E Viral",
+        "descricao": "Perguntas frequentes sobre marketing econômico e estratégias de baixo custo.",
+        "conteudo": "Perguntas frequentes:\n\n- Como crescer organicamente sem anúncios?\n- O que é SEO e como começar?\n- Como fazer conteúdo viral?\n- O que é marketing de referral?\n- Como criar programa de indicação?\n- Quais estratégias de crescimento orgânico funcionam?\n- Como aumentar alcance orgânico em redes sociais?\n- O que são brand advocates?\n- Como fazer link building gratuito?\n- Quanto tempo leva para ver resultados de SEO?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Marketing Econômico",
+          "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-marketing-economico-ferramentas_gratuitas",
+        "titulo": "FAQ: Ferramentas E Recursos Gratuitos",
+        "descricao": "Perguntas frequentes sobre marketing econômico e estratégias de baixo custo.",
+        "conteudo": "Perguntas frequentes:\n\n- Quais ferramentas de marketing são gratuitas?\n- Como fazer design sem pagar?\n- Existem alternativas gratuitas ao Photoshop?\n- Como automatizar marketing sem custo?\n- Quais bancos de imagens gratuitos usar?\n- Como fazer email marketing grátis?\n- Existem ferramentas gratuitas de SEO?\n- Como criar vídeos sem gastar?\n- Quais cursos gratuitos de marketing fazer?\n- Como integrar ferramentas gratuitas?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Marketing Econômico",
+          "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-marketing-economico-bootstrapping_marketing",
+        "titulo": "FAQ: Bootstrapping E Marketing Diy",
+        "descricao": "Perguntas frequentes sobre marketing econômico e estratégias de baixo custo.",
+        "conteudo": "Perguntas frequentes:\n\n- O que é bootstrapping?\n- Como fazer marketing sem investimento inicial?\n- Como conseguir primeiros clientes?\n- O que é product-led growth?\n- Como validar ideia de negócio sem gastar?\n- Quais estratégias de marketing para startups?\n- Como crescer sem investimento externo?\n- O que é CAC e LTV?\n- Como fazer cold outreach eficaz?\n- Quando investir em marketing pago?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "Marketing Econômico",
+          "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
       }
     ]
   },
