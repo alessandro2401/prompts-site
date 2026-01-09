@@ -821,6 +821,104 @@
           "FAQ"
         ],
         "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-gatilhos_comportamentais",
+        "titulo": "FAQ: E-mails com Gatilhos",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Quais são os elementos-chave de um e-mail eficaz de abandono de carrinho?**\\n\\n**2. Como escrever um e-mail que celebre um marco do cliente (ex.: aniversário de associação)?**\\n\\n**3. Quais tipos de recompensas são mais eficazes em campanhas de reconquista?**\\n\\n**4. Como criar uma sequência de e-mails pós-compra para estimular upsells?**\\n\\n**5. Quais são as melhores práticas para usar conteúdo dinâmico em e-mails comportamentais?**\\n\\n**6. Como acompanhar o sucesso de e-mails acionados por comportamento?**\\n\\n**7. Quais linhas de assunto são mais eficazes para reengajar assinantes inativos?**\\n\\n**8. Qual frequência de envio funciona melhor para sequências de e-mails baseadas em comportamento?**\\n\\n**9. Como usar dados de histórico de compras para personalizar e-mails de follow-up?**\\n\\n**10. Quais incentivos funcionam melhor para recuperar clientes após o cancelamento da assinatura?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-campanhas_interativas",
+        "titulo": "FAQ: Campanhas Interativas",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Quais elementos interativos funcionam melhor em campanhas de e-mail?**\\n\\n**2. Como criar enquetes eficazes dentro de e-mails?**\\n\\n**3. Quais plataformas suportam e-mails interativos com gamificação?**\\n\\n**4. Como medir o engajamento em e-mails interativos?**\\n\\n**5. Quais são os benefícios de usar GIFs e vídeos em e-mails?**\\n\\n**6. Como implementar contadores regressivos em e-mails promocionais?**\\n\\n**7. Quais tipos de quizzes geram mais engajamento em e-mails?**\\n\\n**8. Como usar carrosséis de produtos em e-mails de forma eficaz?**\\n\\n**9. Quais são as melhores práticas para e-mails com botões interativos?**\\n\\n**10. Como garantir que e-mails interativos sejam compatíveis com diferentes clientes de e-mail?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-emails_transacionais",
+        "titulo": "FAQ: E-mails Transacionais",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Quais informações essenciais devem estar em um e-mail de confirmação de pedido?**\\n\\n**2. Como tornar e-mails transacionais mais envolventes sem comprometer sua função principal?**\\n\\n**3. Quais são as melhores práticas para e-mails de redefinição de senha?**\\n\\n**4. Como usar e-mails de boas-vindas para aumentar o engajamento inicial?**\\n\\n**5. Quais oportunidades de upsell existem em e-mails transacionais?**\\n\\n**6. Como personalizar e-mails de confirmação de envio?**\\n\\n**7. Quais métricas devo acompanhar para e-mails transacionais?**\\n\\n**8. Como garantir que e-mails transacionais não sejam marcados como spam?**\\n\\n**9. Quais elementos de design melhoram a experiência em e-mails transacionais?**\\n\\n**10. Como usar e-mails de recibo para fortalecer a relação com o cliente?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-emails_storytelling",
+        "titulo": "FAQ: E-mails Narrativos",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Como estruturar uma história eficaz em um e-mail?**\\n\\n**2. Quais elementos de storytelling geram mais engajamento em e-mails?**\\n\\n**3. Como usar histórias de clientes para aumentar credibilidade?**\\n\\n**4. Qual o comprimento ideal para e-mails narrativos?**\\n\\n**5. Como criar suspense em uma série de e-mails?**\\n\\n**6. Quais tipos de histórias ressoam melhor com diferentes públicos?**\\n\\n**7. Como equilibrar storytelling com call-to-action em e-mails?**\\n\\n**8. Quais são os erros comuns ao usar narrativas em e-mail marketing?**\\n\\n**9. Como usar imagens para complementar histórias em e-mails?**\\n\\n**10. Quais métricas indicam que uma história em e-mail foi bem-sucedida?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-emails_retencao",
+        "titulo": "FAQ: Retenção de Clientes",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Quais estratégias de e-mail são mais eficazes para reter clientes?**\\n\\n**2. Como identificar clientes em risco de churn através de métricas de e-mail?**\\n\\n**3. Quais tipos de ofertas funcionam melhor em e-mails de retenção?**\\n\\n**4. Como personalizar e-mails de retenção com base no comportamento do cliente?**\\n\\n**5. Qual a frequência ideal para e-mails de check-in com clientes?**\\n\\n**6. Como usar e-mails de aniversário para fortalecer a lealdade?**\\n\\n**7. Quais são as melhores práticas para programas de fidelidade via e-mail?**\\n\\n**8. Como solicitar feedback de forma eficaz em e-mails de retenção?**\\n\\n**9. Quais métricas indicam sucesso em campanhas de retenção por e-mail?**\\n\\n**10. Como segmentar clientes para campanhas de retenção mais eficazes?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-emails_educativos",
+        "titulo": "FAQ: E-mails Educativos",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Como estruturar e-mails educativos para máximo engajamento?**\\n\\n**2. Qual o equilíbrio ideal entre conteúdo educativo e promocional?**\\n\\n**3. Como usar e-mails educativos para nutrir leads?**\\n\\n**4. Quais formatos de conteúdo funcionam melhor em e-mails educativos?**\\n\\n**5. Como medir o impacto de e-mails educativos na jornada do cliente?**\\n\\n**6. Quais tipos de tutoriais geram mais valor para os assinantes?**\\n\\n**7. Como criar séries educacionais que mantenham o interesse ao longo do tempo?**\\n\\n**8. Quais são as melhores práticas para incluir recursos visuais em e-mails educativos?**\\n\\n**9. Como segmentar audiências para conteúdo educativo personalizado?**\\n\\n**10. Quais call-to-actions funcionam melhor em e-mails educativos?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-email-redacao_email_marketing",
+        "titulo": "FAQ: Redação de E-mails",
+        "descricao": "Perguntas frequentes sobre estratégias de e-mail marketing.",
+        "conteudo": "**1. Quais são os elementos essenciais de um e-mail de marketing eficaz?**\\n\\n**2. Como escrever linhas de assunto que aumentem as taxas de abertura?**\\n\\n**3. Quais técnicas de copywriting funcionam melhor em e-mails?**\\n\\n**4. Como criar senso de urgência sem parecer desesperado?**\\n\\n**5. Qual o comprimento ideal para e-mails promocionais?**\\n\\n**6. Como personalizar e-mails em escala mantendo autenticidade?**\\n\\n**7. Quais são as melhores práticas para call-to-actions em e-mails?**\\n\\n**8. Como testar e otimizar copy de e-mails através de testes A/B?**\\n\\n**9. Quais palavras e frases devem ser evitadas para não cair em spam?**\\n\\n**10. Como adaptar o tom de voz para diferentes segmentos de audiência?**",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "Marketing por E-mail",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "FAQ"
+        ],
+        "dificuldade": "iniciante"
       }
     ]
   },
@@ -1003,7 +1101,302 @@
     "nome": "Marketing por E-mail",
     "icone": "mail",
     "emoji": "📧",
-    "prompts": []
+    "prompts": [
+      {
+        "id": "email-marketing-gatilhos_comportamentais-1",
+        "titulo": "E-mail de Recuperação de Carrinho Abandonado",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Quando um cliente [ação, ex.: \"abandona o carrinho\"] no meu site, quero enviar um e-mail oferecendo [incentivo]. Gere um texto de e-mail que os reconquiste de forma eficaz.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails com Gatilhos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails com Gatilhos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-gatilhos_comportamentais-2",
+        "titulo": "E-mail de Agradecimento e Próxima Ação",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Meus clientes frequentemente [ação, ex.: \"deixam avaliações após uma compra\"]. Escreva um e-mail agradecendo a eles e incentivando uma nova interação com [próxima ação, ex.: \"compartilhar a avaliação nas redes sociais\"].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails com Gatilhos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails com Gatilhos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-gatilhos_comportamentais-3",
+        "titulo": "E-mail de Reengajamento de Clientes Inativos",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Clientes que não interagem com meus e-mails há [período de tempo] devem receber um e-mail de reengajamento com uma [oferta especial/tipo de conteúdo]. Crie um rascunho para esse e-mail.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails com Gatilhos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails com Gatilhos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-campanhas_interativas-1",
+        "titulo": "E-mail Interativo com Enquete",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um e-mail interativo que inclua uma enquete sobre [tópico específico] para engajar meus assinantes e coletar feedback valioso sobre [produto/serviço].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Campanhas Interativas",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Campanhas Interativas"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-campanhas_interativas-2",
+        "titulo": "E-mail com Gamificação",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva uma campanha de e-mail que use elementos de gamificação, como [quiz, desafio, roda da sorte], para aumentar o engajamento e promover [produto/oferta específica].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Campanhas Interativas",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Campanhas Interativas"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-campanhas_interativas-3",
+        "titulo": "E-mail com Conteúdo Dinâmico",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Escreva um e-mail que utilize conteúdo dinâmico baseado em [comportamento do usuário, localização, histórico de compras] para personalizar a experiência e aumentar as conversões.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Campanhas Interativas",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Campanhas Interativas"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_transacionais-1",
+        "titulo": "E-mail de Confirmação de Pedido Otimizado",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um e-mail de confirmação de pedido para [produto/serviço] que não apenas confirme a compra, mas também inclua [recomendações de produtos relacionados, link para rastreamento, informações de suporte].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Transacionais",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Transacionais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_transacionais-2",
+        "titulo": "E-mail de Boas-Vindas Estratégico",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Escreva um e-mail de boas-vindas para novos assinantes que apresente [sua marca, benefícios principais, próximos passos] de forma envolvente e estabeleça expectativas claras.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Transacionais",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Transacionais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_transacionais-3",
+        "titulo": "E-mail de Redefinição de Senha com Upsell",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva um e-mail de redefinição de senha que seja seguro e funcional, mas também aproveite a oportunidade para [promover um recurso premium, oferecer dica de segurança, sugerir atualização de perfil].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Transacionais",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Transacionais"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_storytelling-1",
+        "titulo": "E-mail com História de Cliente",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Escreva um e-mail que conte a história de sucesso de um cliente usando [seu produto/serviço], destacando [desafios enfrentados, solução implementada, resultados alcançados] de forma inspiradora.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Narrativos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Narrativos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_storytelling-2",
+        "titulo": "E-mail com Narrativa da Marca",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um e-mail que compartilhe a história da origem da sua marca, focando em [valores fundamentais, missão, momentos decisivos] para criar conexão emocional com os assinantes.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Narrativos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Narrativos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_storytelling-3",
+        "titulo": "E-mail com Série Narrativa",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva o primeiro e-mail de uma série narrativa em 3 partes sobre [tópico relevante para seu público], criando suspense e incentivando os leitores a aguardarem os próximos episódios.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Narrativos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Narrativos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_retencao-1",
+        "titulo": "E-mail de Programa de Fidelidade",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um e-mail apresentando um novo programa de fidelidade para clientes existentes, destacando [benefícios exclusivos, sistema de pontos, recompensas] e incentivando a participação imediata.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Retenção de Clientes",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Retenção de Clientes"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_retencao-2",
+        "titulo": "E-mail de Check-in com Cliente",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Escreva um e-mail de check-in para clientes que não fizeram compras há [período de tempo], oferecendo [desconto personalizado, novidades relevantes, solicitação de feedback] para reativar o relacionamento.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Retenção de Clientes",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Retenção de Clientes"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_retencao-3",
+        "titulo": "E-mail de Aniversário de Cliente",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva um e-mail celebrando o aniversário de [assinatura, primeira compra, cadastro] do cliente, incluindo [oferta especial, agradecimento personalizado, retrospectiva do relacionamento].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Retenção de Clientes",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Retenção de Clientes"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_educativos-1",
+        "titulo": "E-mail com Tutorial Passo a Passo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um e-mail educativo que ensine aos assinantes como [realizar uma tarefa específica] usando [seu produto/serviço], com instruções claras, visuais e dicas práticas.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Educativos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Educativos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_educativos-2",
+        "titulo": "E-mail com Insights da Indústria",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Escreva um e-mail compartilhando insights valiosos sobre [tendência ou tópico da indústria], posicionando sua marca como autoridade e oferecendo [análise exclusiva, dados relevantes, recomendações práticas].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Educativos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Educativos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-emails_educativos-3",
+        "titulo": "E-mail com Série Educacional",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva o primeiro e-mail de uma série educacional de 5 partes sobre [tópico complexo], dividindo o conteúdo em módulos digestíveis e incentivando o aprendizado progressivo.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "E-mails Educativos",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "E-mails Educativos"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-redacao_email_marketing-1",
+        "titulo": "Linha de Assunto de Alto Impacto",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie 10 linhas de assunto diferentes para uma campanha de e-mail sobre [produto/oferta], usando técnicas como [urgência, curiosidade, personalização, benefício claro] para maximizar a taxa de abertura.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Redação de E-mails",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Redação de E-mails"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-redacao_email_marketing-2",
+        "titulo": "Copy de E-mail Persuasivo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Escreva o copy completo de um e-mail promocional para [produto/serviço], utilizando a estrutura [AIDA, PAS, BAB], incluindo [abertura impactante, corpo persuasivo, call-to-action forte].",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Redação de E-mails",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Redação de E-mails"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "email-marketing-redacao_email_marketing-3",
+        "titulo": "E-mail de Lançamento de Produto",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva um e-mail de lançamento para [novo produto/serviço], criando antecipação, destacando [benefícios únicos, diferenciais competitivos] e incluindo oferta exclusiva para primeiros compradores.",
+        "categoria": "Marketing por E-mail",
+        "subcategoria": "Redação de E-mails",
+        "tags": [
+          "Geral",
+          "E-mail Marketing",
+          "Redação de E-mails"
+        ],
+        "dificuldade": "intermediario"
+      }
+    ]
   },
   "growth-hacking": {
     "nome": "Growth Hacking",
