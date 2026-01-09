@@ -1683,6 +1683,240 @@
           "Redes Sociais"
         ],
         "dificuldade": "intermediario"
+      },
+      {
+        "id": "crm-segmentacao_clientes-1",
+        "titulo": "Criação de Personas de Clientes Detalhadas",
+        "conteudo": "Atue como especialista em CRM e análise de clientes. Crie personas detalhadas de clientes para [seu negócio/produto]. Para cada persona, inclua: dados demográficos, comportamentos de compra, pontos de dor, motivações, objeções comuns, canais preferidos de comunicação, e jornada típica do cliente. Use dados de [fonte de dados] para embasar as personas.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "segmentação e análise de clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-segmentacao_clientes-2",
+        "titulo": "Estratégia de Segmentação RFM (Recência, Frequência, Monetário)",
+        "conteudo": "Desenvolva uma estratégia de segmentação RFM para [seu negócio]. Defina critérios para classificar clientes em segmentos como: Champions, Loyal Customers, Potential Loyalists, At Risk, Can't Lose Them, etc. Para cada segmento, crie estratégias específicas de engajamento, retenção e upsell.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "segmentação e análise de clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-segmentacao_clientes-3",
+        "titulo": "Análise de Lifetime Value (LTV) por Segmento",
+        "conteudo": "Calcule e analise o Lifetime Value (LTV) de diferentes segmentos de clientes para [seu negócio]. Identifique os segmentos mais valiosos, fatores que aumentam o LTV, e oportunidades para maximizar o valor ao longo do tempo. Crie um plano de ação para aumentar o LTV dos segmentos prioritários.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "segmentação e análise de clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-automacao_vendas-4",
+        "titulo": "Fluxo de Automação de Follow-up de Vendas",
+        "conteudo": "Crie um fluxo de automação completo de follow-up de vendas para [seu produto/serviço]. Inclua: sequência de e-mails, timing ideal entre contatos, triggers baseados em comportamento, personalização dinâmica, e pontos de saída do fluxo. Defina também métricas de sucesso e pontos de otimização.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "automação de processos de vendas",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-automacao_vendas-5",
+        "titulo": "Sistema de Lead Scoring Automatizado",
+        "conteudo": "Desenvolva um sistema de lead scoring para [seu negócio]. Defina critérios de pontuação baseados em: dados demográficos (fit), comportamento (engajamento), fonte de aquisição, e interações. Crie regras de automação para rotear leads qualificados para vendas e nutrir leads não qualificados com marketing.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "automação de processos de vendas",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-automacao_vendas-6",
+        "titulo": "Automação de Onboarding de Novos Clientes",
+        "conteudo": "Crie um processo automatizado de onboarding para novos clientes de [seu produto/serviço]. Inclua: sequência de boas-vindas, tutoriais progressivos, check-ins automatizados, identificação de clientes em risco, e triggers para intervenção humana quando necessário. Foque em reduzir churn nos primeiros 90 dias.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "automação de processos de vendas",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-retencao_clientes-7",
+        "titulo": "Programa de Retenção e Redução de Churn",
+        "conteudo": "Desenvolva um programa completo de retenção para [seu negócio]. Identifique sinais de churn (comportamentos de risco), crie estratégias de intervenção proativa, defina ofertas de retenção segmentadas, e estabeleça um processo de win-back para clientes perdidos. Inclua métricas de sucesso e KPIs de retenção.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "estratégias de retenção de clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-retencao_clientes-8",
+        "titulo": "Estratégia de Customer Success Proativo",
+        "conteudo": "Crie uma estratégia de Customer Success proativo para [seu produto/serviço]. Defina: marcos de sucesso do cliente (milestones), check-ins estratégicos, identificação de oportunidades de expansão, e programa de advocacy. Foque em garantir que clientes alcancem seus objetivos e vejam valor contínuo.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "estratégias de retenção de clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-retencao_clientes-9",
+        "titulo": "Programa de Fidelidade e Engajamento Contínuo",
+        "conteudo": "Desenvolva um programa de fidelidade para [seu negócio]. Defina: sistema de recompensas, níveis de fidelidade (tiers), benefícios exclusivos, gamificação, e estratégias de engajamento contínuo. Crie um plano para incentivar compras repetidas e aumentar o lifetime value.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "estratégias de retenção de clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-comunicacao_personalizada-10",
+        "titulo": "Estratégia de Comunicação Omnichannel Personalizada",
+        "conteudo": "Crie uma estratégia de comunicação omnichannel para [seu negócio]. Defina: canais prioritários por segmento de cliente, mensagens personalizadas por estágio da jornada, frequência ideal de contato, e integração entre canais. Garanta consistência de experiência e mensagem em todos os pontos de contato.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "comunicação personalizada com clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-comunicacao_personalizada-11",
+        "titulo": "Sistema de Recomendações Personalizadas",
+        "conteudo": "Desenvolva um sistema de recomendações personalizadas para [seu produto/serviço]. Use dados de comportamento, histórico de compras, e preferências para sugerir produtos/serviços relevantes. Crie templates de comunicação para diferentes tipos de recomendações (cross-sell, upsell, recompra).",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "comunicação personalizada com clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-comunicacao_personalizada-12",
+        "titulo": "Automação de Comunicação Baseada em Eventos",
+        "conteudo": "Crie um sistema de comunicação automatizada baseada em eventos para [seu negócio]. Defina triggers (aniversário, renovação, milestone, abandono de carrinho, etc.) e mensagens personalizadas para cada evento. Inclua testes A/B e otimização contínua das comunicações.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "comunicação personalizada com clientes",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-analise_dados_crm-13",
+        "titulo": "Dashboard de Métricas de CRM",
+        "conteudo": "Crie um dashboard completo de métricas de CRM para [seu negócio]. Inclua: taxa de retenção, churn rate, LTV, CAC, NPS, tempo de resposta, taxa de conversão por estágio, e health score de clientes. Defina benchmarks, metas, e alertas para métricas críticas.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "análise de dados e métricas de CRM",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-analise_dados_crm-14",
+        "titulo": "Análise de Jornada do Cliente (Customer Journey Analytics)",
+        "conteudo": "Realize uma análise completa da jornada do cliente para [seu produto/serviço]. Mapeie todos os touchpoints, identifique pontos de fricção, oportunidades de melhoria, e momentos críticos. Use dados para otimizar a experiência em cada estágio da jornada.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "análise de dados e métricas de CRM",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-analise_dados_crm-15",
+        "titulo": "Previsão de Churn com Análise Preditiva",
+        "conteudo": "Desenvolva um modelo de previsão de churn para [seu negócio]. Identifique variáveis preditivas (comportamento, engajamento, uso do produto, suporte), crie um score de risco de churn, e defina ações preventivas automatizadas para clientes em risco. Valide e refine o modelo continuamente.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "análise de dados e métricas de CRM",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-integracao_ferramentas-16",
+        "titulo": "Arquitetura de Stack de CRM Integrado",
+        "conteudo": "Desenhe uma arquitetura de stack de CRM integrado para [seu negócio]. Defina: CRM principal, ferramentas de automação de marketing, plataforma de e-mail, sistema de suporte, analytics, e integrações necessárias. Garanta fluxo de dados bidirecional e visão unificada do cliente.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "integração de ferramentas de CRM",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-integracao_ferramentas-17",
+        "titulo": "Processo de Migração e Limpeza de Dados de CRM",
+        "conteudo": "Crie um plano de migração e limpeza de dados de CRM para [seu negócio]. Inclua: auditoria de dados atuais, identificação de duplicatas, padronização de campos, enriquecimento de dados, e processo de migração seguro. Defina governança de dados e processos de manutenção contínua.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "integração de ferramentas de CRM",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
+      },
+      {
+        "id": "crm-integracao_ferramentas-18",
+        "titulo": "Automação de Sincronização entre Ferramentas",
+        "conteudo": "Desenvolva um sistema de sincronização automatizada entre [suas ferramentas de CRM, marketing, vendas]. Defina: fluxos de dados, triggers de sincronização, tratamento de conflitos, e monitoramento de integrações. Garanta que dados de clientes estejam sempre atualizados em todas as plataformas.",
+        "categoria": "Gestão e Produtividade",
+        "subcategoria": "integração de ferramentas de CRM",
+        "tags": [
+          "CRM",
+          "Gestão de Clientes",
+          "Vendas"
+        ],
+        "dificuldade": "intermediário"
       }
     ]
   },
@@ -2351,6 +2585,150 @@
           "FAQ",
           "Marketing Econômico",
           "Baixo Custo"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-crm-segmentacao_clientes",
+        "titulo": "FAQ: Segmentação E Análise De Clientes",
+        "conteudo": "Perguntas frequentes sobre segmentação e análise de clientes.",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "CRM",
+        "perguntas": [
+          "Quais são os principais segmentos de clientes do meu negócio?",
+          "Como criar personas de clientes baseadas em dados reais?",
+          "O que é análise RFM e como aplicá-la no CRM?",
+          "Como calcular o Lifetime Value (LTV) dos clientes?",
+          "Quais métricas usar para segmentar clientes efetivamente?",
+          "Como identificar clientes de alto valor?",
+          "Qual a diferença entre segmentação demográfica e comportamental?",
+          "Como usar segmentação para personalizar comunicação?",
+          "Quais ferramentas ajudam na segmentação de clientes?",
+          "Como atualizar segmentos de clientes ao longo do tempo?"
+        ],
+        "tags": [
+          "FAQ",
+          "CRM"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-crm-automacao_vendas",
+        "titulo": "FAQ: Automação De Processos De Vendas",
+        "conteudo": "Perguntas frequentes sobre automação de processos de vendas.",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "CRM",
+        "perguntas": [
+          "Como automatizar o processo de follow-up de vendas?",
+          "O que é lead scoring e como implementá-lo?",
+          "Quais processos de vendas podem ser automatizados?",
+          "Como criar sequências de e-mail automatizadas eficazes?",
+          "Qual o timing ideal para follow-ups automatizados?",
+          "Como personalizar automações de vendas em escala?",
+          "Quais métricas acompanhar em automações de CRM?",
+          "Como balancear automação e toque humano em vendas?",
+          "Quais ferramentas de automação de CRM são recomendadas?",
+          "Como testar e otimizar fluxos de automação?"
+        ],
+        "tags": [
+          "FAQ",
+          "CRM"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-crm-retencao_clientes",
+        "titulo": "FAQ: Estratégias De Retenção De Clientes",
+        "conteudo": "Perguntas frequentes sobre estratégias de retenção de clientes.",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "CRM",
+        "perguntas": [
+          "Como identificar clientes em risco de churn?",
+          "Quais estratégias funcionam para retenção de clientes?",
+          "O que é Customer Success e como implementá-lo?",
+          "Como criar um programa de fidelidade eficaz?",
+          "Quais métricas de retenção são mais importantes?",
+          "Como fazer win-back de clientes perdidos?",
+          "Qual a diferença entre retenção reativa e proativa?",
+          "Como usar dados para prever churn?",
+          "Quais incentivos funcionam melhor para retenção?",
+          "Como medir o ROI de programas de retenção?"
+        ],
+        "tags": [
+          "FAQ",
+          "CRM"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-crm-comunicacao_personalizada",
+        "titulo": "FAQ: Comunicação Personalizada Com Clientes",
+        "conteudo": "Perguntas frequentes sobre comunicação personalizada com clientes.",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "CRM",
+        "perguntas": [
+          "Como personalizar comunicação com clientes em escala?",
+          "O que é estratégia omnichannel de CRM?",
+          "Como criar recomendações personalizadas eficazes?",
+          "Quais eventos devem disparar comunicações automatizadas?",
+          "Como segmentar mensagens por canal de comunicação?",
+          "Qual a frequência ideal de contato com clientes?",
+          "Como evitar over-communication e spam?",
+          "Quais dados usar para personalização de mensagens?",
+          "Como testar eficácia de comunicações personalizadas?",
+          "Quais ferramentas ajudam em comunicação omnichannel?"
+        ],
+        "tags": [
+          "FAQ",
+          "CRM"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-crm-analise_dados_crm",
+        "titulo": "FAQ: Análise De Dados E Métricas De Crm",
+        "conteudo": "Perguntas frequentes sobre análise de dados e métricas de CRM.",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "CRM",
+        "perguntas": [
+          "Quais são as métricas mais importantes de CRM?",
+          "Como calcular e interpretar o churn rate?",
+          "O que é NPS e como usá-lo no CRM?",
+          "Como fazer análise de jornada do cliente?",
+          "Quais ferramentas usar para análise de dados de CRM?",
+          "Como criar dashboards eficazes de CRM?",
+          "O que é análise preditiva de churn?",
+          "Como medir ROI de iniciativas de CRM?",
+          "Quais KPIs acompanhar por segmento de cliente?",
+          "Como usar dados de CRM para tomar decisões estratégicas?"
+        ],
+        "tags": [
+          "FAQ",
+          "CRM"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-crm-integracao_ferramentas",
+        "titulo": "FAQ: Integração De Ferramentas De Crm",
+        "conteudo": "Perguntas frequentes sobre integração de ferramentas de CRM.",
+        "categoria": "Perguntas Frequentes",
+        "subcategoria": "CRM",
+        "perguntas": [
+          "Quais ferramentas devem fazer parte de um stack de CRM?",
+          "Como integrar CRM com outras ferramentas de marketing e vendas?",
+          "O que considerar ao migrar dados para um novo CRM?",
+          "Como garantir qualidade de dados no CRM?",
+          "Quais integrações são essenciais para um CRM eficaz?",
+          "Como automatizar sincronização de dados entre ferramentas?",
+          "Quais desafios comuns em integrações de CRM?",
+          "Como escolher o CRM certo para meu negócio?",
+          "O que é governança de dados de CRM?",
+          "Como treinar equipe para usar CRM integrado?"
+        ],
+        "tags": [
+          "FAQ",
+          "CRM"
         ],
         "dificuldade": "iniciante"
       }
