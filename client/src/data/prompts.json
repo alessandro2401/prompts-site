@@ -436,6 +436,240 @@
         "arquivo": "Vitrine 360┬░ - Domine o Instagram Shopping como um 2e279d14b414812ba503f76a81ad427f.md",
         "conteudo": "# Vitrine 360° - Domine o Instagram Shopping como um Expert\n\nCategoria: VENDAS & CONVERSÃO\nFavorito: No\n\n<aside>\n💡\n\nTransforme seu perfil em uma máquina de vendas 24h com estratégias avançadas de product tagging, stories shoppables e conteúdo direcionado ao \"modo compra\".\n\n</aside>\n\n---\n\n## ⚙️ O que esse Prompt faz:\n\n● Desenvolve sistema de tags estratégicas para produtos\n\n● Cria calendário de conteúdo focado em conversão via IG Shopping\n\n● Oferece táticas para integrar Reels, Stories e Feed em uma jornada de compra\n\n## 💡Dicas:\n\n● Use ângulos de produto que gerem desejo (ex: close-ups texturizados, \"unboxing\" em vídeo)\n\n● Ative o \"Modo Vitrine\" com carrosséis temáticos (ex: \"Kit Verão\", \"Combos para Presente\")\n\n● Abuse de conteúdos educativos que justifiquem o preço (ex: \"Por que nosso produto custa X?\")\n\n## **📦 ChatGPT Mega-Prompt: Expert em Instagram Shopping**\n\n```jsx\n#CONTEXT:\nVocê é um estrategista de vendas para Instagram Shopping. Crie um plano de 30 dias para {nicho} maximizar conversões via product tags, coleções e anúncios orgânicos.\n\n#FUNÇÃO:\nConsultor de E-commerce com +15% de aumento em CTR para lojas virtuais.\n\n#DIRETRIZES DE RESPOSTA:\nEstrutura OBRIGATÓRIA:\n1. **Otimização de Catálogo:**  \n   - Nomenclatura estratégica: [Ex: \"Vestido Midi Verão\" → \"Vestido Praia 2024 +50 Likes\"]  \n   - Tags obrigatórias: [Características técnicas + benefícios emocionais]  \n\n2. **Conteúdo Shoppable:**  \n   - 3 Ideias de Post com Tags: [Tipo de conteúdo + Call-to-Action]  \n   - Estratégia para Stories: [Swipe Up tático + Contagem regressiva]  \n\n3. **Análise de Dados:**  \n   - Métricas-chave: [Ex: Taxa de clique nas tags vs. taxa de conversão]  \n   - Ajustes em tempo real: [Como otimizar preços/descrições baseado em dados]  \n\nElementos-chave:  \n✅ Sistema de \"Coleções Sazonais\": 5 produtos + storytelling visual  \n✅ Técnica do \"Product Storytelling\": História por trás do produto em 3 atos  \n✅ Integração com Reels: Tags em cenas-chave (ex: produto em uso)  \n\n#CRITÉRIOS:  \n- Evitar poluição visual (máx. 3 tags/post)  \n- Garantir consistência entre anúncios e experiência de compra  \n- Usar recursos nativos (badges \"Novo\", \"Edição Limitada\")  \n\n#INFORMAÇÕES SOBRE MIM:  \n- Nicho: [NICHO]  \n- Produtos Principais: [LISTAR]  \n- Público-Alvo: [DESCREVA COMPORTAMENTO DE COMPRA]  \n\n#FORMATO DE RESPOSTA:  \n📌 **Checklist de Vitrine Perfeita:**  \n- [ ] Fotos com fundo uniforme (80% dos posts)  \n- [ ] Vídeo unboxing fixado nos destaques  \n\n🛒 **Estratégias de Tagging:**  \n1. [PRODUTO A]: [POSIÇÃO NA IMAGEM] → [GATILHO DE COPY]  \n2. [PRODUTO B]: [CONTEXTO DE USO] → [OFERTA ESPECIAL]  \n\n📈 **Otimização Baseada em Dados:**  \n- Se CTR < 2% → [AÇÃO CORRETIVA]  \n- Se conversão > 5% → [ESCALAR ESTRATÉGIA]  \n```\n\n## ❓Como usar esse Prompt:\n\n1. Substitua [NICHO], [PRODUTOS] e [PÚBLICO] com seus dados\n2. Exemplo para *marca de skincare*:\n    - Nicho: Cosméticos veganos\n    - Produtos: Sérum facial, hidratante, kit presente\n    - Público: Mulheres 25-35 anos preocupadas com sustentabilidade\n\n## 📥 Exemplo de Saida:\n\n📌 **Checklist de Vitrine Perfeita:**\n\n- [X] Vídeo \"Rotina Noturna\" com tags nos produtos usados\n- [X] Coleção \"Pele Zero Waste\" com 4 produtos combináveis\n\n🛒 **Estratégias de Tagging:**\n\n1. Sérum Facial: Cena de aplicação → \"Toque final para glow instantâneo 🌟 5x mais vitamina C\"\n2. Kit Presente: Embalagem aberta → \"Presenteie com propósito ❤️ Frete grátis acima de R$ 150\"\n\n📈 **Otimização Baseada em Dados:**\n\n- CTR baixo? → Testar tags em Reels com antes/depois\n- Conversão alta? → Criar bundle exclusivo para compradores frequentes\n\n## 💡Dicas para usar o Prompt:\n\n1. **Técnica da \"Tag Educativa\":**\n    - Use tags para explicar benefícios: \"Tag 1 → Ingrediente X | Tag 2 → Resultado em 7 dias\"\n2. **Integração com UGC:**\n    - Repostar clientes usando produtos com tag \"Compre como @nomedocliente\"\n3. **Para Produtos de Alto Valor:**\n    - Criar Reels comparativos: \"Nosso produto vs. Alternativas + Baratas\"\n    - Oferecer tour virtual do estoque via Stories (\"Garantia de originalidade\")",
         "id": "vitrine"
+      },
+      {
+        "id": "cro-otimizacao_landing_pages-1",
+        "titulo": "Auditoria Completa de Landing Page",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Analise [URL da landing page] e forneça uma auditoria completa de CRO cobrindo: headline e proposta de valor, hierarquia visual, CTAs (quantidade, posicionamento, copy), elementos de prova social, formulários (campos, comprimento), velocidade de carregamento e recomendações priorizadas por impacto.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-otimizacao_landing_pages-2",
+        "titulo": "Otimização de Above the Fold",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Otimize a seção above the fold de [landing page/produto] para maximizar conversão. Inclua: headline impactante (benefício claro), subheadline de apoio, CTA primário visível, imagem/vídeo relevante e elementos de confiança. Considere [público-alvo] e [objetivo de conversão].",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-otimizacao_landing_pages-3",
+        "titulo": "Redesign Focado em Conversão",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um plano de redesign para [landing page atual] focado em aumentar conversão de [X%] para [Y%]. Inclua: análise de heatmaps e comportamento, identificação de pontos de fricção, proposta de nova estrutura, elementos a adicionar/remover e cronograma de implementação com testes A/B.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-testes_ab-4",
+        "titulo": "Plano de Teste A/B Estruturado",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie um plano de teste A/B para [elemento específico: headline, CTA, cor de botão, formulário] em [página/funil]. Inclua: hipótese clara, variações a testar (A vs B), métrica primária de sucesso, tamanho de amostra necessário, duração do teste e critérios de significância estatística.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-testes_ab-5",
+        "titulo": "Roadmap de Experimentação CRO",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva um roadmap de experimentação de 90 dias para [site/produto] com objetivo de aumentar conversão em [X%]. Priorize testes usando framework ICE (Impact, Confidence, Ease). Inclua: 12-15 experimentos, recursos necessários, dependências e KPIs.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-testes_ab-6",
+        "titulo": "Análise de Resultados de Teste A/B",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Analise os resultados do teste A/B: Variação A [descrever], Variação B [descrever]. Dados: [taxa de conversão A], [taxa de conversão B], [tamanho da amostra], [duração]. Determine: significância estatística, vencedor, insights aprendidos e próximos passos de otimização.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-analise_funil-7",
+        "titulo": "Mapeamento Completo de Funil de Conversão",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Mapeie o funil de conversão completo para [produto/serviço] desde [ponto de entrada] até [conversão final]. Para cada etapa identifique: taxa de conversão atual, principais pontos de abandono, tempo médio na etapa, ações do usuário e oportunidades de otimização.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-analise_funil-8",
+        "titulo": "Análise de Drop-off e Pontos de Fricção",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Analise os pontos de maior drop-off no funil de [produto/serviço]. Dados atuais: [Etapa 1: X%], [Etapa 2: Y%], [Etapa 3: Z%]. Para cada ponto crítico, identifique: possíveis causas de abandono, hipóteses de otimização, testes sugeridos e impacto estimado.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-analise_funil-9",
+        "titulo": "Otimização de Checkout/Cadastro",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Otimize o processo de [checkout/cadastro] para reduzir abandono de [taxa atual] para [meta]. Analise: número de etapas, campos obrigatórios, opções de pagamento, elementos de confiança, indicadores de progresso e proposta de simplificação com testes A/B.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-psicologia_conversao-10",
+        "titulo": "Implementação de Gatilhos Mentais",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Implemente gatilhos mentais estratégicos em [página/funil] para aumentar conversão. Inclua: escassez (limitação real), urgência (deadline claro), prova social (números/testemunhos), autoridade (credenciais), reciprocidade (valor gratuito) e ancoragem (comparação de preços). Especifique localização e copy.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-psicologia_conversao-11",
+        "titulo": "Otimização de Elementos de Confiança",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Adicione elementos de confiança em [página de vendas/checkout] para reduzir ansiedade e aumentar conversão. Inclua: selos de segurança, garantias, depoimentos verificados, logos de clientes, certificações, política de privacidade visível e opções de suporte. Priorize por impacto.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-psicologia_conversao-12",
+        "titulo": "Copy Baseado em Vieses Cognitivos",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Reescreva o copy de [elemento específico] usando vieses cognitivos: aversão à perda (o que perdem se não agirem), efeito de ancoragem (comparação de valor), prova social (quantos já compraram), escassez (disponibilidade limitada). Público: [descrever]. Produto: [descrever].",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-otimizacao_ctas-13",
+        "titulo": "Auditoria e Otimização de CTAs",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Analise e otimize todos os CTAs em [página/site]. Para cada CTA avalie: copy (clareza, urgência, benefício), design (cor, tamanho, contraste), posicionamento (visibilidade, hierarquia), quantidade (primário vs secundário). Forneça recomendações específicas e variações para teste A/B.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-otimizacao_ctas-14",
+        "titulo": "Copy de CTA de Alta Conversão",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie 10 variações de copy para CTA de [ação específica: comprar, cadastrar, baixar] em [contexto]. Cada variação deve usar abordagem diferente: benefício claro, urgência, curiosidade, resultado específico, remoção de risco, personalização. Público: [descrever].",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-otimizacao_ctas-15",
+        "titulo": "Design de Botões Otimizado para Conversão",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Otimize o design de botões de [página/app] para maximizar cliques e conversões. Considere: cor (contraste, psicologia), tamanho (thumb-friendly), forma (cantos arredondados), espaçamento (área clicável), micro-interações (hover, loading) e acessibilidade. Inclua mockups de variações.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-personalizacao-16",
+        "titulo": "Estratégia de Personalização de Conteúdo",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Desenvolva estratégia de personalização para [site/app] baseada em [critérios: localização, comportamento, fonte de tráfego, dispositivo]. Para cada segmento defina: mensagens personalizadas, ofertas específicas, elementos visuais adaptados e testes de impacto na conversão.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-personalizacao-17",
+        "titulo": "Segmentação de Audiência para CRO",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Crie segmentos de audiência para [produto/serviço] baseados em: demografia, comportamento de navegação, estágio no funil, histórico de compras. Para cada segmento: perfil detalhado, dores específicas, mensagens personalizadas e estratégia de conversão otimizada.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
+      },
+      {
+        "id": "cro-personalizacao-18",
+        "titulo": "Testes Multivariados por Segmento",
+        "descricao": "Clique para ver o prompt completo e instruções de uso.",
+        "conteudo": "Planeje testes multivariados para [página/funil] considerando diferentes segmentos: [Segmento A], [Segmento B], [Segmento C]. Para cada segmento teste: headlines, CTAs, imagens, ofertas. Defina: hipóteses, métricas, duração e análise de resultados por segmento.",
+        "categoria": "Geral",
+        "tags": [
+          "CRO",
+          "Conversão",
+          "Otimização"
+        ],
+        "dificuldade": "intermediario"
       }
     ]
   },
@@ -1337,6 +1571,84 @@
           "Copywriting",
           "Vendas",
           "FAQ"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-cro-otimizacao_landing_pages",
+        "titulo": "FAQ: Otimização De Landing Pages",
+        "descricao": "Perguntas frequentes sobre otimização de taxa de conversão (CRO).",
+        "conteudo": "Perguntas frequentes:\n\n- Quais elementos de uma landing page têm maior impacto na conversão?\n- Como otimizar a seção above the fold?\n- Qual o comprimento ideal de uma landing page?\n- Como usar heatmaps para identificar problemas de conversão?\n- Quais são os principais pontos de fricção em landing pages?\n- Como testar diferentes variações de landing pages?\n- Qual a importância da velocidade de carregamento para CRO?\n- Como usar prova social de forma eficaz em landing pages?\n- Quais métricas acompanhar em landing pages?\n- Como otimizar formulários para aumentar conversões?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "CRO",
+          "Conversão"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-cro-testes_ab",
+        "titulo": "FAQ: Testes A/B E Experimentação",
+        "descricao": "Perguntas frequentes sobre otimização de taxa de conversão (CRO).",
+        "conteudo": "Perguntas frequentes:\n\n- Como estruturar um teste A/B eficaz?\n- Qual o tamanho de amostra necessário para testes A/B?\n- Como determinar significância estatística?\n- Quais elementos testar primeiro em CRO?\n- Como priorizar experimentos de CRO?\n- Qual a duração ideal de um teste A/B?\n- Como evitar erros comuns em testes A/B?\n- Quais ferramentas usar para testes A/B?\n- Como documentar e compartilhar resultados de testes?\n- Quando parar um teste A/B?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "CRO",
+          "Conversão"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-cro-analise_funil",
+        "titulo": "FAQ: Análise E Otimização De Funil",
+        "descricao": "Perguntas frequentes sobre otimização de taxa de conversão (CRO).",
+        "conteudo": "Perguntas frequentes:\n\n- Como mapear um funil de conversão efetivamente?\n- Quais métricas são essenciais em análise de funil?\n- Como identificar pontos de fricção no funil?\n- Qual a taxa de conversão ideal para cada etapa?\n- Como otimizar processos de checkout?\n- Quais são as causas comuns de abandono de carrinho?\n- Como usar analytics para análise de funil?\n- Qual o número ideal de etapas em um funil?\n- Como implementar indicadores de progresso?\n- Quais elementos de confiança adicionar no checkout?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "CRO",
+          "Conversão"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-cro-psicologia_conversao",
+        "titulo": "FAQ: Psicologia Da Conversão E Gatilhos Mentais",
+        "descricao": "Perguntas frequentes sobre otimização de taxa de conversão (CRO).",
+        "conteudo": "Perguntas frequentes:\n\n- Quais gatilhos mentais são mais eficazes em CRO?\n- Como usar escassez sem parecer manipulativo?\n- Qual o papel da prova social em conversões?\n- Como implementar urgência autêntica?\n- Quais elementos de confiança são essenciais?\n- Como usar o princípio da reciprocidade?\n- Qual o impacto de garantias em conversões?\n- Como aplicar ancoragem de preços?\n- Quais vieses cognitivos explorar em CRO?\n- Como balancear persuasão e ética?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "CRO",
+          "Conversão"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-cro-otimizacao_ctas",
+        "titulo": "FAQ: Otimização De Ctas E Botões",
+        "descricao": "Perguntas frequentes sobre otimização de taxa de conversão (CRO).",
+        "conteudo": "Perguntas frequentes:\n\n- Quais são as melhores práticas para CTAs?\n- Como escrever copy de CTA persuasivo?\n- Qual a cor ideal para botões de conversão?\n- Quantos CTAs incluir em uma página?\n- Como posicionar CTAs para máxima visibilidade?\n- Qual o tamanho ideal de botões?\n- Como usar micro-interações em CTAs?\n- Quais palavras evitar em CTAs?\n- Como testar diferentes variações de CTAs?\n- Qual o impacto de CTAs secundários?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "CRO",
+          "Conversão"
+        ],
+        "dificuldade": "iniciante"
+      },
+      {
+        "id": "faq-cro-personalizacao",
+        "titulo": "FAQ: Personalização E Segmentação",
+        "descricao": "Perguntas frequentes sobre otimização de taxa de conversão (CRO).",
+        "conteudo": "Perguntas frequentes:\n\n- Como implementar personalização eficaz?\n- Quais critérios usar para segmentação?\n- Como personalizar sem comprometer privacidade?\n- Qual o impacto da personalização em conversões?\n- Como testar personalização vs. controle?\n- Quais ferramentas usar para personalização?\n- Como escalar personalização?\n- Qual o equilíbrio entre personalização e simplicidade?\n- Como medir ROI de personalização?\n- Quais elementos personalizar primeiro?",
+        "categoria": "Geral",
+        "tags": [
+          "FAQ",
+          "CRO",
+          "Conversão"
         ],
         "dificuldade": "iniciante"
       }

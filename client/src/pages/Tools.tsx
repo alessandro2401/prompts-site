@@ -117,6 +117,30 @@ const tools = [
     descricao: "Hemingway Editor analisa seu copy e sugere melhorias para torná-lo mais claro, conciso e fácil de ler, destacando frases complexas, voz passiva e palavras desnecessárias.",
     url: "https://hemingwayapp.com/",
     tags: ["Edição", "Clareza", "Legibilidade"]
+  },
+  {
+    nome: "Hotjar",
+    categoria: "Análise de Comportamento",
+    funcao: "Heatmaps, gravações de sessão e feedback de usuários",
+    descricao: "Hotjar oferece ferramentas visuais para entender como usuários interagem com seu site através de heatmaps, gravações de sessão, funis de conversão e pesquisas de feedback, ajudando a identificar pontos de fricção e oportunidades de otimização.",
+    url: "https://www.hotjar.com/",
+    tags: ["Heatmaps", "UX", "Análise"]
+  },
+  {
+    nome: "Optimizely",
+    categoria: "Testes A/B",
+    funcao: "Plataforma completa de experimentação e personalização",
+    descricao: "Optimizely é uma plataforma líder em testes A/B e experimentação, oferecendo ferramentas robustas para criar, executar e analisar experimentos em sites e apps, com recursos avançados de segmentação e personalização.",
+    url: "https://www.optimizely.com/",
+    tags: ["A/B Testing", "Experimentação", "Personalização"]
+  },
+  {
+    nome: "Google Optimize",
+    categoria: "Testes A/B",
+    funcao: "Ferramenta gratuita de testes A/B do Google",
+    descricao: "Google Optimize permite criar e executar testes A/B, testes multivariados e personalização de conteúdo, com integração nativa ao Google Analytics para análise aprofundada de resultados e comportamento de usuários.",
+    url: "https://optimize.google.com/",
+    tags: ["A/B Testing", "Google", "Gratuito"]
   }
 ];
 
@@ -127,7 +151,7 @@ export default function Tools() {
       <section className="py-12 md:py-16 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>14 Ferramentas Recomendadas</span>
+          <span>17 Ferramentas Recomendadas</span>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
           Ferramentas de IA Recomendadas
