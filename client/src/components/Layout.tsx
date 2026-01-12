@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useLocation } from "wouter";
-import { Menu, X, Search, Sparkles, Github } from "lucide-react";
+import { Menu, X, Search, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
@@ -74,12 +74,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               />
             </form>
             
-            <Button variant="outline" size="sm" className="hidden sm:flex gap-2" asChild>
-              <a href="https://github.com/alessandro2401/prompts-site" target="_blank" rel="noopener noreferrer">
-                <Github className="h-4 w-4" />
-                GitHub
-              </a>
-            </Button>
+
           </div>
         </div>
 
