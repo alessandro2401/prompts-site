@@ -1,6 +1,10 @@
 import { useState, useEffect } from "react";
 import { Link } from "wouter";
-import { Search, Sparkles, PenTool, TrendingUp, DollarSign, Clock, Star, ArrowRight } from "lucide-react";
+import { 
+  Search, Sparkles, PenTool, TrendingUp, DollarSign, Clock, Star, ArrowRight,
+  HelpCircle, Smartphone, Mail, Image, Video, Music, Briefcase, Users, Target,
+  MessageCircle, Megaphone, Mic, BookOpen, FileText, Rocket, TrendingDown, Globe
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import Layout from "@/components/Layout";
@@ -26,6 +30,48 @@ type CategoryData = {
 
 type PromptsData = Record<string, CategoryData>;
 
+// Mapeamento de ícones para categorias
+const iconMap: Record<string, any> = {
+  "pen-tool": PenTool,
+  "trending-up": TrendingUp,
+  "dollar-sign": DollarSign,
+  "clock": Clock,
+  "sparkles": Sparkles,
+  "help-circle": HelpCircle,
+  "smartphone": Smartphone,
+  "mail": Mail,
+  "star": Star,
+  "image": Image,
+  "video": Video,
+  "folder": FileText,
+  "briefcase": Briefcase,
+  "users": Users,
+  "target": Target,
+  "message-circle": MessageCircle,
+  "megaphone": Megaphone,
+  "mic": Mic,
+  "book-open": BookOpen,
+  "rocket": Rocket,
+  "trending-down": TrendingDown,
+  "globe": Globe,
+};
+
+// Cores para as categorias
+const colors = [
+  { color: "text-blue-500", bg: "bg-blue-50 dark:bg-blue-950/30" },
+  { color: "text-purple-500", bg: "bg-purple-50 dark:bg-purple-950/30" },
+  { color: "text-green-500", bg: "bg-green-50 dark:bg-green-950/30" },
+  { color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-950/30" },
+  { color: "text-indigo-500", bg: "bg-indigo-50 dark:bg-indigo-950/30" },
+  { color: "text-yellow-500", bg: "bg-yellow-50 dark:bg-yellow-950/30" },
+  { color: "text-pink-500", bg: "bg-pink-50 dark:bg-pink-950/30" },
+  { color: "text-cyan-500", bg: "bg-cyan-50 dark:bg-cyan-950/30" },
+  { color: "text-red-500", bg: "bg-red-50 dark:bg-red-950/30" },
+  { color: "text-teal-500", bg: "bg-teal-50 dark:bg-teal-950/30" },
+  { color: "text-lime-500", bg: "bg-lime-50 dark:bg-lime-950/30" },
+  { color: "text-amber-500", bg: "bg-amber-50 dark:bg-amber-950/30" },
+];
+
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
   const [favorites, setFavorites] = useState<string[]>([]);
@@ -50,17 +96,23 @@ export default function Home() {
     setFeaturedPrompts(shuffled.slice(0, 4));
   }, []);
 
-  const categories = [
-    { id: "criacao-conteudo", icon: PenTool, color: "text-blue-500", bg: "bg-blue-50 dark:bg-blue-950/30" },
-    { id: "otimizacao-estrategia", icon: TrendingUp, color: "text-purple-500", bg: "bg-purple-50 dark:bg-purple-950/30" },
-    { id: "vendas-conversao", icon: DollarSign, color: "text-green-500", bg: "bg-green-50 dark:bg-green-950/30" },
-    { id: "gestao-produtividade", icon: Clock, color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-950/30" },
-    { id: "mega-prompts", icon: Sparkles, color: "text-indigo-500", bg: "bg-indigo-50 dark:bg-indigo-950/30" },
-    { id: "perguntas-frequentes", icon: Search, color: "text-yellow-500", bg: "bg-yellow-50 dark:bg-yellow-950/30" },
-    { id: "midia-social", icon: Star, color: "text-pink-500", bg: "bg-pink-50 dark:bg-pink-950/30" },
-    { id: "marketing-email", icon: Star, color: "text-cyan-500", bg: "bg-cyan-50 dark:bg-cyan-950/30" },
-    { id: "growth-hacking", icon: Star, color: "text-red-500", bg: "bg-red-50 dark:bg-red-950/30" },
-  ];
+  // Gerar categorias dinamicamente a partir do prompts.json
+  const categories = Object.entries(data)
+    .map(([id, catData], index) => {
+      const iconName = catData.icone || "star";
+      const Icon = iconMap[iconName] || Star;
+      const colorScheme = colors[index % colors.length];
+      
+      return {
+        id,
+        name: catData.nome,
+        icon: Icon,
+        count: catData.prompts.length,
+        ...colorScheme
+      };
+    })
+    // Ordenar por quantidade de prompts (decrescente)
+    .sort((a, b) => b.count - a.count);
 
   return (
     <Layout>
@@ -102,11 +154,10 @@ export default function Home() {
       <section className="py-12">
         <h2 className="text-2xl font-bold mb-8 flex items-center gap-2">
           <span className="w-1 h-8 bg-primary rounded-full"></span>
-          Navegue por Categorias
+          Navegue por Categorias ({categories.length})
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {categories.map((cat) => {
-            const categoryData = data[cat.id];
             const Icon = cat.icon;
             
             return (
@@ -116,10 +167,10 @@ export default function Home() {
                     <Icon className="h-6 w-6" />
                   </div>
                   <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">
-                    {categoryData?.nome || cat.id}
+                    {cat.name}
                   </h3>
                   <p className="text-muted-foreground text-sm mb-4">
-                    {categoryData?.prompts.length || 0} prompts disponíveis
+                    {cat.count} prompts disponíveis
                   </p>
                   <div className="flex items-center text-sm font-medium text-primary opacity-0 group-hover:opacity-100 transition-opacity -translate-x-2 group-hover:translate-x-0 duration-300">
                     Explorar <ArrowRight className="ml-1 h-4 w-4" />
