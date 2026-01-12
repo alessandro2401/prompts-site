@@ -5631,5 +5631,123 @@
         "id": "como-escrever-uma-pagina-sobre-mim"
       }
     ]
+  },
+  "animacao-video": {
+    "id": "animacao-video",
+    "nome": "Animação de Vídeo",
+    "icone": "🎬",
+    "prompts": [
+      {
+        "titulo": "Animação - Corrida Kart 3D",
+        "arquivo": "animação---corrida-kart-3d.md",
+        "conteudo": "# Animação - Corrida Kart 3D\n\n## Categoria\nAnimação\n\n## Prompt\n\nA stylized 3D male character, mid-30s, light brown skin, short dark hair, wearing a racing suit and gloves, stands beside a colorful go-kart in a pit lane. The scene is set at a sunny outdoor kart track with tires stacked around and flags waving. He tightens his gloves and adjusts his helmet visor while speaking to the camera with a confident smile. Dialogue (Brazilian Portuguese): \"Com o Mestre dos Prompts, você tem acesso a mais de dez mil prompts prontos pra usar agora. Toque no saiba mais!\" Voice is energetic, motivational, mid-range male Brazilian voice. No subtitles, Realistic facial animation, Voice synchronization. Daylight scene, cinematic lens flare, light ambient track noise and upbeat electronic background music. Duration: 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-001"
+      },
+      {
+        "titulo": "Animação - Dog Brabo",
+        "arquivo": "animação---dog-brabo.md",
+        "conteudo": "# Animação - Dog Brabo\n\n## Categoria\nAnimação\n\n## Prompt\n\nA golden-brown mutt action figure sits in a suburban backyard playset, delivering a dramatic line. The scene is a sun-drenched, meticulously crafted suburban backyard playset with vibrant green molded plastic grass, small plastic flower bushes in bright colors, and a weathered wooden fence playset component. Living Diorama aesthetic, appearing as highly-detailed molded plastic with semi-gloss finish. The subject is a golden-brown mutt action figure (8-inch scale). The figure is articulated at the legs, neck, and tail, posed in seated position. Bright high-contrast lighting simulating morning sunlight. Medium Close-Up camera at low frontal angle, slightly below dog's eye level. Very slight smooth push-in as dog starts line. Ambient soundscape: gentle breeze, clear bird chirping. The dog's voice is overly exaggerated and paused, with genuine weight and resonance: \"Se ninguém jogar essa bolinha... eu vou precisar fazer terapia, irmão!\" SFX: wet squishy sound of slobbery tennis ball, energetic tail flap-flap-flap on grass, soft plastic joints creaking.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-002"
+      },
+      {
+        "titulo": "Animação - Paraquedas 3D",
+        "arquivo": "animação---paraquedas-3d.md",
+        "conteudo": "# Animação - Paraquedas 3D\n\n## Categoria\nAnimação\n\n## Prompt\n\nA stylized 3D male character, mid-30s, light brown skin, short dark hair, wearing skydiving gear and goggles, free-falls through a bright blue sky with soft clouds. A colorful parachute opens behind him mid-scene. His expression is excited and confident as he looks at the camera mid-air, wind rushing past. Dialogue (Brazilian Portuguese): \"Imagine você criando vídeos, imagens e conteudos incríveis com apenas 1 comando?\" Voice is clear, energetic, slightly deep with inspiring tone. No subtitles, Realistic facial animation, Voice synchronization. Dynamic third-person camera, slowly zooming in as he speaks. Add wind sound FX and epic cinematic background music. Duration: 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-003"
+      },
+      {
+        "titulo": "Animação - Studio IA",
+        "arquivo": "animação---studio-ia.md",
+        "conteudo": "# Animação - Studio IA\n\n## Categoria\nAnimação\n\n## Prompt\n\nA vibrant futuristic studio glowing with purple, blue, and cyan neon lights. The atmosphere feels alive with smooth reflections on the floor and animated holographic panels floating in the background. A large curved LED screen behind displays subtle 3D motion graphics related to AI and creativity. Character: Isabela, 32 years old, light brown skin, short curly dark hair with blue-tinted highlights, emerald green expressive eyes. Wears modern tech-style jacket with light-reflective patterns, black fitted pants and sneakers. Athletic build, confident posture. Friendly, enthusiastic and professional expression. Pixar-style 3D animated character with soft lighting and detailed facial animation. Stands beside a floating holographic 3D panel that reads 'Crie com IA' while gesturing naturally to the camera. Speech: \"Quer aprender a criar vídeos e animações com inteligência artificial? Clica em Saiba Mais e vem descobrir o que é possível fazer!\" Spoken in Brazilian Portuguese with no subtitles, female voice, clear and energetic with slight São Paulo accent. A glowing 3D 'Saiba Mais' button floats beside her, pulsating gently with cyan light. Camera starts with close-up on her face, then slowly zooms out to reveal full scene. Neon purple and cyan blend with soft white fill light. Uplifting electronic track with modern tech vibe. 4K resolution, Pixar 3D animation style, 24fps, 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-004"
+      }
+    ]
+  },
+  "asmr-video": {
+    "id": "asmr-video",
+    "nome": "ASMR Vídeo",
+    "icone": "🎧",
+    "prompts": [
+      {
+        "titulo": "ASMR - Abacate de Vidro",
+        "arquivo": "asmr---abacate-de-vidro.md",
+        "conteudo": "# ASMR - Abacate de Vidro\n\n## Categoria\nASMR\n\n## Prompt\n\nA hyper-realistic AI-generated ASMR video shot in extreme macro perspective. A razor-sharp knife slowly slices through an opaque glass avocado in its original fruit color. The object rests on a rustic wooden cutting board, bathed in warm, cinematic lighting. Each intentional cut delivers a deeply satisfying ASMR audio experience — crisp, juicy and clean. A sliced piece drops gently to the cutting board. The overall pacing is slow and soothing.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-005"
+      },
+      {
+        "titulo": "ASMR - Banana de Vidro",
+        "arquivo": "asmr---banana-de-vidro.md",
+        "conteudo": "# ASMR - Banana de Vidro\n\n## Categoria\nASMR\n\n## Prompt\n\nA hyper-realistic AI-generated ASMR video shot in extreme macro perspective. A razor-sharp knife slowly slices through a glass banana — subtle reflections and internal texture reminiscent of glowing amber. The object rests on a rustic wooden cutting board, bathed in warm, cinematic lighting. Each intentional cut delivers a deeply satisfying ASMR audio experience — crisp and clean. The overall pacing is slow and soothing.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-006"
+      },
+      {
+        "titulo": "ASMR - Barra de Ouro",
+        "arquivo": "asmr---barra-de-ouro.md",
+        "conteudo": "# ASMR - Barra de Ouro\n\n## Categoria\nASMR\n\n## Prompt\n\nA hyper-realistic AI-generated ASMR video filmed in extreme macro perspective. A razor-sharp knife slowly slices through an opaque, solid gold bar with a natural metallic sheen. The gold bar rests firmly on a rustic wooden cutting board, bathed in warm, cinematic lighting that highlights every glimmer and reflection. Each deliberate cut produces a deeply satisfying ASMR audio experience — crisp, metallic, resonant, and clean — echoing softly in a silent, meditative space. The sliced golden fragment drops gently onto the cutting board, creating subtle vibrations and shimmering reflections on the wood surface. The pacing is intentionally slow and soothing, evoking a sense of calm, fascination, and tactile immersion.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-007"
+      },
+      {
+        "titulo": "ASMR - Limão Metálico",
+        "arquivo": "asmr---limão-metálico.md",
+        "conteudo": "# ASMR - Limão Metálico\n\n## Categoria\nASMR\n\n## Prompt\n\nA hyper-realistic AI-generated ASMR video shot in extreme macro perspective. A razor-sharp knife slowly slices through a metal lemon — subtle reflections and internal texture reminiscent of glowing amber. The object rests on a rustic wooden cutting board, bathed in warm, cinematic lighting. Each intentional cut delivers a deeply satisfying ASMR audio experience — crisp, wet, and clean. The overall pacing is slow and soothing.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-008"
+      },
+      {
+        "titulo": "ASMR - Melancia de Vidro",
+        "arquivo": "asmr---melancia-de-vidro.md",
+        "conteudo": "# ASMR - Melancia de Vidro\n\n## Categoria\nASMR\n\n## Prompt\n\nA hyper-realistic AI-generated ASMR video shot in extreme macro perspective. A razor-sharp knife slowly slices through an opaque glass watermelon in its original fruit color. The object rests on a rustic wooden cutting board, bathed in warm, cinematic lighting. Each intentional cut delivers a deeply satisfying ASMR audio experience — crisp, juicy and clean. A sliced piece drops gently to the cutting board. The overall pacing is slow and soothing.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-009"
+      },
+      {
+        "titulo": "ASMR - Sorvete",
+        "arquivo": "asmr---sorvete.md",
+        "conteudo": "# ASMR - Sorvete\n\n## Categoria\nASMR\n\n## Prompt\n\nHyper-realistic ASMR video. A big detergent-bottle-shaped block of ice-cream stands upright, its exterior mimicking glossy HDPE plastic—molded handle, injection seam, bright printed label, micro-condensation beads. A polished metal ice-cream scoop enters frame, slides and lifts one perfect ice cream ball from the bottle's surface: creamy interior contrasts with the plastic-looking shell. The scene is bathed in warm, cinematic key light with soft bounce fill; background fully black for isolation. Each scrape and release produces soft, wet pops and muffled crunches, crafting a slow, soothing ASMR experience.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-010"
+      }
+    ]
+  },
+  "videos-comedia": {
+    "id": "videos-comedia",
+    "nome": "Vídeos de Comédia",
+    "icone": "😂",
+    "prompts": [
+      {
+        "titulo": "Bêbado Comprando Pão",
+        "arquivo": "bêbado-comprando-pão.md",
+        "conteudo": "# Bêbado Comprando Pão\n\n## Categoria\nComédia\n\n## Prompt\n\nCharacter Description: Two elderly men with wrinkled faces and cheerful expressions walk side by side, each holding a beer bottle. One wears a straw hat and plaid shirt; the other has a bald head, gray beard, and a worn jacket. Environment: Quiet Brazilian street in the late afternoon, with simple houses, warm sunlight, and distant traffic sounds. Camera Framing: Medium shot following the two men walking, then a close-up as they stop, notice the money, and react humorously. Clothing & Style: Casual rural style — plaid shirts, suspenders, hats, and sandals. Action: They spot a R$50 bill on the ground, pick it up excitedly, and start a funny discussion about how to spend it. Dialogue (in Portuguese): 1º Idoso (voz empolgada e rouca): \"Eitaa, cinquenta reais... Vamos comprar 45 reais de pinga e 5 reais de pão!\" 2º Idoso (voz indignada e engraçada): \"Você é louco? Pra que isso tudo de pão?\" Technical Instructions: No subtitles, Realistic facial animation, Voice synchronization, Warm afternoon lighting, Natural ambient street sounds, Light comedic tone, Duration 8 seconds\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-011"
+      },
+      {
+        "titulo": "Bêbado Debatendo com o Gorila",
+        "arquivo": "bêbado-debatendo-com-o-gorila.md",
+        "conteudo": "# Bêbado Debatendo com o Gorila\n\n## Categoria\nComédia\n\n## Prompt\n\nCharacter Description: A large, friendly-looking gray gorilla wearing casual clothes sits quietly on a bus seat, looking calm. Next to him, a disheveled drunk man with red cheeks, messy hair, and a half-open shirt slumps into the seat, smelling of alcohol and speaking loudly. Environment: Inside a city bus at night with dim yellow lighting, passengers in the background, and engine noise adding realism. Camera Framing: Medium shot from the front showing both characters seated side by side; subtle camera movement as the bus drives. Clothing & Style: Gorilla in a simple T-shirt and jeans; drunk man in a wrinkled shirt and old cap. Action: The drunk man sits beside the gorilla and starts mocking him. The gorilla replies calmly but firmly, leading to the drunk's witty comeback. Dialogue (in Portuguese): Bêbado (voz arrastada e provocante): \"Mas como você é feio, hein!\" Gorilão (voz calma e firme): \"Pelo menos não sou um bêbado nojento!\" Bêbado (voz debochada): \"Mas amanhã eu já tô curado... e você?\" Technical Instructions: No subtitles, Realistic facial animation, Voice synchronization, Ambient bus sounds, Warm night lighting, Comedic tone, Duration 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-012"
+      },
+      {
+        "titulo": "Bêbado em São Paulo",
+        "arquivo": "bêbado-em-são-paulo.md",
+        "conteudo": "# Bêbado em São Paulo\n\n## Categoria\nComédia\n\n## Prompt\n\nCharacter Description: An elderly man with a flushed face, messy gray hair, and a slightly unsteady posture walks hurriedly. He wears a wrinkled shirt, old jacket, and loose trousers, holding a suitcase in one hand and a beer bottle in the other. His expression mixes panic and confusion. Environment: Busy São Paulo street at dusk, neon lights and cars passing by, giving a chaotic yet humorous vibe. Camera Framing: Starts in a wide shot showing the man stumbling out of a bar, then follows him with a handheld medium shot as he walks away. Clothing & Style: Old casual clothes, unbuttoned shirt, worn shoes — slightly disheveled look. Action: The drunken old man exits the bar in a rush, swaying as he tries to walk straight, talking to himself in despair. Dialogue (in Portuguese): Idoso (voz bêbada e aflita): \"Caramba, vou ter que sair de São Paulo... o médico disse que no estado que eu tô eu num posso bebê mais!\" Technical Instructions: No subtitles, Realistic facial animation, Voice synchronization, Ambient street sounds, Warm evening lighting, Slight handheld camera shake, Comedic tone, Duration 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-013"
+      }
+    ]
+  },
+  "videos-bebes": {
+    "id": "videos-bebes",
+    "nome": "Vídeos com Bebês",
+    "icone": "👶",
+    "prompts": [
+      {
+        "titulo": "Bebê - Cozinheiro",
+        "arquivo": "bebê---cozinheiro.md",
+        "conteudo": "# Bebê - Cozinheiro\n\n## Categoria\nBebê\n\n## Prompt\n\nA cinematic, realistic 8-second viral comedy video in a safe kitchen setting. A toddler (around 2 years old) sits on the floor near a low cabinet, wearing a colorful onesie. On the kitchen floor is a closed Tupperware container and some scattered toy utensils. A reporter's hand holding a small microphone enters from the edge of the frame, but the reporter is never visible. The toddler looks toward the camera and mimics speech with clear lip movements. IMPORTANT SAFETY: only toy props; indoor, ground-level shot; adult supervision implied off-camera. First, the reporter asks off-screen (Brazilian Portuguese with no subtitles): \"Tá fazendo o quê aí no chão, bebê?\" The toddler answers with dramatic, impatient tone while holding a plastic spoon: \"Tô tentando cozinhar, né... Porque se depender da minha mãe, só tem miojo e iFood nessa casa!\" Camera: handheld medium close-up at child's eye level, slight zoom-in on punchline. Background sounds: light kitchen ambience (distant fridge hum, light clinks). Soft natural indoor daylight. Safe and family-friendly.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-014"
+      },
+      {
+        "titulo": "Bebê - Estudante",
+        "arquivo": "bebê---estudante.md",
+        "conteudo": "# Bebê - Estudante\n\n## Categoria\nBebê\n\n## Prompt\n\nA cinematic, realistic 8-second comedy video featuring a baby dressed as corporate office worker inside modern office setting. Stylish open-plan office with desks, monitors, potted plants, warm lighting. Baby-sized office chair in front of laptop on clean desk, colorful sticky notes on wall behind. Baby around 1 year old, wearing tiny light blue dress shirt, miniature tie, and slightly oversized black glasses. Looks overwhelmed, slouched in chair while holding tiny pen. Papers and closed baby-sized notebook spread on desk. Delivers line in funny, dramatic baby-like voice (Brazilian Portuguese with no subtitles): \"Rapaz essa vida de estudante não tá fácil, saudades quando meu trabalho era só chorar, comer e dormir. Quero voltar pra barriga da minha mamãe.\" Medium shot capturing outfit, mini office setup, and funny stressed expression, with slight zoom-in during punchline. Background sounds: distant keyboard typing, soft office chatter, quiet AC hum. Warm soft daylight through office windows, mixed with modern ceiling lighting. Cinematic realism, comedic viral baby video. 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
+        "id": "maestro-video-015"
+      }
+    ]
   }
 }
