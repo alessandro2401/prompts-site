@@ -120,7 +120,7 @@ export default function Home() {
       <section className="py-12 md:py-20 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>661 Prompts Profissionais Disponíveis</span>
+          <span>806 Prompts Profissionais Disponíveis</span>
         </div>
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent pb-2">
           Criação de conteúdo com I.A.
