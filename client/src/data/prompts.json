@@ -6598,7 +6598,6 @@
     ]
   },
   "super-prompts": {
-    "titulo": "Super Prompts",
     "prompts": [
       {
         "titulo": "Criação de Personas",
@@ -6696,6 +6695,9 @@
         "id": "historias-virais",
         "arquivo": "Super Prompt - Histórias Virais.md"
       }
-    ]
+    ],
+    "nome": "Super Prompts",
+    "icone": "rocket",
+    "emoji": "⭐"
   }
 }
