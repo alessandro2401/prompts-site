@@ -5728,6 +5728,156 @@
         "arquivo": "bêbado-em-são-paulo.md",
         "conteudo": "# Bêbado em São Paulo\n\n## Categoria\nComédia\n\n## Prompt\n\nCharacter Description: An elderly man with a flushed face, messy gray hair, and a slightly unsteady posture walks hurriedly. He wears a wrinkled shirt, old jacket, and loose trousers, holding a suitcase in one hand and a beer bottle in the other. His expression mixes panic and confusion. Environment: Busy São Paulo street at dusk, neon lights and cars passing by, giving a chaotic yet humorous vibe. Camera Framing: Starts in a wide shot showing the man stumbling out of a bar, then follows him with a handheld medium shot as he walks away. Clothing & Style: Old casual clothes, unbuttoned shirt, worn shoes — slightly disheveled look. Action: The drunken old man exits the bar in a rush, swaying as he tries to walk straight, talking to himself in despair. Dialogue (in Portuguese): Idoso (voz bêbada e aflita): \"Caramba, vou ter que sair de São Paulo... o médico disse que no estado que eu tô eu num posso bebê mais!\" Technical Instructions: No subtitles, Realistic facial animation, Voice synchronization, Ambient street sounds, Warm evening lighting, Slight handheld camera shake, Comedic tone, Duration 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
         "id": "maestro-video-013"
+      },
+      {
+        "titulo": "Cachorro Trocando Lâmpada",
+        "arquivo": "Cachorro Trocando Lâmpada.md",
+        "conteudo": "Character Description: A light-brown mixed-breed dog (\"cachorro caramelo\") with short fur, lively eyes, and an expressive face. He is standing on his hind legs on a wooden stepladder in a simple Brazilian living room. He is wearing a small tool belt around his waist. He is carefully holding a lightbulb in his paws, trying to screw it into a ceiling socket. (The following speech must be in Brazilian Portuguese). He looks at the camera with a proud grin and says in a gravelly, funny voice: \"Quem disse que cachorro só serve pra latir? Aqui em casa eu sou o eletricista oficial!\" Sounds: The clicking sound of the lightbulb being screwed in, the faint hum of a ceiling fan.",
+        "id": "cachorro-trocando-lâmpada"
+      },
+      {
+        "titulo": "Caramelo Rouba Picanha",
+        "arquivo": "Caramelo Rouba Picanha.md",
+        "conteudo": "Character Description: A light brown mixed-breed dog (\"cachorro caramelo\") with expressive eyes and upright ears, looking guilty but proud. He is in a typical Brazilian backyard during a barbecue. He has a large, raw picanha steak in his mouth. (The following speech must be in Brazilian Portuguese). He looks at the camera and says in a muffled, funny voice: \"O churrasqueiro vacilou, a picanha dançou! Hoje o banquete é por minha conta!\" Sounds: The sizzling of a grill in the background, the sound of people laughing and talking distantly.",
+        "id": "caramelo-rouba-picanha"
+      },
+      {
+        "titulo": "Chimpanzé podcaster na selva",
+        "arquivo": "Chimpanzé podcaster na selva.md",
+        "conteudo": "A realistic, expressive chimpanzee sits behind a wooden stump used as a table, deep in a lush jungle. He's surrounded by tropical plants and vines. On the stump is a professional-looking microphone and a pair of large headphones around his neck. He gestures with his hands as if explaining something important. (The following speech must be in Brazilian Portuguese). He says in a deep, gravelly, and surprisingly articulate voice: \"Sejam bem-vindos ao 'Selva Cast'. Hoje vamos discutir por que os humanos acham que mandam em tudo, enquanto a gente só quer comer banana em paz.\" Sounds: The loud chirping of cicadas, the distant call of a macaw, and the rustling of leaves.",
+        "id": "chimpanzé-podcaster-na-selva"
+      },
+      {
+        "titulo": "Cachorro na Padaria",
+        "arquivo": "Cachorro na Padaria.md",
+        "conteudo": "A \"cachorro caramelo\" wearing a small white baker's hat sits behind the counter of a traditional Brazilian bakery (padaria). In front of him are baskets of fresh \"pão francês\". He looks at the camera with a friendly, professional expression. (The following speech must be in Brazilian Portuguese). He says in a cheerful, funny voice: \"Bom dia! Vai querer quantos pãezinhos hoje? Estão saindo agora, quentinhos e crocantes!\" Sounds: The clinking of coffee cups, the ambient chatter of customers, and the smell of fresh bread (implied).",
+        "id": "cachorro-na-padaria"
+      },
+      {
+        "titulo": "Gorila urbano em podcast",
+        "arquivo": "Gorila urbano em podcast.md",
+        "conteudo": "A relaxed urban gorilla sits in a casual podcast studio surrounded by graffiti-covered walls and a glowing neon sign. He wears a simple black T-shirt and has a professional microphone in front of him. (The following speech must be in Brazilian Portuguese). He says in a deep, gravelly, and surprisingly articulate voice: \"A gente vive na selva de pedra agora, mas o instinto de querer uma rede e um cacho de bananas nunca morre.\" Sounds: The distant sound of city traffic, the soft hum of the studio's equipment, and the gorilla's powerful, calm voice.",
+        "id": "gorila-urbano-em-podcast"
+      },
+      {
+        "titulo": "Memes - Administrativo",
+        "arquivo": "Memes - Administrativo.md",
+        "conteudo": "In a bright, modern office with tall bookshelves and soft daylight streaming in, a stylish Brazilian woman in her early 30s, with light brown skin and sleek black hair, sits at a desk. She wears a professional blazer and glasses. (The following speech must be in Brazilian Portuguese). She looks at the camera and says in a serious, authoritative voice: \"Eu não sou grossa, eu sou apenas administrativamente sincera. Se você não gosta, o problema é do seu departamento.\" Sounds: The soft clicking of a keyboard, the hum of an office, and her clear, professional voice.",
+        "id": "memes-administrativo"
+      },
+      {
+        "titulo": "Memes - Cachorro Falante",
+        "arquivo": "Memes - Cachorro Falante.md",
+        "conteudo": "A cinematic, realistic 8-second viral-style video. An elderly Brazilian man is seated on a sidewalk curb, relaxed and holding a bottle of cachaça. Next to him, a friendly caramel-colored mixed-breed dog sits calmly. (The following speech must be in Brazilian Portuguese). The man looks at the dog and asks: \"E aí, amigão, qual o segredo da vida?\" The dog looks at the camera and says in a deep, human-like voice: \"O segredo é não se preocupar com o amanhã e sempre ter um petisco por perto.\" Sounds: The ambient noise of a quiet street, the clinking of the bottle, and the dog's unique, resonant voice.",
+        "id": "memes-cachorro-falante"
+      },
+      {
+        "titulo": "Memes - Chihuahua Piada",
+        "arquivo": "Memes - Chihuahua Piada.md",
+        "conteudo": "A small brown Chihuahua with big expressive eyes and perky ears stands on a wooden table, looking directly at the camera. (The following speech must be in Brazilian Portuguese). The dog says in a high-pitched, funny voice: \"Por que o cachorro entrou na igreja? Porque ele era um cão-fessor!\" Sounds: A light, comedic musical track, the dog's unique voice, and a soft laugh in the background.",
+        "id": "memes-chihuahua-piada"
+      },
+      {
+        "titulo": "Memes - Entrevista com Cachorro",
+        "arquivo": "Memes - Entrevista com Cachorro.md",
+        "conteudo": "A friendly caramel-colored mixed-breed dog sits calmly on a small chair, facing a man holding a microphone. The man is in his late 20s, wearing a casual shirt and jeans. (The following speech must be in Brazilian Portuguese). The man asks: \"Qual a sua opinião sobre a nova lei dos petiscos?\" The dog looks at the camera and says in a serious, authoritative voice: \"Eu acho que é um avanço, mas ainda precisamos de mais ossos de borracha no mercado.\" Sounds: The ambient noise of a park, the man's clear voice, and the dog's unique, resonant voice.",
+        "id": "memes-entrevista-com-cachorro"
+      },
+      {
+        "titulo": "Memes - H2O Perigoso",
+        "arquivo": "Memes - H2O Perigoso.md",
+        "conteudo": "An older man with wrinkled skin, gray hair, a rough beard, and a furious expression sits across from a young journalist woman in a professional interview setting. (The following speech must be in Brazilian Portuguese). The man shouts in a loud, angry voice: \"Eu já disse e vou repetir: essa tal de H2O é perigosa! Todo mundo que bebeu isso um dia vai morrer!\" The journalist looks at the camera with a confused expression. Sounds: The man's loud voice, the soft hum of the studio, and a dramatic musical sting.",
+        "id": "memes-h2o-perigoso"
+      },
+      {
+        "titulo": "Memes - Hulk no Pão",
+        "arquivo": "Memes - Hulk no Pão.md",
+        "conteudo": "Massive green muscular figure resembling a superhero like Hulk. His look is exaggerated but friendly, with a goofy grin. He's wearing tattered purple shorts. He's standing inside a traditional Brazilian bakery (padaria), surrounded by shelves of fresh bread and pastries. (The following speech must be in Brazilian Portuguese). He says in a deep, booming voice: \"Hulk quer pão na chapa! E não esquece o pingado!\" Sounds: The sound of a busy bakery, the clinking of coffee cups, and the Hulk's powerful, friendly voice.",
+        "id": "memes-hulk-no-pão"
+      },
+      {
+        "titulo": "Memes - Mentiroso",
+        "arquivo": "Memes - Mentiroso.md",
+        "conteudo": "A slightly overweight man in his mid-40s, short dark hair, light brown skin, and wearing dusty work clothes sits casually on a pile of bricks at a construction site. (The following speech must be in Brazilian Portuguese). He says in a confident, storytelling voice: \"Eu juro pra você, eu já levantei um prédio de dez andares sozinho em um final de semana. O segredo é o café forte!\" Sounds: The sound of construction in the background, the clinking of tools, and the man's clear, enthusiastic voice.",
+        "id": "memes-mentiroso"
+      },
+      {
+        "titulo": "Memes - Pinguço e o Cachorro",
+        "arquivo": "Memes - Pinguço e o Cachorro.md",
+        "conteudo": "A cinematic, realistic 8-second viral-style video. An elderly Brazilian man with wrinkled skin, gray hair, and a rough beard is seated on a sidewalk curb, relaxed and holding a bottle of cachaça. Next to him, a friendly caramel-colored mixed-breed dog sits calmly. (The following speech must be in Brazilian Portuguese). The man says with a laugh: \"Esse aqui é o meu melhor amigo. Ele não reclama, não pede dinheiro e ainda me ajuda a chegar em casa!\" The dog looks at the camera and winks. Sounds: The ambient noise of a quiet street, the clinking of the bottle, and the man's warm laughter.",
+        "id": "memes-pinguço-e-o-cachorro"
+      },
+      {
+        "titulo": "Memes - Pinguço e o ET",
+        "arquivo": "Memes - Pinguço e o ET.md",
+        "conteudo": "An elderly Brazilian man with wrinkled skin, gray hair, and a rough beard is seated on a sidewalk curb, relaxed and holding a bottle of cachaça. Next to him, a small, friendly-looking alien with large eyes and glowing skin sits calmly. (The following speech must be in Brazilian Portuguese). The man says with a laugh: \"Eu disse que o contato imediato ia ser com um brinde! Saúde, meu amigo das estrelas!\" The alien raises a small glowing cup and chirps happily. Sounds: The ambient noise of a quiet street, the clinking of the bottle, and the man's warm laughter.",
+        "id": "memes-pinguço-e-o-et"
+      },
+      {
+        "titulo": "Memes - Vovó Gamer",
+        "arquivo": "Memes - Vovó Gamer.md",
+        "conteudo": "A kind-looking 70-year-old woman with gray hair and glasses, wearing a floral blouse, sits in a high-tech gaming chair with professional headphones. She is intensely focused on a computer screen. (The following speech must be in Brazilian Portuguese). She says in an energetic, competitive voice: \"Cuidado aí, que a vovó tá na área! Esse 'rush' não vai funcionar comigo!\" Sounds: The sound of a video game, the clicking of a mouse, and the woman's clear, enthusiastic voice.",
+        "id": "memes-vovó-gamer"
+      },
+      {
+        "titulo": "Memes - Pai Surpresa",
+        "arquivo": "Memes - Pai Surpresa.md",
+        "conteudo": "A white man in his late 20s with short brown hair, trimmed beard, wearing a casual T-shirt, holds a dark-skinned Black baby in his arms. They are in a cozy, sunlit living room. The man looks at the camera with a surprised and slightly confused expression. (The following speech must be in Brazilian Portuguese). He says in a funny, bewildered voice: \"Gente, eu juro que a mãe é loira dos olhos azuis! Como é que esse pacotinho veio com tanta melanina?\" Sounds: The soft cooing of the baby, a light comedic musical track, and the man's bewildered tone.",
+        "id": "memes-pai-surpresa"
+      },
+      {
+        "titulo": "Memes - Penisvaldo e Ava Gina",
+        "arquivo": "Memes - Penisvaldo e Ava Gina.md",
+        "conteudo": "An elderly woman with gray hair in a loose braid, tanned skin, and a long floral house dress enters a rustic wooden living room. She looks at her husband, an elderly man with a bald head and a grumpy expression, who is sitting in a rocking chair. (The following speech must be in Brazilian Portuguese). She says in a loud, annoyed voice: \"Penisvaldo, você viu a Ava Gina por aí? Eu preciso falar com ela agora!\" The man looks at the camera with a \"here we go again\" expression. Sounds: The creaking of the rocking chair, the woman's loud voice, and a comedic musical sting.",
+        "id": "memes-penisvaldo-e-ava-gina"
+      },
+      {
+        "titulo": "Memes - Piscina do Prefeito",
+        "arquivo": "Memes - Piscina do Prefeito.md",
+        "conteudo": "Location: Middle of a paved street in Belém do Pará, Brazil. Time: Noon, harsh sunlight. A giant pothole filled with murky rainwater sits in the center of the road. A large, shirtless Brazilian man with a joyful expression is sitting inside the pothole as if it were a swimming pool, holding a cold beer. (The following speech must be in Brazilian Portuguese). He says in a loud, celebratory voice: \"Obrigado, seu prefeito! A piscina pública ficou nota dez! Só falta o churrasco!\" Sounds: The sound of distant traffic, the man's boisterous laughter, and a lively samba musical track.",
+        "id": "memes-piscina-do-prefeito"
+      },
+      {
+        "titulo": "Memes - Prefeito Bom",
+        "arquivo": "Memes - Prefeito Bom.md",
+        "conteudo": "A cheerful young boy with dark curly hair and a big smile, sitting on a small bike. He's being interviewed by a man in casual clothes holding a microphone. (The following speech must be in Brazilian Portuguese). The man asks: \"O que você acha do novo prefeito?\" The boy replies with enthusiasm: \"Ele é muito bom! Ele deu picolé pra todo mundo na escola!\" Sounds: The ambient noise of a park, the man's clear voice, and the boy's high-pitched, happy voice.",
+        "id": "memes-prefeito-bom"
+      },
+      {
+        "titulo": "Memes - Tigrinho",
+        "arquivo": "Memes - Tigrinho.md",
+        "conteudo": "An excited elderly woman with short gray hair, tanned wrinkled skin, and bright eyes sits on a public bench in a sunny urban square. She holds a smartphone with both hands, staring intensely at the screen. (The following speech must be in Brazilian Portuguese). She shouts in a joyful, high-pitched voice: \"Ganhei! O Tigrinho soltou a carta! Hoje o jantar é por minha conta, pessoal!\" Sounds: The ambient noise of a busy square, the electronic sounds of a mobile game, and the woman's ecstatic laughter.",
+        "id": "memes-tigrinho"
+      },
+      {
+        "titulo": "Memes - Vovó Motoqueira",
+        "arquivo": "Memes - Vovó Motoqueira.md",
+        "conteudo": "70-year-old Brazilian woman with gray curly hair, wearing oversized round sunglasses and a colorful floral dress inside a dusty garage. She's sitting on a vintage motorcycle, holding the handlebars with a confident grin. (The following speech must be in Brazilian Portuguese). She says in a raspy, energetic voice: \"A idade está na cabeça, meu filho! O importante é sentir o vento no rosto e a liberdade na estrada!\" Sounds: The sound of a motorcycle engine revving, a classic rock musical track, and the woman's spirited laughter.",
+        "id": "memes-vovó-motoqueira"
+      },
+      {
+        "titulo": "Mulher balançando em árvore",
+        "arquivo": "Mulher balançando em árvore.md",
+        "conteudo": "A joyful, chubby woman with curly black hair and a wide smile swings energetically from a thick tree branch over a river. Two other women, also smiling and laughing, stand on the riverbank, watching her. (The following speech must be in Brazilian Portuguese). The woman on the branch shouts: \"Olha eu, gente! Sou a Tarzan do sertão!\" Suddenly, the branch snaps with a loud \"crack,\" and she falls into the water with a massive splash. Sounds: The sound of birds chirping, the rushing river, the loud snap of the branch, and the women's boisterous laughter.",
+        "id": "mulher-balançando-em-árvore"
+      },
+      {
+        "titulo": "Rapaz Educado com a Velhinha",
+        "arquivo": "Rapaz Educado com a Velhinha.md",
+        "conteudo": "Character Description: An elegant elderly woman with gray hair in a tidy bun, pearl earrings, and a floral dress stands smiling. Beside her, a handsome young man in his 20s, with short dark hair and a friendly smile, wears a casual T-shirt and jeans. (The following speech must be in Brazilian Portuguese). The young man says in a polite, charming voice: \"Dona Maria, a senhora está cada dia mais jovem! Qual o segredo?\" The woman laughs and replies: \"É muito amor e um pouquinho de fofoca com as amigas!\" Sounds: The ambient noise of a quiet neighborhood, birds chirping, and their clear, joyful voices.",
+        "id": "rapaz-educado-com-a-velhinha"
+      },
+      {
+        "titulo": "Vovó dançando funk na cozinha",
+        "arquivo": "Vovó dançando funk na cozinha.md",
+        "conteudo": "A lively 76-year-old Brazilian grandma with light brown skin, rosy cheeks, and gray hair under a floral scarf dances in a cozy, sunlit kitchen. She's wearing a colorful apron over a simple dress. (The following speech must be in Brazilian Portuguese). She says in a joyful, rhythmic voice: \"Quem disse que vovó não tem gingado? O almoço sai mais gostoso com um pouquinho de funk!\" Sounds: A catchy funk musical track, the sound of pans clinking, and her happy, rhythmic voice.",
+        "id": "vovó-dançando-funk-na-cozinha"
+      },
+      {
+        "titulo": "Vovó dos anos 80 no TikTok",
+        "arquivo": "Vovó dos anos 80 no TikTok.md",
+        "conteudo": "An expressive 78-year-old woman with light freckled skin, short gray hair in old-school rollers, and sparkling blue eyes wears a bright neon-pink tracksuit. She's in a living room with 80s decor. (The following speech must be in Brazilian Portuguese). She says in an energetic, trendy voice: \"E aí, meus 'seguimores'! Hoje o desafio é a dancinha da vovó. Vamos ver quem consegue me acompanhar!\" Sounds: A retro 80s synth-pop musical track, the sound of her sneakers on the floor, and her clear, enthusiastic voice.",
+        "id": "vovó-dos-anos-80-no-tiktok"
       }
     ]
   },
@@ -5747,6 +5897,703 @@
         "arquivo": "bebê---estudante.md",
         "conteudo": "# Bebê - Estudante\n\n## Categoria\nBebê\n\n## Prompt\n\nA cinematic, realistic 8-second comedy video featuring a baby dressed as corporate office worker inside modern office setting. Stylish open-plan office with desks, monitors, potted plants, warm lighting. Baby-sized office chair in front of laptop on clean desk, colorful sticky notes on wall behind. Baby around 1 year old, wearing tiny light blue dress shirt, miniature tie, and slightly oversized black glasses. Looks overwhelmed, slouched in chair while holding tiny pen. Papers and closed baby-sized notebook spread on desk. Delivers line in funny, dramatic baby-like voice (Brazilian Portuguese with no subtitles): \"Rapaz essa vida de estudante não tá fácil, saudades quando meu trabalho era só chorar, comer e dormir. Quero voltar pra barriga da minha mamãe.\" Medium shot capturing outfit, mini office setup, and funny stressed expression, with slight zoom-in during punchline. Background sounds: distant keyboard typing, soft office chatter, quiet AC hum. Warm soft daylight through office windows, mixed with modern ceiling lighting. Cinematic realism, comedic viral baby video. 8 seconds.\n\n---\n\n**Fonte:** Maestro Prompts  \n**Tipo:** Prompt para Geração de Vídeo\n",
         "id": "maestro-video-015"
+      },
+      {
+        "titulo": "Bebê - Fantasia de Vaca",
+        "arquivo": "Bebê - Fantasia de Vaca.md",
+        "conteudo": "A cinematic, realistic 8-second comedy video featuring a toddler (around 2 years old) dressed in a fluffy cow costume with small horns and a pink snout. The toddler is in a bright, modern living room with soft sunlight. The toddler looks at the camera, makes a playful \"moo\" face, and then starts to crawl toward the camera. (The following speech must be in Brazilian Portuguese). The toddler says in a high-pitched, adorable voice: \"Eu sou uma vaquinha muito fofa, olha só!\" Sounds: Soft giggling, the sound of the toddler's hands hitting the carpet.",
+        "id": "bebê-fantasia-de-vaca"
+      },
+      {
+        "titulo": "Bebê - Mestre dos Prompts",
+        "arquivo": "Bebê - Mestre dos Prompts.md",
+        "conteudo": "Realistic toddler around 1 year old, medium brown skin, short soft dark hair, expressive big eyes, wearing high-quality miniature streetwear (hoodie and sneakers). The baby is sitting on a clean, minimalist floor with a tablet in front of them. In a medium static shot, the baby looks at the tablet, taps the screen, then looks directly at the camera with a confident, knowing smile. The baby says in Portuguese Brazilian, with a clear and surprisingly mature voice: \"Não perde tempo: o Mestre dos Prompts já fez o trabalho duro pra você!\" No subtitles, Realistic facial animation, Voice synchronization. Bright studio lighting, soft electronic background music, modern and professional mood.",
+        "id": "bebê-mestre-dos-prompts"
+      },
+      {
+        "titulo": "Bebê - Político",
+        "arquivo": "Bebê - Político.md",
+        "conteudo": "Realistic 4K video of a dramatic fake press conference in a living room staged like a newsroom. A toddler aged podium is set up with several toy microphones. A 2-year-old baby boy with light skin and messy blonde hair, wearing a tiny suit and tie, stands behind the podium. He gestures emphatically with his small hands, looking serious. (Dialogue must be spoken in Brazilian Portuguese). He says in a loud, babbling but authoritative tone: \"Meus concidadãos, a partir de hoje, a hora do soninho é opcional e o estoque de biscoitos será ilimitado!\" Background sounds: the frantic clicking of toy cameras and the muffled \"oohs\" and \"aahs\" of a crowd.",
+        "id": "bebê-político"
+      },
+      {
+        "titulo": "Bebê com a Vovó",
+        "arquivo": "Bebê com a Vovó.md",
+        "conteudo": "A cute baby wearing cozy farm-style clothes holds a small teddy bear while standing inside a rustic wooden playpen. Beside the playpen, a kind elderly woman with gray hair tied in a bun and wearing a knitted cardigan smiles warmly at the baby. The setting is a sunlit, cozy room with wooden furniture and plants. The baby looks at the camera, then at the grandmother, and says in a sweet, tiny voice (in Brazilian Portuguese): \"Vovó, olha o meu ursinho! Ele também quer um abraço.\" The grandmother chuckles softly. Sounds: Gentle acoustic guitar music, the soft creaking of the wooden floor.",
+        "id": "bebê-com-a-vovó"
+      },
+      {
+        "titulo": "Bebê Correndo no Hospital",
+        "arquivo": "Bebê Correndo no Hospital.md",
+        "conteudo": "A cute baby in a hospital gown runs down a bright hospital corridor toward the camera with small, shaky steps. The baby has a big, joyful smile. In the background, a nurse in blue scrubs is seen walking away. The lighting is bright and sterile but warm. The baby looks at the camera and says in a giggling, happy voice (in Brazilian Portuguese): \"Tô fugindo! Ninguém me pega!\" Sounds: The rhythmic sound of small feet on the linoleum floor, distant hospital beeps.",
+        "id": "bebê-correndo-no-hospital"
+      },
+      {
+        "titulo": "Bebê Fugindo da Vovó",
+        "arquivo": "Bebê Fugindo da Vovó.md",
+        "conteudo": "A baby wearing a yellow onesie hides under a bed, peeking out with wide, guilty eyes. His face is messy with chocolate and he holds a half-eaten cookie. In the background, the legs of an elderly woman are visible as she walks past the bed. The room is a cozy, slightly messy bedroom. The baby whispers to the camera (in Brazilian Portuguese): \"A vovó tá me procurando, mas ela nunca vai me achar aqui com o meu biscoito!\" Sounds: Soft, sneaky tip-toeing sounds, the crinkle of the cookie wrapper.",
+        "id": "bebê-fugindo-da-vovó"
+      },
+      {
+        "titulo": "Bebê Trabalhando no McDonald's",
+        "arquivo": "Bebê Trabalhando no McDonald's.md",
+        "conteudo": "Scene description: A 1-year-old baby is inside a McDonald's kitchen, wearing a full employee uniform: a red cap, a black polo shirt with the golden arches logo, and a small headset. The baby is standing on a sturdy plastic step stool in front of a stainless steel counter. With a very serious and focused expression, the baby is carefully placing a single pickle on a burger bun. (The following speech must be in Brazilian Portuguese). The baby looks at the camera and says in a cute but professional voice: \"Um McLanche Feliz saindo caprichado! Próximo da fila, por favor!\" Sounds: The sizzle of a grill in the background, the beep of a fry timer, and the ambient chatter of a busy restaurant.",
+        "id": "bebê-trabalhando-no-mcdonalds"
+      },
+      {
+        "titulo": "Bebê no McDonald's",
+        "arquivo": "Bebê no McDonald's.md",
+        "conteudo": "A chubby baby with curly dark hair and big eyes sits in a high chair inside a bright, modern McDonald's restaurant. He's wearing a tiny McDonald's uniform and has a Happy Meal in front of him. (The following speech must be in Brazilian Portuguese). He says in a serious, babbling but articulate voice: \"O atendimento foi rápido, mas as batatas poderiam estar mais crocantes. Vou dar quatro estrelas.\" Sounds: The ambient noise of a busy restaurant, the beeping of machines, and the baby's cute, authoritative voice.",
+        "id": "bebê-no-mcdonalds"
+      },
+      {
+        "titulo": "Bebê Político",
+        "arquivo": "Bebê Político.md",
+        "conteudo": "A chubby baby with light brown skin and a serious expression, wearing a tiny suit and tie, stands behind a miniature wooden podium. (The following speech must be in Brazilian Portuguese). He says in a confident, persuasive voice: \"Minhas promessas são claras: mais tempo de soneca e mamadeira liberada para todos! Votem em mim para um futuro mais fofo!\" Sounds: The sound of a crowd cheering, the clicking of cameras, and the baby's clear, authoritative voice.",
+        "id": "bebê-político"
+      },
+      {
+        "titulo": "Bebê Chef",
+        "arquivo": "Bebê Chef.md",
+        "conteudo": "A chubby baby with a white chef's hat and a tiny apron stands in a modern kitchen, holding a wooden spoon. (The following speech must be in Brazilian Portuguese). He says in an enthusiastic, babbling voice: \"O segredo do meu purê é muito amor e um pouquinho de bagunça! Bom apetite!\" Sounds: The sound of bubbling pots, the clinking of utensils, and the baby's joyful, babbling voice.",
+        "id": "bebê-chef"
+      }
+    ]
+  },
+  "influencer": {
+    "nome": "Influencer",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Cantora em um Rio Cristalino",
+        "arquivo": "Cantora em um Rio Cristalino.md",
+        "conteudo": "A beautiful young woman, around 25 years old, with tan skin, long wavy dark hair, and a joyful smile. She's wearing a vibrant, flowy summer dress and standing waist-deep in a crystal-clear river surrounded by lush green tropical forest. Sunlight filters through the trees, creating a magical atmosphere. She holds a waterproof microphone and sings with passion. (The following speech must be in Brazilian Portuguese). Between verses, she looks at the camera and says in an energetic, melodic tone: \"Gente, esse lugar é um paraíso! A música flui melhor aqui no meio da natureza.\" Sounds: The gentle rushing of the river water, the chirping of exotic birds, and her beautiful singing voice.",
+        "id": "cantora-em-um-rio-cristalino"
+      },
+      {
+        "titulo": "Influencer - Arsenal de Prompts",
+        "arquivo": "Influencer - Arsenal de Prompts.md",
+        "conteudo": "A cinematic, modern shot inside a high-end creative studio designed for content creators. The set features a pastel pink and teal color palette, with soft ring lights and professional cameras visible. A stylish young woman in her early 20s, with vibrant hair and a trendy outfit, stands in the center. (The following speech must be in Brazilian Portuguese). She says in an energetic, inspiring voice: \"Quer elevar o nível do seu conteúdo? O Arsenal de Prompts é a chave para destravar a sua criatividade!\" Sounds: The soft hum of studio lights, the clicking of a camera shutter, and her clear, enthusiastic voice.",
+        "id": "influencer-arsenal-de-prompts"
+      },
+      {
+        "titulo": "Influencer - Café do Dia",
+        "arquivo": "Influencer - Café do Dia.md",
+        "conteudo": "Realistic 4K video inside a stylish coffee shop in São Paulo, Brazil. Cozy modern aesthetic with wooden tables, plants, warm lighting, and a large window showing a blurred city street. A charismatic young woman in her late 20s, with light brown skin and curly hair, sits at a table with a laptop and a steaming cup of coffee. (The following speech must be in Brazilian Portuguese). She looks at the camera and says in a friendly, energetic voice: \"Bom dia, pessoal! Nada como um café fresquinho pra começar o dia com foco total. Qual o seu ritual matinal?\" Sounds: The soft hum of the coffee shop, the clinking of cups, and her clear, enthusiastic voice.",
+        "id": "influencer-café-do-dia"
+      },
+      {
+        "titulo": "Influencer - Carla na Praia",
+        "arquivo": "Influencer - Carla na Praia.md",
+        "conteudo": "A cinematic handheld selfie shot of a stunning young woman with rich medium skin tone, striking dark brown eyes, and long wavy dark hair. She's wearing a vibrant turquoise bikini and standing on a beautiful beach with white sand and turquoise water. The sun is shining brightly, creating a warm, tropical atmosphere. (The following speech must be in Brazilian Portuguese). She says in a joyful, energetic voice: \"Gente, olha esse paraíso! Eu nunca mais quero sair daqui. A energia desse lugar é simplesmente incrível!\" Sounds: The gentle rushing of ocean waves, the distant cry of seagulls, and her happy, enthusiastic voice.",
+        "id": "influencer-carla-na-praia"
+      },
+      {
+        "titulo": "Influencer - Corretor de Imóveis",
+        "arquivo": "Influencer - Corretor de Imóveis.md",
+        "conteudo": "A well-dressed Brazilian man in his late 30s, light brown skin, short black hair, clean-shaven, walks confidently inside a luxury modern apartment. The apartment features floor-to-ceiling windows with a city view, high-end furniture, and minimalist decor. (The following speech must be in Brazilian Portuguese). He looks at the camera and says in a professional, persuasive voice: \"Se você busca exclusividade e conforto, este é o lugar ideal para você e sua família. Venha conhecer o seu novo lar.\" Sounds: The soft sound of his footsteps on the polished floor, the distant hum of the city, and his clear, authoritative voice.",
+        "id": "influencer-corretor-de-imóveis"
+      },
+      {
+        "titulo": "Influencer - Dentista Maravilhosa",
+        "arquivo": "Influencer - Dentista Maravilhosa.md",
+        "conteudo": "Realistic 4K video inside a modern aesthetic clinic in São Paulo, Brazil. The clinic has a chic and minimal design: white marble floors, soft ambient lighting, and elegant decor. A beautiful female dentist in her early 30s, with a radiant smile and professional attire, stands in the clinic. (The following speech must be in Brazilian Portuguese). She looks at the camera and says in a gentle, confident voice: \"Um sorriso saudável é o seu melhor cartão de visitas. Aqui, cuidamos de você com toda a tecnologia e carinho que você merece.\" Sounds: The soft hum of the clinic's equipment, a light, relaxing musical track, and her clear, professional voice.",
+        "id": "influencer-dentista-maravilhosa"
+      },
+      {
+        "titulo": "Influencer - Joias Elegantes",
+        "arquivo": "Influencer - Joias Elegantes.md",
+        "conteudo": "In a refined, softly lit setting with warm golden and neutral tones, a blurred background reveals a discreet jewelry display. A stunning woman with medium brown skin, elegant wavy black hair, and confident posture stands inside a stylish clothing boutique. (The following speech must be in Brazilian Portuguese). She says in a sophisticated, persuasive voice: \"A elegância está nos detalhes. Estas joias foram feitas para mulheres que sabem o valor de um brilho eterno.\" Sounds: A soft, luxurious musical track, the faint rustle of high-end fabrics, and her clear, elegant voice.",
+        "id": "influencer-joias-elegantes"
+      },
+      {
+        "titulo": "Influencer - Jornal Bizarro",
+        "arquivo": "Influencer - Jornal Bizarro.md",
+        "conteudo": "Realistic 4K video inside a Brazilian TV news studio. The LED wall behind shows animated graphics and headlines. At the desk sits a professional male news anchor in a sharp suit. (The following speech must be in Brazilian Portuguese). He looks at the camera and says in a serious, authoritative voice: \"Boa noite. No jornal de hoje, vamos mostrar como a inteligência artificial está mudando a forma como vemos o mundo. Fique com a gente.\" Sounds: The dramatic news intro music, the soft hum of the studio, and his clear, professional voice.",
+        "id": "influencer-jornal-bizarro"
+      },
+      {
+        "titulo": "Influencer - Notícia ao Vivo",
+        "arquivo": "Influencer - Notícia ao Vivo.md",
+        "conteudo": "A cinematic, realistic 8-second news broadcast video styled like Brazil's iconic primetime newscast. The environment features a high-tech studio with a large curved LED screen in the background showing a blurred city skyline at night. A professional female news anchor in her early 40s, with short dark hair and a sharp navy blue blazer, sits behind a sleek glass desk. (The following speech must be in Brazilian Portuguese). She looks directly at the camera and says in a serious, authoritative voice: \"Boa noite. Começa agora a edição que vai mudar a sua forma de ver as notícias.\" Sounds: The dramatic, fast-paced news intro music, the soft hum of the studio, and her clear, professional voice.",
+        "id": "influencer-notícia-ao-vivo"
+      },
+      {
+        "titulo": "Influencer - Podcast Aluguel",
+        "arquivo": "Influencer - Podcast Aluguel.md",
+        "conteudo": "Inside a stylish podcast studio with warm lighting, a wooden table, and professional microphones. A handsome man in his early 30s, with a friendly smile and casual attire, sits at the table. (The following speech must be in Brazilian Portuguese). He says in an engaging, conversational voice: \"Muita gente me pergunta se vale a pena alugar ou comprar. Hoje, vamos desmistificar esse assunto de uma vez por todas!\" Sounds: The soft hum of the studio's air conditioning, the slight clinking of a water glass, and his clear, energetic voice.",
+        "id": "influencer-podcast-aluguel"
+      },
+      {
+        "titulo": "Influencer - Podcast Morena",
+        "arquivo": "Influencer - Podcast Morena.md",
+        "conteudo": "A cinematic, realistic 8-second podcast-style video set in a modern studio. The environment features a wooden table, professional microphones, and warm ambient lighting. A beautiful woman with long dark hair and a stylish outfit sits at the table. (The following speech must be in Brazilian Portuguese). She says in an engaging, confident voice: \"O segredo para o sucesso é a constância. Não adianta começar com tudo e parar no meio do caminho. Foco no objetivo!\" Sounds: The soft hum of the studio, the slight rustle of her clothes, and her clear, energetic voice.",
+        "id": "influencer-podcast-morena"
+      },
+      {
+        "titulo": "Influencer - Psicóloga",
+        "arquivo": "Influencer - Psicóloga.md",
+        "conteudo": "A calm and confident female psychologist with light brown skin, short curly hair, and glasses holds a smartphone in one hand, recording a video for social media. She is in a cozy, well-lit office with bookshelves and plants in the background. (The following speech must be in Brazilian Portuguese). She says in a gentle, reassuring voice: \"Cuidar da sua saúde mental é o maior ato de amor-próprio que você pode ter. Vamos conversar sobre isso?\" Sounds: The soft ticking of a clock, the distant sound of birds, and her clear, empathetic voice.",
+        "id": "influencer-psicóloga"
+      },
+      {
+        "titulo": "Influencer - Ruiva no Carro",
+        "arquivo": "Influencer - Ruiva no Carro.md",
+        "conteudo": "A beautiful, sensual, curvy woman with bright pink hair, wearing denim shorts and a black top, is sitting in the driver's seat of a modern car. She looks at the camera with a playful, confident expression. (The following speech must be in Brazilian Portuguese). She says in a sultry, energetic voice: \"Pronta para mais uma aventura? A vida é curta demais pra ficar parada. Vamos nessa!\" Sounds: The sound of the car engine starting, a light pop musical track, and her clear, enthusiastic voice.",
+        "id": "influencer-ruiva-no-carro"
+      },
+      {
+        "titulo": "Influencer - SUV Luxo",
+        "arquivo": "Influencer - SUV Luxo.md",
+        "conteudo": "A confident woman in her early 30s, caramel skin, sleek black hair in a high ponytail, bold eyeliner, and glossy lips, wearing a sharp white blazer and matching trousers, stands next to a luxury SUV in a high-end car showroom. (The following speech must be in Brazilian Portuguese). She says in a sophisticated, persuasive voice: \"Este não é apenas um carro, é uma declaração de estilo e poder. Venha sentir a experiência de dirigir o melhor.\" Sounds: The soft hum of the showroom's air conditioning, the clicking of her heels on the polished floor, and her clear, elegant voice.",
+        "id": "influencer-suv-luxo"
+      },
+      {
+        "titulo": "Influencer - Tênis de Corrida",
+        "arquivo": "Influencer - Tênis de Corrida.md",
+        "conteudo": "A fit young man in his mid-20s, with short black hair and athletic build, wearing high-performance running gear, stands on a scenic coastal running path at sunrise. He holds a pair of vibrant running shoes. (The following speech must be in Brazilian Portuguese). He says in an energetic, inspiring voice: \"Quer superar seus limites? O equipamento certo faz toda a diferença. Sinta a leveza e a velocidade em cada passo!\" Sounds: The sound of ocean waves, the rhythmic breathing of a runner, and his clear, enthusiastic voice.",
+        "id": "influencer-tênis-de-corrida"
+      },
+      {
+        "titulo": "Influencer - Viagem dos Sonhos",
+        "arquivo": "Influencer - Viagem dos Sonhos.md",
+        "conteudo": "A beautiful young woman with long wavy hair and a joyful smile stands on a balcony overlooking a stunning Mediterranean coastal town. She holds a glass of wine. (The following speech must be in Brazilian Portuguese). She says in a happy, dreamy voice: \"Viver momentos como este é o que realmente importa. A vida é feita de memórias, e esta cidade é inesquecível!\" Sounds: The distant sound of church bells, the gentle breeze, and her clear, enthusiastic voice.",
+        "id": "influencer-viagem-dos-sonhos"
+      },
+      {
+        "titulo": "Influencer - Vlog de Moda",
+        "arquivo": "Influencer - Vlog de Moda.md",
+        "conteudo": "A stylish young woman in her early 20s, with vibrant hair and a trendy outfit, stands in a bright, modern walk-in closet. She holds up different outfits. (The following speech must be in Brazilian Portuguese). She says in an energetic, inspiring voice: \"Hoje vamos montar três looks incríveis para diferentes ocasiões. A moda é a sua forma de expressão, divirta-se com ela!\" Sounds: The rustle of clothes, the clicking of hangers, and her clear, enthusiastic voice.",
+        "id": "influencer-vlog-de-moda"
+      },
+      {
+        "titulo": "Influencer - Trânsito de SP",
+        "arquivo": "Influencer - Trânsito de SP.md",
+        "conteudo": "Realistic 4K video of a Brazilian influencer live-streaming from inside a car stuck in heavy São Paulo traffic. Cars, buses and motorcycles are visible through the windows. The influencer is a charismatic young woman in her late 20s, with light brown skin and curly hair. (The following speech must be in Brazilian Portuguese). She looks at the camera and says in a frustrated but funny voice: \"Gente, eu não aguento mais esse trânsito! Já terminei de ouvir três podcasts e ainda não saí do lugar. Alguém me tira daqui!\" Sounds: The sound of car horns, the hum of engines, and her clear, expressive voice.",
+        "id": "influencer-trânsito-de-sp"
+      },
+      {
+        "titulo": "Influencer - Vestido Boutique",
+        "arquivo": "Influencer - Vestido Boutique.md",
+        "conteudo": "A stylish female influencer with medium-tan skin, long straight dark hair, and bright expressive eyes stands inside a trendy boutique. She is wearing a chic, form-fitting dress that highlights her elegant silhouette. (The following speech must be in Brazilian Portuguese). She says in a confident, persuasive voice: \"Meninas, olha esse vestido! Ele veste super bem e é perfeito para aquela ocasião especial. Eu estou apaixonada!\" Sounds: A soft, upbeat musical track, the faint rustle of fabrics, and her clear, enthusiastic voice.",
+        "id": "influencer-vestido-boutique"
+      },
+      {
+        "titulo": "Influencer - Vestido Novo",
+        "arquivo": "Influencer - Vestido Novo.md",
+        "conteudo": "A realistic 4K video filmed inside a cozy, well-lit bedroom in Brazil. Morning daylight softly enters through sheer curtains, illuminating the space. A stunning 25-year-old woman with long, wavy red hair and a radiant smile stands in front of a full-length mirror. (The following speech must be in Brazilian Portuguese). She looks at the camera and says in a joyful, energetic voice: \"Gente, olha esse vestido novo! Eu estou simplesmente apaixonada pelo caimento e pela cor. O que vocês acharam?\" Sounds: A light, cheerful musical track, the soft rustle of the dress, and her happy, enthusiastic voice.",
+        "id": "influencer-vestido-novo"
+      },
+      {
+        "titulo": "Influencer latina em estúdio neon",
+        "arquivo": "Influencer latina em estúdio neon.md",
+        "conteudo": "Beautiful light-skinned Latina influencer with long brown hair and natural makeup, confidently looking at the camera. She's wearing a stylish white blazer over a black top. The setting is a modern, high-tech studio with vibrant neon blue and pink lighting, creating a dynamic and energetic atmosphere. (The following speech must be in Brazilian Portuguese). She says in an inspiring, authoritative voice: \"O futuro da criação de conteúdo está aqui. Você está pronto para dominar as novas ferramentas e elevar o seu nível?\" Sounds: A modern, high-energy electronic musical track, the soft hum of studio equipment, and her clear, powerful voice.",
+        "id": "influencer-latina-em-estúdio-neon"
+      },
+      {
+        "titulo": "Mulher confiante em loja de motos",
+        "arquivo": "Mulher confiante em loja de motos.md",
+        "conteudo": "A confident Brazilian woman in her 30s, light brown skin, long wavy black hair, wearing bold eyeliner and a leather jacket, stands inside a high-end motorcycle showroom. (The following speech must be in Brazilian Portuguese). She says in a sophisticated, persuasive voice: \"Uma moto não é apenas um meio de transporte, é um estilo de vida. Venha sentir a potência e a liberdade.\" Sounds: The soft hum of the showroom's air conditioning, the clicking of her boots on the polished floor, and her clear, authoritative voice.",
+        "id": "mulher-confiante-em-loja-de-motos"
+      }
+    ]
+  },
+  "entrevista": {
+    "nome": "Entrevista",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Cão Trabalhador Pobre",
+        "arquivo": "Cão Trabalhador Pobre.md",
+        "conteudo": "Character Description: A cachorro caramelo with short fur, expressive brown eyes, and a humorous, serious face wearing a miniature orange construction vest and a tiny yellow hard hat. He is sitting on a pile of bricks at a construction site. A reporter's hand holds a microphone near his face. (The following speech must be in Brazilian Portuguese). He says in a tired, raspy, and funny voice: \"Trabalhar de sol a sol pra ganhar um osso que nem tem tutano... a vida de operário não é fácil, meu patrão!\" Sounds: The distant sound of a jackhammer, clinking of shovels, and ambient construction site noise.",
+        "id": "cão-trabalhador-pobre"
+      },
+      {
+        "titulo": "Conhece o Bebê Reborn",
+        "arquivo": "Conhece o Bebê Reborn.md",
+        "conteudo": "Character Description: A kind elderly man with wrinkled skin, gray hair, and a toothy smile stands holding a cane. He wears a simple plaid shirt and suspenders. A reporter's hand holds a microphone near his face. (The following speech must be in Brazilian Portuguese). He says in a gentle, slightly confused but happy voice: \"Bebê reborn? Ah, eu conheço! É aquele que a gente não precisa trocar a fralda e nem dar de mamar, né? Uma maravilha da tecnologia!\" Sounds: The ambient noise of a quiet park, birds chirping, and the soft rustle of leaves.",
+        "id": "conhece-o-bebê-reborn"
+      },
+      {
+        "titulo": "Entrevista - Alienígena",
+        "arquivo": "Entrevista - Alienígena.md",
+        "conteudo": "A green-skinned alien with large black eyes, wearing metallic silver clothing with glowing blue lines, stands confidently in a crowded city square. A reporter's hand holds a microphone near the alien's face. (The following speech must be in Brazilian Portuguese). The alien says in a calm, resonant voice: \"Nós viemos em paz... e para perguntar por que vocês ainda usam fios para carregar seus dispositivos. É tão primitivo.\" Sounds: The ambient noise of a busy city, the hum of flying vehicles (implied), and the clicking of cameras.",
+        "id": "entrevista-alienígena"
+      },
+      {
+        "titulo": "Entrevista - Bebê Operário",
+        "arquivo": "Entrevista - Bebê Operário.md",
+        "conteudo": "A hyper-realistic street interview scene. Over-the-shoulder shot of a reporter holding a microphone with a news channel logo. A toddler around 2 years old, wearing a miniature orange construction vest and a tiny yellow hard hat, stands in front of a construction site. (The following speech must be in Brazilian Portuguese). The baby says in a serious, babbling but articulate voice: \"O cronograma está atrasado porque o estoque de leite acabou. Sem tetê, sem obra!\" Sounds: The sound of a jackhammer in the background, the clinking of shovels, and the baby's cute, authoritative voice.",
+        "id": "entrevista-bebê-operário"
+      },
+      {
+        "titulo": "Entrevista - Dona Lourdes",
+        "arquivo": "Entrevista - Dona Lourdes.md",
+        "conteudo": "A hyper-realistic street interview style video. Over-the-shoulder shot of a reporter holding a microphone with a news channel logo. A kind-looking 70-year-old Brazilian woman with gray hair and glasses, wearing a floral blouse, stands in a sunny neighborhood square. (The following speech must be in Brazilian Portuguese). She says in a cheerful, energetic voice: \"Meu filho, depois que eu comecei a usar o Mestre dos Prompts, até o meu grupo do WhatsApp ficou mais animado! É vídeo de bom dia pra todo lado!\" Sounds: The ambient noise of a park, children playing in the distance, and the woman's warm laughter.",
+        "id": "entrevista-dona-lourdes"
+      },
+      {
+        "titulo": "Entrevista - ET na Rua",
+        "arquivo": "Entrevista - ET na Rua.md",
+        "conteudo": "A hyper-realistic street interview style video. Over-the-shoulder shot of a reporter holding a microphone with a news channel logo. A small, friendly-looking alien with large eyes and glowing skin stands on a busy sidewalk. (The following speech must be in Brazilian Portuguese). The alien says in a curious, high-pitched voice: \"Eu só queria saber onde fica a melhor coxinha da Terra. Me disseram que é de outro mundo!\" Sounds: The ambient noise of a busy street, cars passing by, and the alien's unique, melodic voice.",
+        "id": "entrevista-et-na-rua"
+      },
+      {
+        "titulo": "Entrevista - Homem na Praia",
+        "arquivo": "Entrevista - Homem na Praia.md",
+        "conteudo": "A hyper-realistic street interview style video. Over-the-shoulder shot of a reporter holding a microphone with a news channel logo. A tanned, athletic man in his 30s, wearing sunglasses and a tropical shirt, stands on a sunny beach. (The following speech must be in Brazilian Portuguese). He says in a relaxed, enthusiastic voice: \"Cara, a vida é curta demais pra não aproveitar cada segundo. O segredo é pé na areia e mente tranquila!\" Sounds: The sound of ocean waves, the distant cry of seagulls, and the man's confident, laid-back tone.",
+        "id": "entrevista-homem-na-praia"
+      },
+      {
+        "titulo": "Entrevista - Podcast Brasileiro",
+        "arquivo": "Entrevista - Podcast Brasileiro.md",
+        "conteudo": "A cinematic, realistic 8-second podcast-style video set in a trendy Brazilian studio. The setup features a large wooden table, professional microphones on boom arms, and warm ambient lighting with neon accents. Two people, a man and a woman in their late 20s, are sitting across from each other, engaged in a lively conversation. (The following speech must be in Brazilian Portuguese). The man says with a laugh: \"Cara, você não vai acreditar no que aconteceu ontem no shopping!\" The woman leans in, smiling, and replies: \"Conta logo, eu adoro uma fofoca boa!\" Sounds: The soft hum of the studio's air conditioning, the slight clinking of water glasses, and their clear, energetic voices.",
+        "id": "entrevista-podcast-brasileiro"
+      },
+      {
+        "titulo": "Entrevista - Praia",
+        "arquivo": "Entrevista - Praia.md",
+        "conteudo": "A charismatic man in his 30s, tanned skin, short brown hair, wearing a light blue short-sleeve shirt and beige shorts, walks along a sunny beach. A reporter's hand holds a microphone near his face. (The following speech must be in Brazilian Portuguese). He says in a relaxed, happy voice: \"O segredo da felicidade? É simples: sol, mar e nunca esquecer de levar o protetor solar!\" Sounds: The rhythmic sound of ocean waves, the distant cry of seagulls, and the man's cheerful, laid-back tone.",
+        "id": "entrevista-praia"
+      },
+      {
+        "titulo": "Entrevista - Robô Delivery",
+        "arquivo": "Entrevista - Robô Delivery.md",
+        "conteudo": "A street interview style video. Over-the-shoulder shot of a reporter holding a microphone with a news channel logo. A delivery robot with a friendly digital face on its screen stands on a sidewalk. (The following speech must be in Brazilian Portuguese). The robot says in a polite, electronic voice: \"Sua encomenda chegou! Por favor, avalie meu serviço com cinco estrelas para que eu não seja reciclado.\" Sounds: The ambient noise of a city street, the soft whir of the robot's wheels, and its unique, digital voice.",
+        "id": "entrevista-robô-delivery"
+      },
+      {
+        "titulo": "Gorila no Podcast",
+        "arquivo": "Gorila no Podcast.md",
+        "conteudo": "A beautiful woman with long curly black hair, expressive eyes, and a charming smile sits in a modern podcast studio. Across from her, a large, calm gorilla wearing a pair of professional headphones sits at the table. (The following speech must be in Brazilian Portuguese). The woman says with a smile: \"Então, Sr. Gorila, qual é o segredo para manter a calma em um mundo tão barulhento?\" The gorilla looks at her, then at the camera, and says in a deep, resonant voice: \"Basta focar na próxima banana.\" Sounds: The soft hum of the studio, the slight rustle of the gorilla's fur, and their clear, engaging voices.",
+        "id": "gorila-no-podcast"
+      },
+      {
+        "titulo": "Entrevista - Street Interview",
+        "arquivo": "Entrevista - Street Interview.md",
+        "conteudo": "A hyper-realistic street interview style video. Over-the-shoulder shot of a reporter holding a microphone with a news channel logo. A stylish young man in his early 20s, wearing a trendy outfit and headphones around his neck, stands on a busy city sidewalk. (The following speech must be in Brazilian Portuguese). He says in an energetic, confident voice: \"O que eu mais gosto na cidade? A energia, as pessoas e, claro, a facilidade de encontrar tudo o que eu preciso em um clique!\" Sounds: The ambient noise of a busy street, cars passing by, and the man's clear, enthusiastic voice.",
+        "id": "entrevista-street-interview"
+      },
+      {
+        "titulo": "Segredo para ficar vivo",
+        "arquivo": "Segredo para ficar vivo.md",
+        "conteudo": "Character Description: A cheerful male reporter in his 30s with short brown hair, tan skin, and a friendly smile holds a microphone. Beside him stands an elderly man, around 90 years old, with wrinkled skin, a bald head, and a mischievous grin. (The following speech must be in Brazilian Portuguese). The reporter asks: \"Qual o segredo para chegar aos 90 anos com tanta saúde?\" The old man winks and replies: \"O segredo é simples: é só não morrer!\" Both burst into laughter. Sounds: The ambient noise of a park, the reporter's clear voice, and the old man's raspy, joyful laughter.",
+        "id": "segredo-para-ficar-vivo"
+      }
+    ]
+  },
+  "cinematografico": {
+    "nome": "Cinematográfico",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Cinematográfico - Cyberpunk Futurista",
+        "arquivo": "Cinematográfico - Cyberpunk Futurista.md",
+        "conteudo": "A futuristic soldier wearing black tactical gear with glowing neon blue and pink circuits stands on a platform overlooking a rain-slicked, neon-drenched cyberpunk city at night. Massive holographic advertisements float in the air. The soldier holds a high-tech rifle. (The following speech must be in Brazilian Portuguese). He looks at the camera and says in a deep, distorted voice: \"A cidade nunca dorme, e as sombras estão ficando mais longas. O futuro chegou, e ele não é nada amigável.\" Sounds: The constant hum of flying vehicles, the rhythmic patter of rain on metal, and the distant thrum of electronic music.",
+        "id": "cinematográfico-cyberpunk-futurista"
+      },
+      {
+        "titulo": "Bombeiro em prédio em chamas",
+        "arquivo": "Bombeiro em prédio em chamas.md",
+        "conteudo": "A brave firefighter in full protective gear, including a helmet and oxygen mask, stands in a smoke-filled hallway of a burning building. Embers fly through the air, and orange flames are visible in the background. He carries a heavy axe. (The following speech must be in Brazilian Portuguese). He looks at the camera and says in a muffled, determined voice: \"Mantenha a calma e siga a minha voz. Nós vamos tirar todo mundo daqui em segurança!\" Sounds: The roar of the fire, the crackling of burning wood, and the heavy breathing of the firefighter through the mask.",
+        "id": "bombeiro-em-prédio-em-chamas"
+      },
+      {
+        "titulo": "Cinematográfico - Helicóptero",
+        "arquivo": "Cinematográfico - Helicóptero.md",
+        "conteudo": "A confident man in his mid-30s, with slicked-back hair and a short beard, wearing a sharp navy blue suit, white shirt, and no tie. He stands on a private helipad at sunset, with a sleek black helicopter in the background. The golden hour light creates a dramatic silhouette. He looks directly at the camera with a calm, powerful expression. (The following speech must be in Brazilian Portuguese). He says in a deep, authoritative voice: \"O sucesso não é um destino, é uma jornada. E eu escolhi viajar com estilo.\" Sounds: The rhythmic thumping of helicopter blades, the distant sound of city traffic, and a soft wind blowing.",
+        "id": "cinematográfico-helicóptero"
+      },
+      {
+        "titulo": "Cinematográfico - Homem Solitário",
+        "arquivo": "Cinematográfico - Homem Solitário.md",
+        "conteudo": "A solitary man with broad shoulders, wearing a thick gray parka with fur-lined hood, wool hat and gloves, sits at the back of a small wooden boat as it glides through a calm, icy lake surrounded by snow-covered mountains. The atmosphere is quiet and contemplative. He looks out at the vast landscape with a thoughtful expression. (The following speech must be in Brazilian Portuguese). He says in a quiet, reflective voice: \"Às vezes, o silêncio é a única resposta que precisamos. Aqui, no meio do nada, eu finalmente me encontrei.\" Sounds: The gentle lapping of water against the boat, the distant call of a loon, and the soft crunch of ice.",
+        "id": "cinematográfico-homem-solitário"
+      },
+      {
+        "titulo": "Cinematográfico - Mulher na Praia",
+        "arquivo": "Cinematográfico - Mulher na Praia.md",
+        "conteudo": "Beautiful young woman with long wavy hair, sun-kissed skin, and soft facial features walks barefoot along a golden beach at sunset. She wears a flowy white dress that catches the warm breeze. The ocean waves gently lap at her feet. She looks toward the horizon with a peaceful, dreamy expression. (The following speech must be in Brazilian Portuguese). She says in a soft, melodic voice: \"O mar tem uma maneira de curar a alma. Cada onda traz uma nova esperança, e cada pôr do sol é uma promessa de um novo começo.\" Sounds: The rhythmic sound of ocean waves, the distant cry of seagulls, and the soft rustle of her dress.",
+        "id": "cinematográfico-mulher-na-praia"
+      },
+      {
+        "titulo": "Cinematográfico - Zumbi Slow Motion",
+        "arquivo": "Cinematográfico - Zumbi Slow Motion.md",
+        "conteudo": "Terrifying zombie with decayed grayish skin, exposed teeth, white lifeless eyes, and blood-stained clothes walks slowly through a dark, foggy forest at night. The atmosphere is eerie and suspenseful. The zombie's movements are jerky and unnatural. (The following speech must be in Brazilian Portuguese). It says in a raspy, guttural voice: \"A fome... nunca... para. Eu posso sentir... o seu... medo.\" Sounds: The snapping of twigs, the rustling of dry leaves, and the heavy, ragged breathing of the zombie.",
+        "id": "cinematográfico-zumbi-slow-motion"
+      },
+      {
+        "titulo": "Zumbi comendo frutas na cozinha",
+        "arquivo": "Zumbi comendo frutas na cozinha.md",
+        "conteudo": "A grotesque zombie with decayed green skin, exposed ribs, and a wounded skull sits at a rustic wooden table in a cozy, sunlit kitchen. He's eating a bowl of fresh, colorful fruits. (The following speech must be in Brazilian Portuguese). The zombie says in a raspy, surprisingly polite voice: \"As pessoas acham que a gente só quer cérebro, mas uma frutinha fresca também faz bem para a saúde!\" Sounds: The sound of birds chirping, the rustle of the fruit bowl, and his raspy, polite voice.",
+        "id": "zumbi-comendo-frutas-na-cozinha"
+      },
+      {
+        "titulo": "Zumbi na Praia",
+        "arquivo": "Zumbi na Praia.md",
+        "conteudo": "A grotesque zombie with decayed green skin and tattered clothes stands on a beautiful, sunny beach in Brazil. He's wearing oversized sunglasses and holding a coconut with a straw. (The following speech must be in Brazilian Portuguese). The zombie says in a raspy, relaxed voice: \"Até um zumbi precisa de férias! O sol de Copacabana é ótimo para a pele... o que sobrou dela!\" Sounds: The sound of waves crashing, the distant chatter of beachgoers, and his raspy, relaxed voice.",
+        "id": "zumbi-na-praia"
+      }
+    ]
+  },
+  "comercial": {
+    "nome": "Comercial",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Comercial - Apple Watch",
+        "arquivo": "Comercial - Apple Watch.md",
+        "conteudo": "Immersive photorealistic Apple-style smartwatch animation. Ultra-minimalist cinematic high-tech aesthetic with smooth camera movements. The watch face glows with vibrant colors, showing health metrics and notifications. (The following speech must be in Brazilian Portuguese). A sleek, professional voiceover says: \"Mais do que um relógio. Um parceiro para a sua saúde, um assistente para o seu dia, e um ícone de estilo no seu pulso. Apple Watch: o futuro é agora.\" Sounds: Soft, futuristic electronic pings, the subtle whir of a high-tech device, and a clean, modern musical track.",
+        "id": "comercial-apple-watch"
+      },
+      {
+        "titulo": "Comercial - Cacau Show",
+        "arquivo": "Comercial - Cacau Show.md",
+        "conteudo": "Cinematic 7-second Cacau Show commercial. Rich chocolate brown background with warm, soft lighting. A variety of gourmet truffles and chocolate bars are elegantly displayed. (The following speech must be in Brazilian Portuguese). A warm, inviting voiceover says: \"Cacau Show: carinho em cada pedacinho. Descubra a magia do verdadeiro chocolate e transforme momentos simples em memórias inesquecíveis.\" Sounds: The satisfying snap of a chocolate bar, the soft rustle of candy wrappers, and a gentle, uplifting musical track.",
+        "id": "comercial-cacau-show"
+      },
+      {
+        "titulo": "Comercial - Coca-Cola",
+        "arquivo": "Comercial - Coca-Cola.md",
+        "conteudo": "Cinematic ultra close-up of a cold Coca-Cola can. The tab clicks open in slow motion. Streams of refreshing liquid light up as they pour into a glass filled with ice. (The following speech must be in Brazilian Portuguese). A refreshing, energetic voiceover says: \"Sinta o sabor, sinta a refrescância. Coca-Cola: abra a felicidade e transforme qualquer momento em uma celebração.\" Sounds: The iconic \"pssh\" of a can opening, the clinking of ice cubes, and a lively, upbeat musical track.",
+        "id": "comercial-coca-cola"
+      },
+      {
+        "titulo": "Comercial - Coca-Cola Festival",
+        "arquivo": "Comercial - Coca-Cola Festival.md",
+        "conteudo": "Energetic music festival triggered by energy drink can. Minimalist urban plaza morphs into glowing high-energy digital environment. (The following speech must be in Brazilian Portuguese). A high-energy, youthful voiceover says: \"A energia que você precisa para viver intensamente. Coca-Cola Festival: sinta a batida, viva a música, e deixe a sua marca no mundo.\" Sounds: Pumping electronic dance music, the roar of a crowd, and the crisp sound of a can opening.",
+        "id": "comercial-coca-cola-festival"
+      },
+      {
+        "titulo": "Comercial - Energia Futurista",
+        "arquivo": "Comercial - Energia Futurista.md",
+        "conteudo": "Cinematic 7-second energy drink commercial. High-tech, futuristic aesthetic with glowing neon lights and fast-paced editing. (The following speech must be in Brazilian Portuguese). A dynamic, powerful voiceover says: \"Energia pura para mentes brilhantes. Desperte o seu potencial e conquiste o impossível. Energia Futurista: o combustível da nova geração.\" Sounds: Fast-paced electronic beats, the hum of high-tech machinery, and a powerful, driving musical track.",
+        "id": "comercial-energia-futurista"
+      },
+      {
+        "titulo": "Comercial - Ferrari",
+        "arquivo": "Comercial - Ferrari.md",
+        "conteudo": "Cinematic shot of a minimalist Ferrari-branded crate magically opening to reveal a fully formed Ferrari vehicle and an elegant man in a suit standing next to it. (The following speech must be in Brazilian Portuguese). A sophisticated, authoritative voiceover says: \"Ferrari: a excelência em cada detalhe. Onde a paixão encontra a performance, e o luxo se torna uma experiência inesquecível.\" Sounds: The powerful roar of a Ferrari engine, the smooth sound of a car door closing, and a refined, classical musical track.",
+        "id": "comercial-ferrari"
+      },
+      {
+        "titulo": "Comercial - Ferrari Assembly",
+        "arquivo": "Comercial - Ferrari Assembly.md",
+        "conteudo": "Cinematic shot of a minimalist Ferrari-branded crate magically opening to reveal a fully formed Ferrari vehicle and an elegant man in a suit standing next to it. (The following speech must be in Brazilian Portuguese). A sophisticated, authoritative voiceover says: \"A arte da engenharia, a paixão pela velocidade. Ferrari: construída para quem não aceita nada menos que a perfeição.\" Sounds: The rhythmic sound of high-tech assembly tools, the clinking of metal parts, and a powerful, driving musical track.",
+        "id": "comercial-ferrari-assembly"
+      },
+      {
+        "titulo": "Comercial - Ferrari Logo",
+        "arquivo": "Comercial - Ferrari Logo.md",
+        "conteudo": "Cinematic 7-second Ferrari logo transformation. Dark smoky racetrack with red and yellow backlighting. Ferrari logo appears in a burst of speed. (The following speech must be in Brazilian Portuguese). A powerful, energetic voiceover says: \"Ferrari: o símbolo da velocidade, o ícone da paixão. Sinta a emoção de dirigir uma lenda.\" Sounds: The high-pitched scream of a Formula 1 engine, the screech of tires on asphalt, and a dramatic, cinematic musical track.",
+        "id": "comercial-ferrari-logo"
+      },
+      {
+        "titulo": "Comercial - Instagram Logo",
+        "arquivo": "Comercial - Instagram Logo.md",
+        "conteudo": "Cinematic 7-second Instagram logo transformation. Soft iridescent gradient background fading from pink to orange like sunset. (The following speech must be in Brazilian Portuguese). A friendly, modern voiceover says: \"Conecte-se com o que você ama. Compartilhe seus momentos, inspire o mundo, e faça parte da nossa comunidade. Instagram: a sua história começa aqui.\" Sounds: Soft, melodic electronic pings, the sound of a camera shutter, and a light, airy musical track.",
+        "id": "comercial-instagram-logo"
+      },
+      {
+        "titulo": "Comercial - Lamborghini Vault",
+        "arquivo": "Comercial - Lamborghini Vault.md",
+        "conteudo": "Epic reveal of high-tech Lamborghini in sci-fi vault. Dark metallic futuristic hangar with pulsating neon blue lights on walls and floor. (The following speech must be in Brazilian Portuguese). A deep, powerful voiceover says: \"Lamborghini: a força da natureza, a precisão da tecnologia. Onde o impossível se torna realidade, e a velocidade é a única regra.\" Sounds: The deep, guttural growl of a Lamborghini engine, the hiss of hydraulic doors, and a dark, intense musical track.",
+        "id": "comercial-lamborghini-vault"
+      },
+      {
+        "titulo": "Comercial - LEGO Batman",
+        "arquivo": "Comercial - LEGO Batman.md",
+        "conteudo": "In the center of a dark, dramatic stage, a huge black LEGO block appears isolated. Suddenly, small cracks illuminated in yellow light appear on the block. (The following speech must be in Brazilian Portuguese). A gravelly, heroic voiceover (like Batman) says: \"Eu sou o Batman... em versão LEGO. Construa a sua própria aventura e salve a cidade, um bloco de cada vez.\" Sounds: The clicking of LEGO bricks, the dramatic swoosh of a cape, and a heroic, orchestral musical track.",
+        "id": "comercial-lego-batman"
+      },
+      {
+        "titulo": "Comercial - Malbec Noir",
+        "arquivo": "Comercial - Malbec Noir.md",
+        "conteudo": "Cinematic ultra-close-up of Malbec Noir perfume bottle. The fragrance spritzes in slow motion. Deep black and violet silk fabrics swirl around the bottle in a dark, elegant environment. (The following speech must be in Brazilian Portuguese). A sophisticated, masculine voiceover says: \"Malbec Noir: a fragrância do mistério, a essência da sofisticação. Para o homem que deixa sua marca por onde passa.\" Sounds: The soft \"pssh\" of a perfume spray, the rustle of silk, and a deep, sensual musical track.",
+        "id": "comercial-malbec-noir"
+      },
+      {
+        "titulo": "Comercial - Malbec Noir Dior",
+        "arquivo": "Comercial - Malbec Noir Dior.md",
+        "conteudo": "Cinematic ultra-close-up of a Malbec Noir perfume bottle resting powerfully on a polished obsidian pedestal in a vast, misty dark void. The bottle's deep violet glass catches glints of cold moonlight. Suddenly, a single drop of liquid falls in slow motion, hitting the obsidian surface and erupting into a swirling cloud of dark purple silk and silver smoke. The silk ribbons wrap around the bottle, pulsing with light. (The following speech must be in Brazilian Portuguese). A deep, gravelly, and sophisticated voiceover says: \"Malbec Noir: a essência do poder, o perfume do mistério. Conquiste a noite.\" Sounds: A deep, resonant bass thrum, the ethereal rustle of silk, and a clean, high-end musical track.",
+        "id": "comercial-malbec-noir-dior"
+      },
+      {
+        "titulo": "Comercial - Monster Energy",
+        "arquivo": "Comercial - Monster Energy.md",
+        "conteudo": "A Monster Energy can forming from liquid particles, landing with a slam as waves of neon green energy ripple out. No text. Style: high-energy, cinematic, futuristic. Camera: fast-paced cuts, zooming in on the can formation and the energy ripple. Lighting: dark environment with vibrant neon green highlights.",
+        "id": "comercial-monster-energy"
+      },
+      {
+        "titulo": "Comercial - Monster Energy (Versão 2)",
+        "arquivo": "Comercial - Monster Energy (Versão 2).md",
+        "conteudo": "A hyper-cinematic ad showing a glowing Monster Energy can forming from liquid particles in the air, landing with a slam on a dark metallic surface. Waves of neon green energy ripple out from the impact, illuminating a dark, industrial environment. (The following speech must be in Brazilian Portuguese). A high-energy, gritty voiceover says: \"Monster Energy: liberte a fera. A energia que você precisa para dominar o seu mundo.\" Sounds: The sound of liquid rushing, a heavy metallic slam, and a high-octane rock musical track.",
+        "id": "comercial-monster-energy-versão-2"
+      },
+      {
+        "titulo": "Comercial - Nissan Liquid Metal",
+        "arquivo": "Comercial - Nissan Liquid Metal.md",
+        "conteudo": "Cinematic 7-second Nissan transformation. Dark slick surface reflecting neon red and blue futuristic cityscape. Metallic mercury-like liquid rises from the surface, morphing into a sleek Nissan car. (The following speech must be in Brazilian Portuguese). A modern, confident voiceover says: \"Nissan: inovação que emociona. O futuro da mobilidade está aqui, e ele é surpreendente.\" Sounds: The sound of liquid metal morphing, the hum of an electric engine, and a clean, futuristic musical track.",
+        "id": "comercial-nissan-liquid-metal"
+      },
+      {
+        "titulo": "Comercial - Quarto Montado",
+        "arquivo": "Comercial - Quarto Montado.md",
+        "conteudo": "Cinematic 7-second room transformation. Empty room with white walls and natural light from large window. Huge brown cardboard box in the center. The box magically unfolds, and furniture (bed, desk, chair, lamp) assembles itself in slow motion. (The following speech must be in Brazilian Portuguese). A friendly, upbeat voiceover says: \"Transforme o seu espaço com facilidade. Quarto Montado: a solução completa para o seu conforto e estilo.\" Sounds: The sound of cardboard unfolding, the clicking of furniture parts, and a light, cheerful musical track.",
+        "id": "comercial-quarto-montado"
+      },
+      {
+        "titulo": "Comercial - Quarto Montado (Versão 2)",
+        "arquivo": "Comercial - Quarto Montado (Versão 2).md",
+        "conteudo": "Cinematic 7-second room transformation. Empty room with white walls and natural light from large window. Huge brown cardboard box in the center. The box magically unfolds, and furniture (bed, desk, chair, lamp) assembles itself in slow motion. (The following speech must be in Brazilian Portuguese). A friendly, upbeat voiceover says: \"Seu novo quarto, em um piscar de olhos. Praticidade e design para a sua vida.\" Sounds: The sound of cardboard unfolding, the clicking of furniture parts, and a light, cheerful musical track.",
+        "id": "comercial-quarto-montado-versão-2"
+      },
+      {
+        "titulo": "Comercial - Rolex",
+        "arquivo": "Comercial - Rolex.md",
+        "conteudo": "Cinematic 7-second Rolex commercial. Deep black background with a single spotlight on a luxury Rolex watch. The watch hands move with precision. (The following speech must be in Brazilian Portuguese). A sophisticated, timeless voiceover says: \"Rolex: a busca pela excelência. Um símbolo de conquista, um legado de precisão. O tempo é o seu maior luxo.\" Sounds: The rhythmic ticking of a high-end watch, the soft sound of a luxury watch box opening, and a refined, classical musical track.",
+        "id": "comercial-rolex"
+      },
+      {
+        "titulo": "Comercial - Rolex (Versão 2)",
+        "arquivo": "Comercial - Rolex (Versão 2).md",
+        "conteudo": "Cinematic 7-second Rolex commercial. Deep black background with a single spotlight on a luxury Rolex watch. The watch hands move with precision. (The following speech must be in Brazilian Portuguese). A sophisticated, timeless voiceover says: \"Rolex: para quem faz história. A perfeição em cada segundo, a elegância em cada detalhe.\" Sounds: The rhythmic ticking of a high-end watch, the soft sound of a luxury watch box opening, and a refined, classical musical track.",
+        "id": "comercial-rolex-versão-2"
+      },
+      {
+        "titulo": "Comercial - Starbucks",
+        "arquivo": "Comercial - Starbucks.md",
+        "conteudo": "Cinematic 7-second Starbucks commercial. Sun-drenched coffee bar. Coffee elements (beans, water, milk) assemble dynamically to form a perfect Starbucks latte. (The following speech must be in Brazilian Portuguese). A warm, inviting voiceover says: \"Starbucks: o seu momento, o seu café. Sinta o aroma, saboreie a perfeição e comece o seu dia com inspiração.\" Sounds: The sound of coffee beans grinding, the hiss of a milk steamer, and a gentle, acoustic musical track.",
+        "id": "comercial-starbucks"
+      },
+      {
+        "titulo": "Comercial - Starbucks Ritual",
+        "arquivo": "Comercial - Starbucks Ritual.md",
+        "conteudo": "A cinematic, vibrant shot of a serene, sun-drenched coffee bar. At the center, a sleek Starbucks cup (green logo glowing subtly) rests on a rustic wooden table. Suddenly, coffee beans, streams of hot water, and swirls of creamy milk begin to levitate and assemble dynamically in mid-air around the cup. They merge in a slow-motion spiral, pouring perfectly into the cup. (The following speech must be in Brazilian Portuguese). A warm, inviting voiceover says: \"Starbucks: mais que um café, um ritual. Desperte os seus sentidos e transforme o seu dia.\" Sounds: The rhythmic grinding of beans, the gentle hiss of steam, and a soft, uplifting acoustic track.",
+        "id": "comercial-starbucks-ritual"
+      },
+      {
+        "titulo": "Comercial - T-Rex Robô",
+        "arquivo": "Comercial - T-Rex Robô.md",
+        "conteudo": "Smooth metallic silver egg resting center of vast gritty industrial hangar. Glowing seams etch across surface, egg fractures into floating geometric shards. Shards accelerate and orbit a central core, snapping together to form a massive robotic T-Rex. (The following speech must be in Brazilian Portuguese). A deep, mechanical voiceover says: \"A evolução da força. T-Rex Robô: a tecnologia que domina o futuro.\" Sounds: The sound of metal clanking, the hum of high-tech machinery, and a powerful, mechanical roar.",
+        "id": "comercial-t-rex-robô"
+      },
+      {
+        "titulo": "Comercial - Tesla Cybertruck",
+        "arquivo": "Comercial - Tesla Cybertruck.md",
+        "conteudo": "Cinematic 7-second Tesla transformation. Dark industrial hangar with intense blue neon backlights and smoke. Floating geometric shards assemble to form a Tesla Cybertruck. (The following speech must be in Brazilian Portuguese). A modern, futuristic voiceover says: \"Tesla Cybertruck: o futuro é inquebrável. Design revolucionário, performance sem limites.\" Sounds: The sound of metal shards snapping together, the hum of an electric engine, and a clean, futuristic musical track.",
+        "id": "comercial-tesla-cybertruck"
+      },
+      {
+        "titulo": "Comercial - Coca-Cola (Versão 3)",
+        "arquivo": "Comercial - Coca-Cola (Versão 3).md",
+        "conteudo": "Cinematic ultra-close-up of a cold, frosty Coca-Cola can resting on a sleek futuristic pedestal in a minimal, high-tech urban plaza. The Coca-Cola logo subtly glows with vibrant red energy. Suddenly — the tab clicks open in slow motion. (The following speech must be in Brazilian Portuguese). A refreshing, energetic voiceover says: \"Coca-Cola: abra a felicidade e sinta a magia de cada momento.\" Sounds: The iconic \"pssh\" of a can opening, the sound of liquid pouring, and a lively, upbeat musical track.",
+        "id": "comercial-coca-cola-versão-3"
+      },
+      {
+        "titulo": "Comercial - Dior Malbec Noir",
+        "arquivo": "Comercial - Dior Malbec Noir.md",
+        "conteudo": "Cinematic ultra-close-up of a Malbec Noir perfume bottle resting powerfully on a polished obsidian pedestal in a vast, misty dark void. The bottle's deep violet glass catches glints of cold moonlight. (The following speech must be in Brazilian Portuguese). A sophisticated, masculine voiceover says: \"Dior Malbec Noir: a essência da elegância, o perfume do homem moderno.\" Sounds: A deep, resonant bass thrum, the ethereal rustle of silk, and a clean, high-end musical track.",
+        "id": "comercial-dior-malbec-noir"
+      },
+      {
+        "titulo": "Comercial Monster Energy",
+        "arquivo": "Comercial Monster Energy.md",
+        "conteudo": "A hyper-cinematic ad showing a glowing Monster Energy can forming from liquid particles in the air, landing with a slam on a rocky ledge as waves of neon green energy ripple and illuminate the entire scene. (The following speech must be in Brazilian Portuguese). A high-energy, gritty voiceover says: \"Monster Energy: liberte a fera. A energia que você precisa para dominar o seu mundo.\" Sounds: The sound of liquid rushing, a heavy metallic slam, and a high-octane rock musical track.",
+        "id": "comercial-monster-energy"
+      },
+      {
+        "titulo": "Comercial Starbucks",
+        "arquivo": "Comercial Starbucks.md",
+        "conteudo": "A cinematic, vibrant shot of a serene, sun-drenched coffee bar. At the center, a sleek Starbucks cup (green logo glowing subtly) rests on a rustic wooden table. (The following speech must be in Brazilian Portuguese). A warm, inviting voiceover says: \"Starbucks: o seu momento, o seu café. Sinta o aroma, saboreie a perfeição e comece o seu dia com inspiração.\" Sounds: The sound of coffee beans grinding, the hiss of a milk steamer, and a gentle, acoustic musical track.",
+        "id": "comercial-starbucks"
+      }
+    ]
+  },
+  "natal": {
+    "nome": "Natal",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Mamãe Noel Academia",
+        "arquivo": "Mamãe Noel Academia.md",
+        "conteudo": "Ultra-realistic cinematic video inside a modern gym. Mulher vestida de Mamãe Noel treinando, halteres e espelhos ao fundo. (The following speech must be in Brazilian Portuguese). She says in an energetic, inspiring voice: \"Quem disse que a Mamãe Noel não treina? O foco continua, mesmo no Natal! Vamos com tudo!\" Sounds: The sound of weights clanking, a high-energy musical track, and her clear, enthusiastic voice.",
+        "id": "mamãe-noel-academia"
+      },
+      {
+        "titulo": "Papai Noel DJ",
+        "arquivo": "Papai Noel DJ.md",
+        "conteudo": "Ultra-realistic cinematic video inside a futuristic Christmas nightclub. Neon lights in red, green and gold. Light fog and soft snow falling inside. Papai Noel moderno com óculos escuros e fones de ouvido dourados, operando uma mesa de DJ tecnológica com hologramas de flocos de neve. (The following speech must be in Brazilian Portuguese). He says in an energetic, rhythmic voice: \"Ho-ho-ho! A batida do Natal chegou! Vamos celebrar com muita energia e luz!\" Sounds: A high-energy electronic Christmas remix, the cheers of a crowd, and Santa's deep, rhythmic voice.",
+        "id": "papai-noel-dj"
+      },
+      {
+        "titulo": "Papai Noel Espiritual",
+        "arquivo": "Papai Noel Espiritual.md",
+        "conteudo": "Ultra-realistic cinematic video in an ethereal, cosmic environment. Luzes suaves, partículas flutuando, atmosfera de paz. Papai Noel com barba longa e branca, vestes vermelhas de veludo com bordados dourados, olhando para as estrelas. (The following speech must be in Brazilian Portuguese). He says in a calm, resonant voice: \"Que a luz do Natal ilumine os corações e traga paz para todo o universo. O amor é o maior presente.\" Sounds: A soft, ethereal musical track, the sound of wind chimes, and Santa's deep, peaceful voice.",
+        "id": "papai-noel-espiritual"
+      },
+      {
+        "titulo": "Papai Noel Futurista",
+        "arquivo": "Papai Noel Futurista.md",
+        "conteudo": "Ultra-realistic cinematic video em uma cidade futurista com luzes neon natalinas. Papai Noel moderno com jaqueta tecnológica vermelha e luzes LED, segurando um tablet transparente com a lista de presentes. (The following speech must be in Brazilian Portuguese). He says in a modern, confident voice: \"O Natal evoluiu! Agora, a entrega é via drone e a alegria é instantânea. Feliz Natal tecnológico!\" Sounds: The hum of flying drones, a clean futuristic musical track, and Santa's clear, modern voice.",
+        "id": "papai-noel-futurista"
+      },
+      {
+        "titulo": "Papai Noel Gamer",
+        "arquivo": "Papai Noel Gamer.md",
+        "conteudo": "Ultra-realistic cinematic video in a gamer room with RGB lights. Papai Noel com headset e controle na mão. Perfect Brazilian Portuguese lip-sync. Fala: 🎮 \"Ho-ho-ho! O Papai Noel também é gamer! Quem aí quer ganhar um PC novo de Natal?\"",
+        "id": "papai-noel-gamer"
+      },
+      {
+        "titulo": "Papai Noel no Carro",
+        "arquivo": "Papai Noel no Carro.md",
+        "conteudo": "Ultra-realistic cinematic video inside a car at night, luzes de Natal refletindo no vidro. Papai Noel no volante sorrindo. Perfect Brazilian Portuguese lip-sync. Fala: 🚗 \"Ho-ho-ho! A entrega de presentes hoje é motorizada! Feliz Natal para todos os motoristas!\"",
+        "id": "papai-noel-no-carro"
+      },
+      {
+        "titulo": "Papai Noel Podcast",
+        "arquivo": "Papai Noel Podcast.md",
+        "conteudo": "Ultra-realistic cinematic video inside a modern podcast studio. Microphones, headphones, LED lights. Papai Noel sendo entrevistado. Perfect Brazilian Portuguese lip-sync. Fala: 🎙️ \"Ho-ho-ho! Hoje o papo é sobre a magia do Natal e como espalhar alegria pelo mundo.\"",
+        "id": "papai-noel-podcast"
+      },
+      {
+        "titulo": "Papai Noel Rua Iluminada",
+        "arquivo": "Papai Noel Rua Iluminada.md",
+        "conteudo": "Ultra-realistic cinematic video em uma rua iluminada com decorações de Natal. Papai Noel andando e falando. Perfect Brazilian Portuguese lip-sync. Fala: ✨ \"Ho-ho-ho! Olha que coisa mais linda essa cidade iluminada! O espírito do Natal está em todo lugar.\"",
+        "id": "papai-noel-rua-iluminada"
+      },
+      {
+        "titulo": "Papai Noel Trenó Voando",
+        "arquivo": "Papai Noel Trenó Voando.md",
+        "conteudo": "Ultra-realistic cinematic video of Santa Claus riding his classic Christmas sleigh, flying smoothly over a quiet city at night. The sleigh is pulled by magical reindeer, and soft snow falls around them. (The following speech must be in Brazilian Portuguese). Santa looks at the camera and says in a joyful, resonant voice: \"Ho-ho-ho! Preparem os corações, que os presentes já estão chegando! Feliz Natal para todos!\" Sounds: The sound of wind, the jingling of bells, and Santa's deep, happy voice.",
+        "id": "papai-noel-trenó-voando"
+      },
+      {
+        "titulo": "Vovô Natal",
+        "arquivo": "Vovô Natal.md",
+        "conteudo": "Ultra-realistic cinematic video in a cozy living room. Vovô sentado em uma poltrona, árvore de Natal ao fundo. Perfect Brazilian Portuguese lip-sync. Fala: 🎄 \"Feliz Natal! Que a paz e o amor transbordem na sua casa hoje e sempre.\"",
+        "id": "vovô-natal"
+      }
+    ]
+  },
+  "vlog": {
+    "nome": "Vlog",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Muralhas de Jericó - Vlog Épico",
+        "arquivo": "Muralhas de Jericó - Vlog Épico.md",
+        "conteudo": "Scene 1 – Before the Walls of Jericho Character Description: A young Hebrew named Joshua, with medium-length dark hair, a rugged beard, and intense brown eyes. He wears a simple linen tunic and leather sandals. He holds a primitive wooden staff. Environment: A vast, dusty desert plain under a scorching sun. In the background, the massive, imposing stone walls of Jericho loom, with soldiers visible on the ramparts. Camera Framing: Wide shot showing Joshua in the foreground and the city in the distance; camera pans slowly to capture the scale of the walls. Action: Joshua looks at the camera with a determined expression, then points toward the city. Dialogue (in Portuguese): Josué (voz firme e inspiradora): \"Gente, vocês não têm noção do tamanho dessas muralhas! Mas fiquem tranquilos, que hoje o som das trombetas vai derrubar tudo!\" Technical Instructions: No subtitles, Realistic facial animation, Voice synchronization, Natural outdoor lighting, Epic cinematic tone, Duration 8 seconds.",
+        "id": "muralhas-de-jericó-vlog-épico"
+      },
+      {
+        "titulo": "Tempestade no Mar - Vlog Bíblico",
+        "arquivo": "Tempestade no Mar - Vlog Bíblico.md",
+        "conteudo": "Scene 1 – Storm at Sea Character Description: A young man named João, with a short beard and simple fisherman's clothes, looks at the camera with a worried expression. Environment: A small wooden boat tossing violently on a dark, stormy sea. Massive waves crash against the boat, and lightning flashes in the sky. (The following speech must be in Brazilian Portuguese). João shouts over the sound of the storm: \"Gente, a situação aqui tá feia! As ondas estão gigantes e o vento não para. Mas eu sei que Ele está no barco com a gente!\" Sounds: The sound of crashing waves, thunder, the howling wind, and João's urgent voice.",
+        "id": "tempestade-no-mar-vlog-bíblico"
+      },
+      {
+        "titulo": "Vlog - Banho de Lava",
+        "arquivo": "Vlog - Banho de Lava.md",
+        "conteudo": "25-year-old Brazilian man with short dark hair and athletic build, wearing only blue swim shorts. He has a big playful smile and holds a selfie stick, recording himself in a vlog style. He's standing on a rocky ledge with a massive, glowing volcano erupting in the background. Molten lava flows down the slopes, and smoke fills the air. (The following speech must be in Brazilian Portuguese). He says in an energetic, adventurous voice: \"E aí, galera! Hoje o desafio é extremo: vou tentar tomar um banho nessa lava aqui. Será que eu sobrevivo?\" Sounds: The deep rumbling of the volcano, the crackling of fire, and his clear, enthusiastic voice.",
+        "id": "vlog-banho-de-lava"
+      },
+      {
+        "titulo": "Vlog - Espartano Fitness",
+        "arquivo": "Vlog - Espartano Fitness.md",
+        "conteudo": "A hyper-realistic selfie video of a shredded, muscular man wearing a bronze Spartan helmet and a flowing red cape, holding a selfie stick. He's standing in a modern, high-end gym with professional equipment and bright lighting. (The following speech must be in Brazilian Portuguese). He says in a deep, booming voice: \"Isso não é apenas um treino, isso é Esparta! Hoje vamos esmagar os limites e conquistar a glória!\" Sounds: The sound of weights clanking, a powerful orchestral musical track, and his clear, authoritative voice.",
+        "id": "vlog-espartano-fitness"
+      },
+      {
+        "titulo": "Vlog - Gorila na Área 51",
+        "arquivo": "Vlog - Gorila na Área 51.md",
+        "conteudo": "A hyper-realistic selfie video of a giant, muscular gorilla with black fur and intense brown eyes, holding a selfie stick and recording himself. He's standing in front of a high-security military base with \"Area 51\" signs and barbed wire fences. (The following speech must be in Brazilian Portuguese). The gorilla says in a deep, resonant voice: \"E aí, pessoal! Hoje eu vim descobrir o que eles estão escondendo aqui. Será que tem bananas alienígenas?\" Sounds: The sound of wind, the distant hum of a helicopter, and the gorilla's powerful, calm voice.",
+        "id": "vlog-gorila-na-área-51"
+      },
+      {
+        "titulo": "Vlog - Jesus e Maria",
+        "arquivo": "Vlog - Jesus e Maria.md",
+        "conteudo": "A selfie video of a man who looks like Jesus, with his mother Mary at the wedding in Cana. The style is YouTube vlog, with Jesus holding the camera. (The following speech must be in Brazilian Portuguese). Jesus says in a calm, joyful voice: \"E aí, pessoal! Estamos aqui no casamento em Caná e a festa está ótima. Mas parece que o vinho acabou... fiquem ligados que vai ter surpresa!\" Sounds: The sound of a festive crowd, music, and Jesus's clear, peaceful voice.",
+        "id": "vlog-jesus-e-maria"
+      },
+      {
+        "titulo": "Vlog - Lua Fake",
+        "arquivo": "Vlog - Lua Fake.md",
+        "conteudo": "A handheld selfie-style video of a man with wild eyes and a crumpled tinfoil hat, standing on a film set designed to look like the moon's surface. (The following speech must be in Brazilian Portuguese). He whispers in a paranoid, urgent voice: \"Eu sabia! É tudo um cenário! Eles estão mentindo para a gente! Olha só as luzes ali atrás!\" Sounds: The sound of his heavy breathing, the rustle of his tinfoil hat, and his urgent, whispering voice.",
+        "id": "vlog-lua-fake"
+      },
+      {
+        "titulo": "Vlog - Macaco e Leão",
+        "arquivo": "Vlog - Macaco e Leão.md",
+        "conteudo": "A selfie video of a small monkey with dreadlocks and a Jamaican-colored beanie in a lush jungle. Behind him, a large lion is sleeping peacefully. (The following speech must be in Brazilian Portuguese). The monkey whispers in a relaxed, rhythmic voice: \"E aí, galera! Hoje o desafio é não acordar o rei da selva. Se eu conseguir, o próximo vídeo é sobre as melhores bananas da região!\" Sounds: The sound of jungle birds, the lion's deep snoring, and the monkey's rhythmic whisper.",
+        "id": "vlog-macaco-e-leão"
+      },
+      {
+        "titulo": "Vlog - Metrô de Tóquio",
+        "arquivo": "Vlog - Metrô de Tóquio.md",
+        "conteudo": "A selfie video of a man in his late 20s crammed into a violently swaying Tokyo subway car during rush hour. He holds the camera close to his face, looking overwhelmed. (The following speech must be in Brazilian Portuguese). He says in a strained, breathless voice: \"Gente, eu nunca vi tanta gente num lugar só! Eu nem estou segurando em nada e não caio. É a experiência mais louca da minha vida!\" Sounds: The screeching of the subway train, the chatter of the crowd, and his strained voice.",
+        "id": "vlog-metrô-de-tóquio"
+      },
+      {
+        "titulo": "Vlog - Moisés no Mar",
+        "arquivo": "Vlog - Moisés no Mar.md",
+        "conteudo": "A selfie video of an old man with a long white beard, who looks like Moses, caught in a massive crowd on a wet seabed. He holds a selfie stick high. (The following speech must be in Brazilian Portuguese). Moses shouts in a powerful, ecstatic voice: \"Pessoal, vocês não vão acreditar! O mar abriu mesmo! Corre que o Egito tá vindo aí atrás!\" Sounds: The sound of rushing water, the shouts of a large crowd, and Moses's powerful voice.",
+        "id": "vlog-moisés-no-mar"
+      },
+      {
+        "titulo": "Vlog - Pastel na Feira",
+        "arquivo": "Vlog - Pastel na Feira.md",
+        "conteudo": "A hyper-realistic selfie video of a cheerful young man with curly brown hair, light brown skin, and a short beard, holding a selfie stick. He's standing in a busy Brazilian street market (feira livre), with colorful stalls of fruits and vegetables in the background. (The following speech must be in Brazilian Portuguese). He says in an enthusiastic, hungry voice: \"Gente, o cheiro desse pastel de carne com queijo está divino! E claro, não pode faltar o caldo de cana geladinho!\" Sounds: The ambient noise of a busy market, the sound of frying, and his clear, happy voice.",
+        "id": "vlog-pastel-na-feira"
+      },
+      {
+        "titulo": "Vlog - Stormtrooper",
+        "arquivo": "Vlog - Stormtrooper.md",
+        "conteudo": "A selfie video of a Stormtrooper in an Imperial Transport, with his squadmate Jack visible beside him. He holds the camera, looking at it through his helmet. (The following speech must be in Brazilian Portuguese). The Stormtrooper says in a filtered, robotic voice: \"E aí, pessoal! Mais um dia de patrulha com o Jack. Espero que hoje a gente consiga acertar pelo menos um tiro!\" Sounds: The hum of the transport's engines, the clinking of armor, and his filtered voice.",
+        "id": "vlog-stormtrooper"
+      },
+      {
+        "titulo": "Vlog - Vulcão",
+        "arquivo": "Vlog - Vulcão.md",
+        "conteudo": "A hyper-realistic selfie video of a Brazilian man wearing a yellow Brazil soccer jersey, standing at the edge of an erupting volcano. Molten lava flows behind him, and smoke fills the air. (The following speech must be in Brazilian Portuguese). He says in an energetic, adventurous voice: \"E aí, galera! O clima aqui está esquentando, literalmente! É a maior emoção da minha vida!\" Sounds: The deep rumbling of the volcano, the crackling of fire, and his clear, enthusiastic voice.",
+        "id": "vlog-vulcão"
+      }
+    ]
+  },
+  "produtos": {
+    "nome": "Produtos",
+    "icone": "video",
+    "emoji": "🎬",
+    "prompts": [
+      {
+        "titulo": "Produtos - Atendente Farmácia",
+        "arquivo": "Produtos - Atendente Farmácia.md",
+        "conteudo": "28-year-old Brazilian woman with light skin, straight brown hair tied back in a ponytail. She has a warm, professional, and helpful appearance. She wears a white pharmacist's coat over a light blue shirt and a name tag. She's standing behind a pharmacy counter with shelves of medicines and health products in the background. (The following speech must be in Brazilian Portuguese). She looks at the camera and says in a gentle, reassuring voice: \"Cuidar da sua saúde é a nossa prioridade. Se precisar de orientação, estamos aqui para ajudar com todo o carinho.\" Sounds: The soft hum of the pharmacy, the distant sound of customers, and her clear, empathetic voice.",
+        "id": "produtos-atendente-farmácia"
+      },
+      {
+        "titulo": "Produtos - Caixa de Ferramentas",
+        "arquivo": "Produtos - Caixa de Ferramentas.md",
+        "conteudo": "A confident Brazilian woman in her early 30s, with light brown skin and sleek black hair, stands in a modern workshop. She holds a bright yellow open toolbox filled with high-quality tools. (The following speech must be in Brazilian Portuguese). She says in an energetic, persuasive voice: \"Com as ferramentas certas, qualquer projeto se torna realidade. Qualidade e durabilidade para o seu trabalho!\" Sounds: The sound of tools clanking, a light rock musical track, and her clear, enthusiastic voice.",
+        "id": "produtos-caixa-de-ferramentas"
+      },
+      {
+        "titulo": "Produtos - Estética e Beleza",
+        "arquivo": "Produtos - Estética e Beleza.md",
+        "conteudo": "A beautiful young woman with glowing skin and a radiant smile stands in a modern aesthetic clinic. She holds a luxury skincare product. (The following speech must be in Brazilian Portuguese). She says in a gentle, persuasive voice: \"Sua pele merece o melhor cuidado. Sinta a diferença com a nossa nova linha de produtos de beleza.\" Sounds: A soft, relaxing musical track, the sound of a cream being applied, and her clear, professional voice.",
+        "id": "produtos-estética-e-beleza"
+      },
+      {
+        "titulo": "Produtos - Loja de Eletrônicos",
+        "arquivo": "Produtos - Loja de Eletrônicos.md",
+        "conteudo": "A tech-savvy young man in his mid-20s stands in a modern electronics store, surrounded by neon lights and high-tech gadgets. He holds a sleek new smartphone. (The following speech must be in Brazilian Portuguese). He says in an energetic, confident voice: \"O futuro da tecnologia está nas suas mãos. Venha conhecer as novidades que vão mudar o seu dia a dia!\" Sounds: A modern electronic musical track, the beeping of gadgets, and his clear, enthusiastic voice.",
+        "id": "produtos-loja-de-eletrônicos"
       }
     ]
   }
