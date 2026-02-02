@@ -1,11 +1,20 @@
 import { useState } from "react";
 import { Link, useLocation } from "wouter";
-import { Menu, X, Sparkles } from "lucide-react";
+import { Menu, X, Search, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [location] = useLocation();
+  const [location, setLocation] = useLocation();
+  const [searchQuery, setSearchQuery] = useState("");
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      setLocation(`/busca?q=${encodeURIComponent(searchQuery)}`);
+    }
+  };
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
@@ -28,14 +37,20 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               <div className="bg-primary text-primary-foreground p-1.5 rounded-lg">
                 <Sparkles className="h-5 w-5" />
               </div>
-              <span className="hidden sm:inline-block">Criação com IA</span>
-              <span className="sm:hidden">IA</span>
+              <span className="hidden sm:inline-block">Sugestões de Prompts</span>
+              <span className="sm:hidden">Sugestões</span>
             </Link>
 
             {/* Desktop Nav */}
             <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
               <Link href="/" className={location === "/" ? "text-primary" : "text-muted-foreground hover:text-primary"}>
                 Início
+              </Link>
+              <Link href="/favoritos" className={location === "/favoritos" ? "text-primary" : "text-muted-foreground hover:text-primary"}>
+                Favoritos
+              </Link>
+              <Link href="/sugerir" className={location === "/sugerir" ? "text-primary" : "text-muted-foreground hover:text-primary"}>
+                Sugerir Prompt
               </Link>
               <Link href="/ferramentas" className={location === "/ferramentas" ? "text-primary" : "text-muted-foreground hover:text-primary"}>
                 Ferramentas
@@ -45,14 +60,46 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </a>
             </nav>
           </div>
+
+          {/* Search & Actions */}
+          <div className="flex items-center gap-2 md:gap-4">
+            <form onSubmit={handleSearch} className="hidden md:flex relative w-64">
+              <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
+              <Input
+                type="search"
+                placeholder="Buscar prompts..."
+                className="pl-9 bg-muted/50"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+              />
+            </form>
+            
+
+          </div>
         </div>
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
           <div className="md:hidden border-t p-4 space-y-4 bg-background">
+            <form onSubmit={handleSearch} className="relative">
+              <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
+              <Input
+                type="search"
+                placeholder="Buscar prompts..."
+                className="pl-9 bg-muted/50"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+              />
+            </form>
             <nav className="flex flex-col gap-2">
               <Link href="/" onClick={() => setIsMobileMenuOpen(false)} className="px-4 py-2 hover:bg-muted rounded-md">
                 Início
+              </Link>
+              <Link href="/favoritos" onClick={() => setIsMobileMenuOpen(false)} className="px-4 py-2 hover:bg-muted rounded-md">
+                Favoritos
+              </Link>
+              <Link href="/sugerir" onClick={() => setIsMobileMenuOpen(false)} className="px-4 py-2 hover:bg-muted rounded-md">
+                Sugerir Prompt
               </Link>
               <Link href="/ferramentas" onClick={() => setIsMobileMenuOpen(false)} className="px-4 py-2 hover:bg-muted rounded-md">
                 Ferramentas

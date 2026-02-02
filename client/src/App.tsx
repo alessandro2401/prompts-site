@@ -5,12 +5,22 @@ import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
+import Category from "./pages/Category";
+import PromptDetail from "./pages/PromptDetail";
+import Search from "./pages/Search";
+import Favorites from "./pages/Favorites";
+import SuggestPrompt from "./pages/SuggestPrompt";
 import Tools from "./pages/Tools";
 
 function Router() {
   return (
     <Switch>
       <Route path="/" component={Home} />
+      <Route path="/categoria/:id" component={Category} />
+      <Route path="/prompt/:id" component={PromptDetail} />
+      <Route path="/busca" component={Search} />
+      <Route path="/favoritos" component={Favorites} />
+      <Route path="/sugerir" component={SuggestPrompt} />
       <Route path="/ferramentas" component={Tools} />
       <Route path="/404" component={NotFound} />
       {/* Final fallback route */}

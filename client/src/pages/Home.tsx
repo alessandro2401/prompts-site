@@ -1,89 +1,212 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "wouter";
-import { Sparkles, ArrowRight, Wrench } from "lucide-react";
+import { 
+  Search, Sparkles, PenTool, TrendingUp, DollarSign, Clock, Star, ArrowRight,
+  HelpCircle, Smartphone, Mail, Image, Video, Music, Briefcase, Users, Target,
+  MessageCircle, Megaphone, Mic, BookOpen, FileText, Rocket, TrendingDown, Globe
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
 import Layout from "@/components/Layout";
+import PromptCard from "@/components/PromptCard";
+import promptsData from "@/data/prompts.json";
+
+// Tipos
+type Prompt = {
+  id: string;
+  titulo: string;
+  categoria: string;
+  arquivo: string;
+  conteudo?: string;
+  descricao?: string;
+};
+
+type CategoryData = {
+  nome: string;
+  icone: string;
+  emoji: string;
+  prompts: Prompt[];
+};
+
+type PromptsData = Record<string, CategoryData>;
+
+// Mapeamento de ícones para categorias
+const iconMap: Record<string, any> = {
+  "pen-tool": PenTool,
+  "trending-up": TrendingUp,
+  "dollar-sign": DollarSign,
+  "clock": Clock,
+  "sparkles": Sparkles,
+  "help-circle": HelpCircle,
+  "smartphone": Smartphone,
+  "mail": Mail,
+  "star": Star,
+  "image": Image,
+  "video": Video,
+  "folder": FileText,
+  "briefcase": Briefcase,
+  "users": Users,
+  "target": Target,
+  "message-circle": MessageCircle,
+  "megaphone": Megaphone,
+  "mic": Mic,
+  "book-open": BookOpen,
+  "rocket": Rocket,
+  "trending-down": TrendingDown,
+  "globe": Globe,
+};
+
+// Cores para as categorias
+const colors = [
+  { color: "text-blue-500", bg: "bg-blue-50 dark:bg-blue-950/30" },
+  { color: "text-purple-500", bg: "bg-purple-50 dark:bg-purple-950/30" },
+  { color: "text-green-500", bg: "bg-green-50 dark:bg-green-950/30" },
+  { color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-950/30" },
+  { color: "text-indigo-500", bg: "bg-indigo-50 dark:bg-indigo-950/30" },
+  { color: "text-yellow-500", bg: "bg-yellow-50 dark:bg-yellow-950/30" },
+  { color: "text-pink-500", bg: "bg-pink-50 dark:bg-pink-950/30" },
+  { color: "text-cyan-500", bg: "bg-cyan-50 dark:bg-cyan-950/30" },
+  { color: "text-red-500", bg: "bg-red-50 dark:bg-red-950/30" },
+  { color: "text-teal-500", bg: "bg-teal-50 dark:bg-teal-950/30" },
+  { color: "text-lime-500", bg: "bg-lime-50 dark:bg-lime-950/30" },
+  { color: "text-amber-500", bg: "bg-amber-50 dark:bg-amber-950/30" },
+];
 
 export default function Home() {
+  const [searchQuery, setSearchQuery] = useState("");
+  const [favorites, setFavorites] = useState<string[]>([]);
+  const [featuredPrompts, setFeaturedPrompts] = useState<Prompt[]>([]);
+  
+  const data = promptsData as unknown as PromptsData;
+
+  useEffect(() => {
+    const savedFavorites = JSON.parse(localStorage.getItem("favorites") || "[]");
+    setFavorites(savedFavorites);
+
+    // Selecionar alguns prompts para destaque (aleatório ou fixo)
+    const allPrompts: Prompt[] = [];
+    Object.values(data).forEach(cat => {
+      if (cat && Array.isArray(cat.prompts)) {
+        allPrompts.push(...cat.prompts);
+      }
+    });
+    
+    // Embaralhar e pegar 4
+    const shuffled = allPrompts.sort(() => 0.5 - Math.random());
+    setFeaturedPrompts(shuffled.slice(0, 4));
+  }, []);
+
+  // Gerar categorias dinamicamente a partir do prompts.json
+  const categories = Object.entries(data)
+    .map(([id, catData], index) => {
+      const iconName = catData.icone || "star";
+      const Icon = iconMap[iconName] || Star;
+      const colorScheme = colors[index % colors.length];
+      
+      return {
+        id,
+        name: catData.nome,
+        icon: Icon,
+        count: catData.prompts.length,
+        ...colorScheme
+      };
+    })
+    // Ordenar por quantidade de prompts (decrescente)
+    .sort((a, b) => b.count - a.count);
+
   return (
     <Layout>
       {/* Hero Section */}
       <section className="py-12 md:py-20 text-center space-y-6 max-w-3xl mx-auto">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
           <Sparkles className="h-4 w-4" />
-          <span>Crie Conteúdo Profissional com Inteligência Artificial</span>
+          <span>970 Prompts Profissionais Disponíveis</span>
         </div>
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent pb-2">
-          Criação de conteúdo com IA
+          Criação de conteúdo com I.A.
         </h1>
         <p className="text-xl text-muted-foreground">
-          Utilize as melhores ferramentas de inteligência artificial para criar conteúdo profissional, impulsionar seu Instagram, aumentar engajamento e gerar vendas.
+          Uma biblioteca completa de prompts testados e validados para impulsionar seu Instagram, aumentar engajamento e gerar vendas.
         </p>
         
-        <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6">
-          <Button size="lg" className="h-12 px-8 shadow-md" asChild>
-            <Link href="/ferramentas">
-              <Wrench className="mr-2 h-5 w-5" />
-              Ver Ferramentas de IA
-            </Link>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6 max-w-md mx-auto">
+          <div className="relative w-full">
+            <Search className="absolute left-3 top-3 h-5 w-5 text-muted-foreground" />
+            <Input 
+              placeholder="O que você quer criar hoje?" 
+              className="pl-10 h-12 text-lg shadow-sm"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' && searchQuery) {
+                  window.location.href = `/busca?q=${encodeURIComponent(searchQuery)}`;
+                }
+              }}
+            />
+          </div>
+          <Button size="lg" className="h-12 px-8 shadow-md" onClick={() => window.location.href = `/busca?q=${encodeURIComponent(searchQuery)}`}>
+            Buscar
           </Button>
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-12 border-t">
-        <div className="max-w-4xl mx-auto">
-          <div className="bg-gradient-to-r from-primary/10 to-purple-600/10 rounded-2xl p-8 md:p-12 text-center space-y-6">
-            <h2 className="text-3xl md:text-4xl font-bold">
-              Transforme sua Criação de Conteúdo
-            </h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Descubra ferramentas poderosas de IA para design, copywriting, vídeo, automação de e-mail, análise de dados e muito mais. Tudo que você precisa para levar seu conteúdo ao próximo nível.
-            </p>
-            <Button size="lg" variant="default" className="h-12 px-8 shadow-md" asChild>
-              <Link href="/ferramentas">
-                Explorar Ferramentas <ArrowRight className="ml-2 h-5 w-5" />
+      {/* Categories Grid */}
+      <section className="py-12">
+        <h2 className="text-2xl font-bold mb-8 flex items-center gap-2">
+          <span className="w-1 h-8 bg-primary rounded-full"></span>
+          Navegue por Categorias ({categories.length})
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {categories.map((cat) => {
+            const Icon = cat.icon;
+            
+            return (
+              <Link key={cat.id} href={`/categoria/${cat.id}`}>
+                <div className={`group h-full p-6 rounded-xl border transition-all hover:shadow-lg hover:-translate-y-1 cursor-pointer ${cat.bg}`}>
+                  <div className={`w-12 h-12 rounded-lg flex items-center justify-center mb-4 bg-white dark:bg-background shadow-sm group-hover:scale-110 transition-transform ${cat.color}`}>
+                    <Icon className="h-6 w-6" />
+                  </div>
+                  <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">
+                    {cat.name}
+                  </h3>
+                  <p className="text-muted-foreground text-sm mb-4">
+                    {cat.count} prompts disponíveis
+                  </p>
+                  <div className="flex items-center text-sm font-medium text-primary opacity-0 group-hover:opacity-100 transition-opacity -translate-x-2 group-hover:translate-x-0 duration-300">
+                    Explorar <ArrowRight className="ml-1 h-4 w-4" />
+                  </div>
+                </div>
               </Link>
-            </Button>
-          </div>
+            );
+          })}
         </div>
       </section>
 
-      {/* Benefits Section */}
+      {/* Featured Prompts */}
       <section className="py-12 border-t">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-12">
-            Por que usar Ferramentas de IA?
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="text-center space-y-3">
-              <div className="w-16 h-16 mx-auto bg-primary/10 rounded-full flex items-center justify-center">
-                <Sparkles className="h-8 w-8 text-primary" />
-              </div>
-              <h3 className="text-xl font-bold">Produtividade</h3>
-              <p className="text-muted-foreground">
-                Crie conteúdo profissional em minutos, não em horas
-              </p>
-            </div>
-            <div className="text-center space-y-3">
-              <div className="w-16 h-16 mx-auto bg-purple-500/10 rounded-full flex items-center justify-center">
-                <Wrench className="h-8 w-8 text-purple-500" />
-              </div>
-              <h3 className="text-xl font-bold">Qualidade</h3>
-              <p className="text-muted-foreground">
-                Ferramentas profissionais usadas por grandes marcas
-              </p>
-            </div>
-            <div className="text-center space-y-3">
-              <div className="w-16 h-16 mx-auto bg-green-500/10 rounded-full flex items-center justify-center">
-                <ArrowRight className="h-8 w-8 text-green-500" />
-              </div>
-              <h3 className="text-xl font-bold">Resultados</h3>
-              <p className="text-muted-foreground">
-                Aumente engajamento e conversões com IA
-              </p>
-            </div>
+        <div className="flex justify-between items-end mb-8">
+          <div>
+            <h2 className="text-2xl font-bold mb-2 flex items-center gap-2">
+              <Star className="h-6 w-6 text-yellow-500 fill-yellow-500" />
+              Destaques da Semana
+            </h2>
+            <p className="text-muted-foreground">Prompts populares que estão gerando resultados agora.</p>
           </div>
+          <Button variant="ghost" asChild className="hidden sm:flex">
+            <Link href="/categoria/favoritos">Ver todos <ArrowRight className="ml-2 h-4 w-4" /></Link>
+          </Button>
+        </div>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {featuredPrompts.map((prompt) => (
+            <PromptCard key={prompt.id} prompt={prompt} />
+          ))}
+        </div>
+        
+        <div className="mt-8 text-center sm:hidden">
+          <Button variant="outline" asChild className="w-full">
+            <Link href="/categoria/favoritos">Ver todos os destaques</Link>
+          </Button>
         </div>
       </section>
     </Layout>
