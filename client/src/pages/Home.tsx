@@ -123,7 +123,7 @@ export default function Home() {
           <span>970 Prompts Profissionais Disponíveis</span>
         </div>
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent pb-2">
-          Criação de conteúdo com I.A.
+          Conteúdo com IA
         </h1>
         <p className="text-xl text-muted-foreground">
           Uma biblioteca completa de prompts testados e validados para impulsionar seu Instagram, aumentar engajamento e gerar vendas.
