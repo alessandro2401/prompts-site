@@ -22,43 +22,6 @@ export default defineConfig({
   build: {
     outDir: path.resolve(import.meta.dirname, "dist"),
     emptyOutDir: true,
-    rollupOptions: {
-      output: {
-        manualChunks(id) {
-          // Separar dados dos prompts em chunk próprio (~2MB)
-          if (id.includes("prompts.json")) {
-            return "prompts-data";
-          }
-          // Separar streamdown e suas dependências pesadas (mermaid, shiki, cytoscape)
-          if (
-            id.includes("streamdown") ||
-            id.includes("mermaid") ||
-            id.includes("shiki") ||
-            id.includes("cytoscape") ||
-            id.includes("katex") ||
-            id.includes("marked")
-          ) {
-            return "markdown-renderer";
-          }
-          // Separar Radix UI em chunk próprio
-          if (id.includes("@radix-ui")) {
-            return "ui-components";
-          }
-          // Separar React e React DOM
-          if (id.includes("react-dom") || (id.includes("/react/") && id.includes("node_modules"))) {
-            return "react-vendor";
-          }
-          // Separar recharts
-          if (id.includes("recharts") || id.includes("d3-")) {
-            return "charts";
-          }
-          // Separar framer-motion
-          if (id.includes("framer-motion")) {
-            return "animations";
-          }
-        },
-      },
-    },
   },
   server: {
     port: 3000,
