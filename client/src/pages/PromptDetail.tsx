@@ -1,14 +1,18 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, lazy, Suspense } from "react";
 import { useRoute, Link } from "wouter";
 import { ArrowLeft, Copy, Check, Star, Share2, AlertCircle, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Separator } from "@/components/ui/separator";
-import { Streamdown } from 'streamdown';
 import Layout from "@/components/Layout";
 import promptsData from "@/data/prompts.json";
 import { useToast } from "@/hooks/use-toast";
+
+// Dynamic import do Streamdown para evitar carregar mermaid/shiki/cytoscape no bundle principal
+const Streamdown = lazy(() =>
+  import("streamdown").then((mod) => ({ default: mod.Streamdown }))
+);
 
 // Tipos
 type Prompt = {
@@ -28,6 +32,18 @@ type CategoryData = {
 };
 
 type PromptsData = Record<string, CategoryData>;
+
+// Fallback de loading para o markdown renderer
+function MarkdownLoader() {
+  return (
+    <div className="animate-pulse space-y-3">
+      <div className="h-4 bg-muted rounded w-3/4" />
+      <div className="h-4 bg-muted rounded w-full" />
+      <div className="h-4 bg-muted rounded w-5/6" />
+      <div className="h-4 bg-muted rounded w-2/3" />
+    </div>
+  );
+}
 
 export default function PromptDetail() {
   const [match, params] = useRoute("/prompt/:id");
@@ -159,9 +175,11 @@ export default function PromptDetail() {
                 </Button>
               </div>
               <div className="p-6 prose prose-blue max-w-none dark:prose-invert">
-                <Streamdown>
-                  {prompt.conteudo || "Carregando conteúdo..."}
-                </Streamdown>
+                <Suspense fallback={<MarkdownLoader />}>
+                  <Streamdown>
+                    {prompt.conteudo || "Carregando conteúdo..."}
+                  </Streamdown>
+                </Suspense>
               </div>
             </div>
           </div>
